@@ -24,9 +24,8 @@ Could depend on the time of the day) you could then first login and then apply f
 - Niagara uses SLURM as its job scheduler. SLURM is a software that, once installed (already installed and you don’t have to install it), enables several other commands on the bash terminal. Example of the commands:
 
     - $ **sbatch** launch_script.sh -- This is to launch your scripts on the cloud. You have to specify the resources needed, load all packages needed, move to specific directories on the linux system, and launch your command with **srun** followed by your normal way of launching your script. (e.g. srun python your_python.py --my_param param). All these commands should be specified inside the launch_script.sh script which you have to create.
- 
-- $**scancel** 88000 (replace 88000 with the ID of your running job on the cluster to cancel it).
-- squeue --user YOUR_ID (to see all your running or awaiting jobs on the cluster).
+    - $**scancel** 88000 (replace 88000 with the ID of your running job on the cluster to cancel it).
+    - squeue --user YOUR_ID (to see all your running or awaiting jobs on the cluster).
 - According to Compute Canada, it is preferable to use virtualenv to create your virtual environment instead of conda.
 - Those are 2 links that contain almost everything you need to know on how to login to Niagara nodes (servers) via terminal (bash terminal), and how to launch your jobs (scripts) via sbatch:
     - https://docs.scinet.utoronto.ca/index.php/Niagara_Quickstart
@@ -34,13 +33,14 @@ Could depend on the time of the day) you could then first login and then apply f
 jobs
 - To move your data to Niagara nodes, you could move them through command line via scp (e.g. scp myfile.py yourlogin@niagara.scinet.utoronto.ca:PATH_ON_NODE) or rsync on command line. You could also use FileZilla or other FTP clients on your local machines to transfer files.
 Here is an example of how I transfered launch_script file from my personal computer to Niagara node:
-    Where you should replace fathanab with your own user id.
-● Under Niagara, all open source software is available and could be installed. There is
-also the possibility to install commercial software such as MATLAB, all you need is a
-licence. They could also help you install it if you provide a licence).
-● To login:
+    ![](Picture4.png)
 
-  ● Example of creating a script launch_script.sh and running a python file through it using sbatch​.
+    Where you should replace fathanab with your own user id.
+- Under Niagara, all open source software is available and could be installed. There is
+also the possibility to install commercial software such as MATLAB, all you need is a licence. They could also help you install it if you provide a licence).
+- To login:
+    ![](Picture5.png)
+- Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
 #!/bin/bash
 #SBATCH --job-name=RLTest
 #SBATCH --mail-user=abderrahim.fathan@gmail.ca #SBATCH --ntasks=1
@@ -49,25 +49,26 @@ licence. They could also help you install it if you provide a licence).
 #SBATCH --output=/scratch/e/edelage/fathanab/output.txt #SBATCH --time=1:00:00
 #SBATCH --gres=gpu:TitanX:1
 srun python python_test.py
-Once you run: $ ​sbatch launch_script.sh
+Once you run: $ **sbatch launch_script.sh**
 It will run your python_test.py file and it’s output will be logged in the output.txt file. You could of course customize it, and save results (figures, arrays) using other commands.
 
-In the above ● ●
-● ● ●
-Once sbatch
-file:
-RLTest will be the name of my task (arbitrary value).
-Provide your email to receive notification once your script finishes running.
-You provide how many tasks and how much memory per task and how many CPUs to use per task.
---time is for the time allowed for your script to run, otherwise it will be 15 minutes by default and your script will be stopped.
-You could also request to use a gpu: Its type and how many.
-run and during execution of your task, you could check its status:
- You could also check the intermediate results and output of your commands logged in output.txt
-Example of other commands possible:
-○ $ srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook
---inplace --execute test_srun.ipynb
-○ $ srun python autoencoder.py
+    In the above file:
+    - RLTest will be the name of my task (arbitrary value).
+    - Provide your email to receive notification once your script finishes running.
+    - You provide how many tasks and how much memory per task and how many CPUs to use per task.
+    - --time is for the time allowed for your script to run, otherwise it will be 15 minutes by default and your script will be stopped.
+    - You could also request to use a gpu: Its type and how many.
+    Once sbatch run and during execution of your task, you could check its status:
+    ![](Picture6.png)
+    
+    You could also check the intermediate results and output of your commands logged in output.txt
+    ![](Picture7.png)
+    ![](Picture8.png)
+    Example of other commands possible:
+    - $ srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
+    - $ srun python autoencoder.py
 /lu/bf_scratch/multi/datasets/Agriculture-Vision/agri_v3.hdf5 /lu/fast_scratch/multi/landryda/data/agri/runs/autoencoder-labeller/$RUN_NAME -n-epoch 20 -batch-size 2 -image-every-n 50 -learning-rate-labeller 1e-2 -learning-rate-encoder 1e-2 -batch-limit 50
+
 
 # Access to Special Software
 
