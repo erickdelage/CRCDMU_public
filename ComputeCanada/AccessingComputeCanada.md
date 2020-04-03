@@ -39,7 +39,9 @@ Here is an example of how I transfered launch_script file from my personal compu
 - Under Niagara, all open source software is available and could be installed. There is
 also the possibility to install commercial software such as MATLAB, all you need is a licence. They could also help you install it if you provide a licence).
 - To login:
+
     ![](Picture5.png)
+    
 - Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
 #!/bin/bash
 #SBATCH --job-name=RLTest
@@ -59,11 +61,14 @@ It will run your python_test.py file and it’s output will be logged in the out
     - --time is for the time allowed for your script to run, otherwise it will be 15 minutes by default and your script will be stopped.
     - You could also request to use a gpu: Its type and how many.
     Once sbatch run and during execution of your task, you could check its status:
+    
     ![](Picture6.png)
     
     You could also check the intermediate results and output of your commands logged in output.txt
+    
     ![](Picture7.png)
     ![](Picture8.png)
+    
     Example of other commands possible:
     - $ srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
     - $ srun python autoencoder.py
