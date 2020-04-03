@@ -5,7 +5,7 @@ https://www.computecanada.ca/research-portal/account-management/apply-for-an-acc
 - While creating your account you will need to provide the CCRI of Erick which is:
 iee-073-01
 Erick will then receive an email to approve your membership.
-- One, your account is approved (which takes a few minutes for someone to approve.
+- Once your account is approved (which takes a few minutes for someone to approve.
 Could depend on the time of the day) you could then first login and then apply for access to Niagara cluster (a cloud) by clicking on “Request access to legacy clusters”.
 
     ![](Picture1.png)
