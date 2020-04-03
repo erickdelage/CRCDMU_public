@@ -8,7 +8,7 @@ Erick will then receive an email to approve your membership.
 ● One, your account is approved (which takes a few minutes for someone to approve.
 Could depend on the time of the day) you could then first login and then apply for access to Niagara cluster (a cloud) by clicking on “Request access to legacy clusters”.
 
-![](./Picture1.png)
+![](./Picture2.png)
 
 
 
