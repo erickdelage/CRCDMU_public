@@ -34,11 +34,11 @@ Could depend on the time of the day) you could then first login and then apply f
     - $ **squeue** -u <username> -t PENDING (Lists all pending jobs for a user).
     
 - According to Compute Canada, it is preferable to use virtualenv to create your virtual environment instead of conda. Using conda on compute Canada is possible but often presents difficulties to use and is not optimised.
-- Those are 2 links that contain almost everything you need to know on how to login to Niagara nodes (servers) via terminal (bash terminal), and how to launch your jobs (scripts) via sbatch:
+- Those are 2 links that contain almost everything you need to know on how to login to Niagara nodes (servers) via terminal (bash terminal), and how to run your jobs (scripts) via sbatch:
     - https://docs.scinet.utoronto.ca/index.php/Niagara_Quickstart
     - https://docs.scinet.utoronto.ca/index.php/Niagara_Quickstart#Submitting_
 jobs
-- To move your data to Niagara nodes, you could move them through command line via scp (e.g. scp myfile.py yourlogin@niagara.scinet.utoronto.ca:PATH_ON_NODE) or rsync on command line. You could also use FileZilla or other FTP clients on your local machines to transfer files.
+- To move your data to Niagara nodes, you could move them through command line via scp (e.g. **scp** myfile.py your_username@niagara.scinet.utoronto.ca:PATH_ON_NODE) or rsync on command line. You could also use FileZilla or other FTP clients on your local machines to transfer files.
 Here is an example of how I transfered launch_script file from my personal computer to Niagara node:
     ![](Picture4.png)
 
@@ -95,6 +95,6 @@ Here's some links provided by Compute Canada for each one of them:
 
 In case you need technical assistance or you don't find your available version, you could contact the Niagara/Compute Canada support teams to have it installed for you: 
 
-support@scinet.utoronto.ca
-niagara@computecanada.ca
+    - support@scinet.utoronto.ca
+    - niagara@computecanada.ca
 
