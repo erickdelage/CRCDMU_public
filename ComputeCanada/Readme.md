@@ -18,6 +18,7 @@ Could depend on the time of the day) you could then first login and then apply f
     You click on the “Join” button to get a membership.
     They say it takes between 1 and 2 days to have your account created. In my case it only took 3 hours to receive the confirmation email. So, it is quick.
     You will then finally be able to use the resources.
+    
     Note that this will also automatically grant you access to other clusters such as Cedar, Graham, or Béluga.
 
 - You should have some minimal understanding of the Linux operating system to be able to use its bash system to use the command line.
