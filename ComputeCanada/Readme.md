@@ -103,9 +103,40 @@ You could also check the intermediate results and output of your commands logged
 - For easy access with ssh (password-less access):
 
         $ ssh-keygen #To generate your keys
-        $ ssh-copy-id username@niagara.scinet.utoronto.ca # Or
+        $ ssh-copy-id username@niagara.scinet.utoronto.ca #To copy your key to the remote server
   
-  You can now use ssh without having to enter a password
+  You can now use ssh without having to enter a password.
+  
+- Using Tensorflow:
+
+        $ module load python/3.6
+        $ virtualenv $HOME/jupyter_py3
+        $ source $HOME/jupyter_py3/bin/activate
+        $ pip install --no-index tensorflow_gpu # you could specify your specific version here
+        $ pip install jupyter notebook #Optional for useful use of jupyter remotely (Debug, etc.)
+        $ echo -e '#!/bin/bash\nunset XDG_RUNTIME_DIR\njupyter notebook --ip $(hostname -f) --no-browser' > $VIRTUAL_ENV/bin/notebook.sh
+        $ chmod u+x $VIRTUAL_ENV/bin/notebook.sh
+        
+  On Niagara cluster, if you still need to use conda or you experience problems using Tensorflow or using a specific version that is unavailable with pip, you could load Conda and install tensorflow:
+  
+        $ module load anaconda3
+        $ conda create -n tfenv python=3.6
+        $ conda activate tfenv
+        $ conda install -c https://public.dhe.ibm.com/ibmdl/export/pub/software/server/ibm-ai/conda/ tensorflow-gpu==1.14.0
+        $ echo ". /scinet/niagara/software/2018a/opt/base/anaconda3/2018.12/etc/profile.d/conda.sh" >> ~/.bashrc # You may need to adapt to your own path
+        $ locate ~/.bashrc # Optional: If ever you need to locate you bashrc file.
+        
+- Start a jupyter session:
+
+        $ salloc --time=3:0:0 --ntasks=1 --cpus-per-task=2 --mem-per-cpu=1024M --account=def-edelage srun $VIRTUAL_ENV/bin/notebook.sh
+        
+- Start a ssh tunnel to connect to jupyter notebook:
+
+        $ sshuttle --dns -Nr username@cedar.computecanada.ca
+        
+  Now you can go to your browser and use the http address of your session.
+
+
 
 
 # Access to Special Software
