@@ -1,0 +1,1042 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% This Beamer template was created by Cameron Bracken.
+%% Anyone can freely use or modify it for any purpose
+%% without attribution.
+%%
+%% Last Modified: January 9, 2009
+%%
+
+%% Animated presentation
+\documentclass[xcolor=x11names,compress]{beamer}
+% Handout version
+%\documentclass[xcolor=x11names,compress,handout]{beamer}
+%% General document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{cancel}
+\usetikzlibrary{decorations.fractals}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage[mathscr]{euscript}
+\usepackage{epstopdf}
+\usepackage[justification=centering]{caption}
+\usepackage{graphicx,wrapfig,lipsum}
+\usepackage[english]{babel} % English language/hyphenation
+\usepackage{bbding}
+
+
+
+
+\usepackage{forest}
+
+
+
+\tikzset{
+Above/.style={
+  midway,
+  above,
+  font=\scriptsize,
+  text width=1.5cm,
+  align=center,
+  },
+Below/.style={
+  midway,
+  below,
+  font=\scriptsize,
+  text width=1.5cm,
+  align=center
+  }
+}
+\usepackage{natbib}
+\usepackage{epstopdf}
+
+\usepackage{xcolor,colortbl}
+
+\newcommand{\mc}[2]{\multicolumn{#1}{c}{#2}}
+\definecolor{Gray}{gray}{0.85}
+\definecolor{LightCyan}{rgb}{0.88,1,1}
+
+\newcolumntype{a}{>{\columncolor{Gray}}c}
+\newcolumntype{b}{>{\columncolor{white}}c}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{beamerthemeshadow}
+\setbeamertemplate{theorems}[numbered]
+%\usebackgroundtemplate{%
+%\rule{0pt}{\paperheight}%
+% \hspace*{\paperwidth}%
+% \makebox[-30pt][r]{\includegraphics[scale=0.2]{HEC_Montreal_541.eps}}}
+
+
+%% Beamer Layout %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\useoutertheme[subsection=false,shadow]{miniframes}
+\useinnertheme{default}
+\usefonttheme{serif}
+\usepackage{palatino}
+
+\setbeamerfont{title like}{shape=\scshape}
+\setbeamerfont{frametitle}{shape=\scshape}
+%\setbeamercovered{highly dynamic}
+
+
+\setbeamercolor*{lower separation line head}{bg=DeepSkyBlue4} 
+\setbeamercolor*{normal text}{fg=black,bg=white} 
+\setbeamercolor*{alerted text}{fg=red} 
+\setbeamercolor*{example text}{fg=black} 
+\setbeamercolor*{structure}{fg=black} 
+%\setbeamertemplate{headline}{\scriptsize{\vspace*{0.3cm}\hspace*{0.3cm}\insertframenumber}} 
+
+\setbeamercolor*{palette tertiary}{fg=black,bg=black!10} 
+\setbeamercolor*{palette quaternary}{fg=black,bg=black!10} 
+
+\renewcommand{\(}{\begin{columns}}
+\renewcommand{\)}{\end{columns}}
+\newcommand{\<}[1]{\begin{column}{#1}}
+\renewcommand{\>}{\end{column}}
+\newcounter{saveenumi}
+\newcommand{\seti}{\setcounter{saveenumi}{\value{enumi}}}
+\newcommand{\conti}{\setcounter{enumi}{\value{saveenumi}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{darkgreen}{rgb}{7,55,113}
+
+\beamertemplatenavigationsymbolsempty
+
+\def\Expect{{\mathbb E}}
+\def\Prob{{\mathbb P}}
+\def\minimize{\mathop{\rm minimize}}
+\def\maximize{\mathop{\rm maximize}}
+%\def\subto{{\rm subject \mbox{ }\rm to}}
+\def\subto{{\rm s. \mbox{ }\rm t.}}
+\def\min{\mathop{\rm min}}
+\def\max{\mathop{\rm max}}
+\def\argmax{\mathop{\rm argmax}}
+\def\argmin{\mathop{\rm argmin}}
+\def\sup{\mathop{\rm sup}}
+\def\inf{\mathop{\rm inf}}
+\newcommand{\ie}{{\it i.e., }}
+\newcommand{\eg}{\textit{e.g.}}
+\newcommand{\V}[1]{{{\boldsymbol #1}}}
+\newcommand{\x}{\V{x}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\e}{\V{e}}
+\newcommand{\0}{\V{0}}
+\newcommand{\1}{\V{1}}
+\newcommand{\Dist}{\mathcal{D}}
+\newcommand{\mymbox}[1]{\mbox{\scriptsize #1}}
+\renewcommand{\Re}{\mathbb{R}}
+\newcommand{\quoteIt}[1]{``#1''}
+\newcommand{\support}[1]{\1_{[#1]}}
+\newcommand{\Halmos}{{\qed}}
+\newcommand{\eye}{{I}} %I matrix
+
+
+\newcommand{\EDmodified}[1]{{\color{red} #1}}
+\newcommand{\EDcomments}[1]{{\EDmodified{Erick commented: #1}}}
+%\newcommand{\EDcomments}[1]{{}}
+\newcommand{\modified}[1]{{\color{blue} #1}}
+\newcommand{\removed}[1]{{}}
+
+
+\def\Normal{\mathcal{N}}
+\newcommand{\matQ}{{\V{Q}}}
+\newcommand{\matP}{{\V{P}}}
+\newcommand{\myxi}{\V{\zeta}}
+\newcommand{\mymu}{\V{\mu}}
+\newcommand{\Support}{\mathcal{S}}
+\newcommand{\Loss}{\mathcal{L}}
+\newcommand{\Y}{\mathcal{Y}}
+\newcommand{\f}{{F}}
+\newcommand{\g}{{G}}
+\newcommand{\D}{\mathcal{D}}
+\def\etal{\emph{et al}.}
+
+
+\def\Var{{\mathbf{Var}}}
+\def\transp{\mathsf{T}}
+\newcommand{\K}{\mathcal{K}}
+\newcommand{\Z}{\mathcal{Z}}
+\newcommand{\sign}{\mathop{\bf sign}}
+\newcommand{\util}{{\mbox{\footnotesize $\mathbf{\mathscr{U}}$}}}
+\setbeamertemplate{navigation symbols}{}
+\newcommand{\ConvexHull}{\mathop{CvxHull}}
+\newcommand{\trace}{\mathop{trace}}
+\newcommand{\tQ}{\tilde{Q}(x)}
+\newcommand{\tq}{\tilde{c}(x)}
+\newcommand{\tA}{\tilde{A}}
+\newcommand{\tb}{\tilde{b}}
+%\newcommand{\ty}{\tilde{y}}
+%\newcommand{\tY}{\tilde{Y}}
+\newcommand{\ty}{\tilde{z}}
+\newcommand{\tY}{\tilde{Z}}
+\newcommand{\ttQ}{\bar{Q}(x)}
+\newcommand{\ttq}{\bar{c}(x)}
+\newcommand{\ttA}{\bar{A}}
+\newcommand{\ttb}{\bar{b}}
+\newcommand{\tty}{\bar{y}}
+\newcommand{\ttY}{\bar{Y}}
+\newcommand{\tw}{\tilde{w}}
+\newcommand{\tv}{\tilde{v}}
+\newcommand{\tW}{\tilde{W}}
+\newcommand{\ttw}{\bar{w}}
+\newcommand{\ttv}{\bar{v}}
+\newcommand{\ttW}{\bar{W}}
+\newcommand{\N}{\mathcal{N}}
+\newcommand{\copconeCompPos}{\mathcal{K}_{\mymbox{CP}}}
+\newcommand{\copconeCopos}{\mathcal{K}_{\mymbox{Cop}}}
+\newcommand{\PSDCone}{\mathcal{K}_{\mymbox{PSD}}}
+
+
+\newtheorem{proposition}[theorem]{Proposition:}
+
+\setbeamerfont{page number in head/foot}{size=\small}
+\setbeamertemplate{footline}[frame number]
+
+
+
+%\abstract{
+%Linearized Robust Counterparts of Two-Stage Distribution Problems
+%
+%We study two-stage distribution problems wherein some (explicit or implicit) decisions are implemented only once the demand for products has been revealed. Since the robust optimization formulation of this problem is computationally intractable we propose a conservative tractable approximation scheme for this problem based on linearizing the cross terms that appears due to the recourse problem. We relate this new scheme to methods that are based on exploiting affine decision rules. Furthermore, we show that our proposed method can be exploited to provide exact solutions in a family of robust multi-item newsvendor problem. Using a robust facility location problem, we also show how our proposed method can be used to derive conservative approximations that are tighter than existing tractable methods. This is joint work with my PhD student Amir Ardestani-Jaafari.
+%}
+
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \section{\scshape Introduction}
+\begin{frame}
+
+\centering
+%    \includegraphics[scale=0.5]{HECMontreal_noir.eps}
+\title{Linear \& Conic Programming Reformulations of Two-Stage Robust Linear Programs}
+\subtitle{}
+\author{
+Erick Delage\\
+CRC in decision making under uncertainty\\
+Department of Decision Sciences\\
+HEC Montr\'{e}al\\
+\vspace{0.5 cm}
+	{\small (joint work with Amir Ardestani-Jaafari)\\(special thanks to Samuel Burer)}\\
+	%{\it }\\
+}
+\date{
+	July 5th, 2017
+}
+\titlepage
+ \includegraphics[height=0.25in]{HEC_Montreal_541.eps}\hspace{0.3\textwidth} \includegraphics[height=0.25in]{gerad-vector-logo2.png}
+\end{frame}
+%\addtocounter{framenumber}{-1}
+\setbeamertemplate{footline}[frame number]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Introduction]{\scshape Introduction}
+\subsection[ ]{\scshape  }
+
+\removed{
+\begin{frame}{A Classical Distribution Problem}
+ 
+\begin{itemize}
+\item A multinational retailing corporation wishes to construct new warehouses 
+\end{itemize} 
+ \includegraphics[width=\textwidth]{LausanneFacLoc.pdf}
+\end{frame}
+
+\begin{frame}{A Classical Distribution Problem}
+ 
+\begin{enumerate}
+\item[1.] Choose where to build the new warehouses
+\end{enumerate} 
+ \includegraphics[width=\textwidth]{LausanneFacLoc2.pdf}
+\end{frame}
+
+\begin{frame}{A Classical Distribution Problem}
+ 
+\begin{enumerate}
+\item[2.] Observe amount of weekly demand
+\end{enumerate} 
+ \includegraphics[width=\textwidth]{LausanneFacLoc3.pdf}
+\end{frame}
+
+%\begin{frame}{A Classical Distribution Problem}
+% 
+%\begin{enumerate}
+%\item[3.] Transport goods to retailers to maximize profits
+%\end{enumerate} 
+% \includegraphics[width=\textwidth]{LausanneFacLoc4.pdf}
+%\end{frame}
+%
+}
+
+\begin{frame}{A Classical Distribution Problem}
+
+\begin{itemize}
+\item Facility location-transportation model
+\end{itemize} 
+\begin{eqnarray*}
+\maximize_{I\in\{0,1\}^n,x,Y\geq 0} &&\eta\overbrace{\sum_i\sum_j Y_{ij}}^{{\color{blue}sold\;product}}-\left(\overbrace{c^T x+ K^TI}^{{\color{blue}location\;cost}}+\overbrace{\sum_i\sum_j (p_i+t_{ij})Y_{ij}}^{{\color{blue}transportation \& production\;cost}}\right)\\
+\subto &&\sum_j Y_{ij}\le x_i \;,\,\forall\,i,\;\;\;\;\;\;\;\;\;(Capacity\;\;constraint)\\
+&&\sum_i Y_{ij} \le {\color{blue} d_j}\,,\,\forall\,j,\;\;(Demand\;\;constraint)\\
+&& x_i \leq MI_i \;,\,\forall\,i,\;\;\;\;\;\;\;\;\;(Facility\; Size \;\;constraint)
+\end{eqnarray*}
+
+\pause \centerline{{\color{blue} \Large How can one account for demand uncertainty?}}
+
+\end{frame}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Robust Optimization Is Now a Well Established Methodology}
+
+%\includegraphics[height=5.6cm]{drawI.png}\includegraphics[height=5.6cm]{drawII.png}
+\includegraphics[width=1.1\textwidth]{ROcitations.pdf}
+
+\end{frame}
+
+
+
+
+\begin{frame}{A Classical Robust Distribution Problem}
+
+\begin{itemize}
+\item Robust Facility location-transportation  model:
+\begin{eqnarray*}
+\maximize_{I\in\{0,1\}^n,x} &&{\color{blue} \min_{d\in\D} }\;h(I,x,{\color{blue} d})\\
+\subto&& x_i \leq MI_i \;,\,\forall\,i,\;\;\;\;\;\;\;\;\;(Facility\; Size \;\;constraint)
+\end{eqnarray*}
+where $h(I,x,d)$ is the optimal value of
+\end{itemize}
+\begin{eqnarray*}
+\vspace{-0.5cm}\max_{Y\geq0} && \eta\overbrace{\sum_i\sum_j Y_{ij}}^{{\color{blue}sold\;product}}-\left(\overbrace{c^T x + K^TI}^{{\color{blue}location\;cost}}+\overbrace{\sum_i\sum_j (p_i+t_{ij})Y_{ij}}^{{\color{blue}transportation \& production\;cost}}\right)\\
+\subto &&\sum_j Y_{ij}\le x_i \;,\,\forall\,i,\;\;\;\;\;\;\;\;\;(Capacity\;\;constraint)\\
+&&\sum_i Y_{ij} \le d_j\,,\,\forall\,j,\;\;(Demand\;\;constraint)
+\end{eqnarray*}
+
+
+
+\end{frame}
+
+
+
+
+%\begin{frame}{Introduction}
+%\begin{itemize}
+%\item A
+%\end{itemize}
+%\end{frame}
+
+
+
+   
+
+
+   \begin{frame}
+        \frametitle{Outline}
+%\vspace{0.5cm}        
+\tableofcontents[hidesubsections]
+   \end{frame}
+
+%   \begin{frame}
+ %       \frametitle{Table of Contents}
+%\tableofcontents[currentsection,hideothersubsections]
+ %  \end{frame}
+
+
+\AtBeginSection[]
+{
+   \begin{frame}
+        \frametitle{Outline}
+      \tableofcontents[currentsection,hidesubsections]
+   \end{frame}
+}
+
+\section[Background]{\scshape Background on Two-Stage Robust Linear Programs}
+\subsection[ ]{\scshape  }
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Static Robust Linear Program\\\footnotesize [Ben-Tal \& Nemirovski (2000), 1296 citations !]}
+\begin{itemize}
+\item Consider the following static problem:
+\begin{subequations}\label{SRO}
+\begin{eqnarray}
+\maximize_{x\in\X,y}&&c^Tx+f^Ty\\
+\subto &&Ax+By\le D(x) z\;,\;\forall z\in\Z\,
+\end{eqnarray}
+\end{subequations}
+where we assume $n_x+n_y$ decision variables, $J$ constraints, and $m$ uncertain parameters.
+\pause\item If $\Z:=\{z\in\Re^m\,|\,z\geq 0,\,Pz=q\}$ is a non-empty polyhedral set defined by $K$ constraints, then  
+\begin{eqnarray*}
+\mbox{Problem \eqref{SRO}} \;\;\equiv\;\; \maximize_{x\in\X,y,\Lambda}&&c^Tx+f^Ty\\
+\subto &&Ax+By +\Lambda q \leq 0\\
+&& D(x)+ \Lambda P \geq 0\,,
+\end{eqnarray*}
+where $\Lambda\in\Re^{J\times K}$.
+\end{itemize}
+%(Bertsimas and Sim (2004)) 
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Two-Stage Robust Linear Programs\\{\footnotesize [Ben-Tal et al. (2004), 824 citations !]}}
+\begin{itemize}
+\item Consider the following two-stage problem:
+\begin{eqnarray*}
+(TSRLP) \;\;\;\;\;\;\maximize_{x\in\X,y(\cdot)}&&\min_{z\in\Z} c^Tx+f^Ty(z)\\
+\subto &&Ax+By(z)\le D(x) z\;\forall z\in\Z\,
+\end{eqnarray*}
+where $y:\Re^m\rightarrow \Re^{n_y}$
+%
+\pause\item This problem can also be represented as
+\begin{eqnarray*}\label{TSRO}
+(TSRLP) \;\;\;\;\;\;\maximize_{x\in\X}&& \min_{z\in\Z}\,h(x,z)\;\;\;\;\;\;\;\;\;\;\;\;
+\end{eqnarray*}
+where
+\begin{eqnarray*}
+h(x,z):= \max_{y}&& c^Tx + f^Ty\\
+\subto &&Ax+By\le D(x) z\,.
+\end{eqnarray*}
+\end{itemize}
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Complexity of Two-Stage Robust Linear Programs}
+
+\begin{itemize}
+\item Unfortunately, the  two-stage robust linear program
+%\begin{eqnarray}\label{TSRO}
+%(TSRLP) \;\;\;\;\;\;\maximize_{x\in\X}&& \min_{z\in\Z}\,h(x,z)\;\;\;\;\;\;\;\;\;\;\;\;
+%\end{eqnarray}
+%where
+%\begin{eqnarray*}
+%h(x,z):= \max_{y}&& c^Tx + f^Ty\\
+%\subto &&Ax+By\le D(x) z\,.
+%\end{eqnarray*}
+is known to be intractable in general {\footnotesize [Ben-Tal et al. (2004)].}
+\pause\vspace{0.3cm}\item Conservative approximation obtained by using affine adjustment functions : \[y(z):=y+Yz\]
+The two-stage robust problem reduces to
+%\begin{subequations}
+\begin{eqnarray*}
+(AARC) \;\;\;\maximize_{x\in\X,y,Y}&&\;\min_{z\in\Z} \;c^Tx+ f^T(y+Yz)\\
+\subto &&Ax+B(y+Yz)\le D(x)z\;\forall z\in\Z
+\end{eqnarray*}
+%\end{subequations}
+\pause\vspace{0.1cm}\item Some exact methods have been proposed but without polynomial time convergence guarantees
+{\footnotesize [Zeng \& Zhao (2013)]}
+\end{itemize}
+
+
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{frame}{Tractable approximation (static policy)}
+%\begin{center}
+%\includegraphics[height=4.5cm]{Drawing1.png}
+%\end{center}
+%Performance of static solutions in two-stage adjustable robust linear optimization by Bertsimas, Goyal \& Lu (2015).
+%
+%\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{frame}{Affinely Adjustable Robust Counterpart%\\{\footnotesize [Ben-Tal et al. (2004), 824 citations !]}
+%}
+%\begin{itemize}
+%\item Only consider affine adjustment functions : \[y(z):=y+Yz\]
+%The two-stage robust problem reduces to
+%\begin{subequations}
+%\begin{eqnarray}
+%\maximize_{x\in\X,y,Y}&&\;\min_{z\in\Z} \;c^Tx+ f^T(y+Yz)\\
+%\subto &&Ax+B(y+Yz)\le D(x)z\;\forall z\in\Z
+%\end{eqnarray}
+%\end{subequations}
+%\pause\vspace{-0.5cm}\item This model can be reformulated as
+%\begin{subequations}\label{AARC:reform}
+%\begin{eqnarray}
+%\maximize_{x\in\X,y,Y,\lambda,\Lambda}&&\;\;c^Tx+ f^T y - q^T\lambda \\
+%\subto && Y^Tf+P^T\lambda \geq 0\\
+%&&Ax+By+\Lambda q\le 0\\
+%&& D(x)-BY+\Lambda P \geq 0
+%\end{eqnarray}
+%\end{subequations}
+%%Bertsimas \& $\left(\mbox{Bidkhori (2015), Goyal (2012), Iancu (2010)}\right)$.
+%\end{itemize}
+%\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\begin{frame}{Title}
+%\begin{itemize}
+%\item
+%\end{itemize}
+%\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Copos($\mathcal{K}$) for  TSRLP]{\scshape Copositive Programming Reformulations}
+\subsection[ ]{\scshape  }
+
+%\subsection[ Reformulation for Complete Recourse]{\scshape  Reformulation for Complete Recourse}
+
+%\subsection{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Copositive Programming Reformulation I}
+\begin{itemize}
+\item Assumptions
+\begin{enumerate}
+\item $\mathcal{Z}$ is a non-empty and bounded polyhedral set
+\item The TSRLP problem is bounded above, i.e. $\forall\,x\in\mathcal{X},\,\exists z\in\mathcal{Z}\,,\,h(x,z)<\infty$.
+\end{enumerate}
+\pause\vspace{0.25cm}\item Let our robust optimization problem take the form
+\[ \maximize_{x\in\X} \;\;\;\;\;\;\psi(x)\;,\]
+where
+\begin{subequations}\label{eq:psiProb}
+\begin{eqnarray}
+\psi(x) \;:=\; \min_{z\in\Z}\;\;\;\;\max_y&&c^Tx+f^Ty\\
+\subto&&Ax+By\le D(x)z \label{eq:recourseC1}
+\end{eqnarray}
+\end{subequations}
+\pause\vspace{-0.5cm}\item Since \eqref{eq:psiProb} is bounded, strong LP duality applies
+\begin{eqnarray*}
+\psi(x) \;=\;\min_{z\in\Z,\lambda\geq 0} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\\
+&&B^T\lambda=f
+\end{eqnarray*}
+\end{itemize}
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Copositive Programming Reformulation I}
+\begin{itemize}
+\item The function $\psi(x)$ minimizes a non-convex quadratic function over a polyhedron in the non-negative orthant
+%\begin{eqnarray*}
+%\psi(x) \;=\;\min_{z\geq 0,\lambda\geq 0} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\\
+%&&B^T\lambda=f\\
+%&& Pz = q\,.
+%\end{eqnarray*}
+\begin{eqnarray*}
+\psi(x) \;=\;\min_{\ty\geq 0} &&c^Tx+ \ty^T \tQ \ty-\tq^T\ty\\
+&&\tA \ty= \tb\,,
+\end{eqnarray*}
+where $\ty:=[\lambda^T \;\;\;z^T]\in\Re^{J+m}$ and where
+\begin{align*}
+\tQ &:= \left[\begin{array}{cc}0 & (1/2)D(x) \\ (1/2)D(x)^T & 0  \end{array}\right] & \tq &:= \left[\begin{array}{c} -(1/2)A x\\ 0\end{array}\right]\\
+\tA &:= \left[\begin{array}{cccc}B^T & 0 \\ 0 &P \end{array}\right] & \tb &:= \left[\begin{array}{c}d \\ q\end{array}\right]
+\end{align*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Copositive Programming Reformulation I}
+\begin{itemize}
+\item The function $\psi(x)$ minimizes a non-convex quadratic function over a polyhedron in the non-negative orthant
+%\begin{eqnarray*}
+%\psi(x) \;=\;\min_{z\geq 0,\lambda\geq 0} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\\
+%&&B^T\lambda=f\\
+%&& Pz = q\,.
+%\end{eqnarray*}
+\begin{eqnarray*}
+\psi(x) \;=\;\min_{\ty\geq 0} &&c^Tx+  {\color{blue} \trace(\tQ^T \ty\ty^T)}-\tq^T\ty\\
+&&\tA \ty= \tb\\
+&&{\color{blue} \tA \ty\ty^T= \tb\ty^T}\,,
+\end{eqnarray*}
+where $\ty:=[\lambda^T \;\;\;z^T]\in\Re^{J+m}$ and where
+\begin{align*}
+\tQ &:= \left[\begin{array}{cc}0 & (1/2)D(x) \\ (1/2)D(x)^T & 0  \end{array}\right] & \tq &:= \left[\begin{array}{c} -(1/2)A x\\ 0\end{array}\right]\\
+\tA &:= \left[\begin{array}{cccc}B^T & 0 \\ 0 &P \end{array}\right] & \tb &:= \left[\begin{array}{c}d \\ q\end{array}\right]
+\end{align*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Copositive Programming Reformulation I}
+\begin{itemize}
+\item The function $\psi(x)$ has an equivalent convex optimization reformulation (${\color{blue} \tY := \ty\ty^T}$) {\footnotesize [Burer (2009)]}
+\begin{eqnarray*}
+\psi(x) \;=\;\min_{{\color{blue} \tY},\ty} &&c^Tx+ \trace(\tQ^T {\color{blue} \tY})-\tq^T\ty\\
+&&\tA \ty= \tb\\
+&&\tA {\color{blue} \tY}= \tb\ty^T\\
+&& {\color{blue} \left[\begin{array}{cc} \tY & \ty\\ \ty^T & 1\end{array}\right] \in \copconeCompPos} \;\;\&\;\;{\color{blue} \mbox{rank}\left( \left[\begin{array}{cc} \tY & \ty\\ \ty^T & 1\end{array}\right]\right)=1}
+\end{eqnarray*}
+where  $\copconeCompPos$ is the cone of completely positive matrices, i.e.
+%\[\copconeCompPos := \left\{ M  \,\middle|\, M = \sum_{k\in K} z_k z_k^T \mbox{ for some } \{ z_k \}_{k\in K}\subset \Re_+^{J+m+1} \setminus 0\right\}\cup \{0\}\,.\]
+\[\copconeCompPos := \left\{ M  \,\middle|\, M = \sum_{k\in K} \ty_k \ty_k^T \mbox{ for some } \{ \ty_k \}_{k\in K}\subset \Re_+^{J+m+1} \right\}\,.\]
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Copositive Programming Reformulation I}
+\begin{itemize}
+\item The function $\psi(x)$ has an equivalent convex optimization reformulation (${\color{blue} \tY := \ty\ty^T}$) {\footnotesize [Burer (2009)]}
+\begin{eqnarray*}
+\psi(x) \;=\;\min_{{\color{blue} \tY},\ty} &&c^Tx+ \trace(\tQ^T {\color{blue} \tY})-\tq^T\ty\\
+&&\tA \ty= \tb\\
+&&\tA {\color{blue} \tY}= \tb\ty^T\\
+%&& {\color{blue} \left[\begin{array}{cc} \tY & \ty\\ \ty^T & 1\end{array}\right] \in \copconeCompPos}\,,
+&& {\color{blue} \left[\begin{array}{cc} \tY & \ty\\ \ty^T & 1\end{array}\right] \in \copconeCompPos} {\color{white}\;\;\&\;\; \mbox{rank}\left( \left[\begin{array}{cc} \tY & \ty\\ \ty^T & 1\end{array}\right]\right)=1}
+\end{eqnarray*}
+where  $\copconeCompPos$ is the cone of completely positive matrices, i.e.
+%\[\copconeCompPos := \left\{ M  \,\middle|\, M = \sum_{k\in K} z_k z_k^T \mbox{ for some } \{ z_k \}_{k\in K}\subset \Re_+^{J+m+1} \setminus 0\right\}\cup \{0\}\,.\]
+\[\copconeCompPos := \left\{ M  \,\middle|\, M = \sum_{k\in K} \ty_k \ty_k^T \mbox{ for some } \{ \ty_k \}_{k\in K}\subset \Re_+^{J+m+1} \right\}\,.\]
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Copositive Programming Reformulation I}
+\begin{itemize}
+\item By conic duality we get
+\begin{eqnarray*}
+\psi(x)\geq\max_{\tW,\tw,\tv,t} && \tq^T x+ \tb^T\tw - t\\
+\subto && \tv = \tq - (1/2)(\tA^T\tw-\tW^T\tb)\\
+&&\left[\begin{array}{cc} \tQ - (1/2)(\tW^T \tA + \tA^T\tW) & \tv\\ \tv^T & t\end{array}\right]\in \copconeCopos\,,
+\end{eqnarray*}
+where $\copconeCopos$ is the cone of copositive matrices, i.e.
+\[\copconeCopos:=\left\{ M  \,\middle|\, M= M^T,\;z^TMz\geq 0\,,\,\forall\,z\in\Re_+^{J+m+1}\right\}\,.\]
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Copositive Programming Reformulation I}
+
+\begin{theorem}
+\vspace{-0.5cm}\hspace{2.5cm}{\footnotesize [Xu \& Burer (2016), Hanasusanto \& Kuhn (2016)]}\\
+ If the TSRLP problem has \quoteIt{complete recourse}, i.e.
+ \[ \exists\, y\in\Re^{n_y}\,,\,By<0\,,\]
+%\[\forall\,\epsilon>0\,,\,\exists\,y\in\Re^{n_y}\,,\,Ax+By+\epsilon\leq D(x)z\]
+then the copositive program
+\begin{eqnarray*}
+(Copos_1)\;\;\maximize_{x\in\mathcal{X},\tW,\tw,\tv,t} && c^T x+ \tb^T\tw - t\\
+\subto && \tv = \tq - (1/2)(\tA^T\tw-\tW^T\tb)\\
+&&\left[\begin{array}{cc} \tQ - (1/2)(\tW^T \tA + \tA^T\tW) & \tv\\ \tv^T & t\end{array}\right]\in \copconeCopos\,,
+\end{eqnarray*}
+provides an exact reformulation of the TSRLP problem.
+Otherwise, $Copos_1$ only provides a conservative approximation.
+\end{theorem}
+
+%\begin{itemize}
+%\pause\item This implies that there might exist a feasible TSRLP for which $Copos_1$ is an infeasible problem.
+%\end{itemize}
+\end{frame}
+
+%\subsection[Relation to AARC]{\scshape Relation to AARC}
+
+\begin{frame}{Relation to AARC}
+
+\begin{theorem}
+\vspace{-0.5cm}\hspace{2.5cm}{\footnotesize [Xu \& Burer (2016)]}\\
+When  $\copconeCopos$ is replaced with $\N:=\Re_+^{J+m+1\times J+m+1}\subset \copconeCopos$ the copositive programming reformulation is equivalent to AARC.
+\end{theorem}
+
+\begin{itemize}
+\pause\item Hence, for any cone $\mathcal{K}$ such that $\N\subset \mathcal{K} \subset \copconeCopos$, $Copos_1$ with $\mathcal{K}$ provides a tighter approximation than AARC
+\item There exists a hierarchy of semidefinite and polyhedral cones $\{ \mathcal{K}_i \}_{i=1}^\infty$, with  $\N\subseteq \mathcal{K}_1 \subset \mathcal{K}_2 \subset \dots \subset \copconeCopos$, such that for all $M\in \copconeCopos$, there is a $i^*$, $M\in \mathcal{K}_{i^*}$\\
+{\footnotesize [Parrilo (2000), Bomze \& de Klerk (2002)]}
+
+\end{itemize}
+\pause\vspace{0.5cm} This is valuable for complete recourse problems but what about relatively complete recourse problems ?
+
+\end{frame}
+
+%\subsection[Reformulation for Relatively Complete Recourse]{\scshape Reformulation for Relatively Complete Recourse}
+
+%%\begin{frame}{\quoteIt{Quick Fix} for Relatively Complete Recourse}
+%\begin{frame}{How to Fix Relatively Complete Recourse}
+%
+%\begin{itemize}
+%\item Assumption : The TSRLP problem has relatively complete recourse, i.e. 
+%\[\forall\,x\in\mathcal{X}\,\forall\,z\in\mathcal{Z},\, \exists y, Ax + By \leq D(x)z\]
+%\pause\item This assumption ensures that $h(x,z)\in\Re$
+%\pause\item Hence, since 
+%\begin{eqnarray*}
+%h(x,z)\;=\;\min_{\lambda\in\mathcal{P}} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\,,
+%\end{eqnarray*}
+%there must be an optimal solution $\lambda^*(x,z)$ at a vertex of $\mathcal{P}:=\{ \lambda \,|\, \lambda\geq 0,\, B^T\lambda = f \}$
+%\pause\item Since the number of vertices is finite, there must exist a $u$ such that 
+%\end{itemize}
+%\begin{eqnarray*}
+%\psi(x) \;=\;\min_{z\in\mathcal{Z}}h(x,z)\;=\;\min_{z\in\Z,\lambda\in \mathcal{P}} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\\
+%\subto&& {\color{blue}\lambda \leq u}
+%\end{eqnarray*}
+%\end{frame}
+
+
+\begin{frame}{How to Fix Relatively Complete Recourse}
+
+\begin{itemize}
+\item Assumption : The TSRLP problem has relatively complete recourse, i.e. 
+\[\forall\,x\in\mathcal{X}\,\forall\,z\in\mathcal{Z},\, \exists y, Ax + By \leq D(x)z\]
+\pause\vspace{-0.5cm}\item This  ensures that :
+\begin{eqnarray*}
+h(x,z)\;=\;\min_{\lambda} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;\;{\LARGE\color{blue}\in\Re}\\
+\subto && \lambda\in\mathcal{P}:=\{ \lambda \,|\, \lambda\geq 0,\, B^T\lambda = f \}
+\end{eqnarray*}
+\pause\item Hence, always an optimal solution $\lambda^*(x,z)$ at a vertex of $\mathcal{P}$
+\pause\item Since  number of vertices is finite, there exists  $u\in\Re_+^J$:% such that 
+\end{itemize}
+\begin{eqnarray*}
+\psi(x) \;=\;\min_{z\in\mathcal{Z}}h(x,z)\;=\;\min_{z\in\Z,\lambda\in \mathcal{P}} &&c^Tx+ z^TD(x)^T\lambda-(Ax)^T\lambda\\
+\subto&& {\color{blue}\lambda \leq u}
+\end{eqnarray*}
+\end{frame}
+
+%\begin{frame}{Copositive Programming Reformulation II}
+%\begin{itemize}
+%\item The function $\psi(x)$ minimizes a non-convex quadratic function over a polyhedron in the non-negative orthant
+%\begin{eqnarray*}
+%\psi(x) \;=\;\min_{\tty\geq 0} &&c^Tx+ \tty^T \ttQ \tty-\ttq^T\tty\\
+%&&\ttA \tty= \ttb\,,
+%\end{eqnarray*}
+%where $\tty:=[\lambda^T \;\;\;z^T\;\;\;s^T]\in\Re^{2J+m}$ and where
+%\begin{align*}
+%\ttQ &:= \left[\begin{array}{ccc}0 & (1/2)D(x) & 0\\ (1/2)D(x)^T & 0  &0\\ 0 & 0 &0\end{array}\right] & \ttq &:= \left[\begin{array}{c} -(1/2)A x\\ 0\\ 0\end{array}\right]\\
+%\ttA &:= \left[\begin{array}{cccc}B^T & 0 & 0\\ 0 &P & 0\\ \eye & 0 & \eye\end{array}\right] & \ttb &:= \left[\begin{array}{c}d \\ q\\ u\end{array}\right]\,.
+%\end{align*}
+%\end{itemize}
+%\end{frame}
+
+\begin{frame}{Copositive Programming Reformulation II}
+\begin{theorem}
+\vspace{-0.5cm}\hspace{2.5cm}{\footnotesize [revised AJ\&D (2016b)]}\\
+ If the TSRLP problem has \underline{relatively complete recourse}, then the copositive program
+\begin{eqnarray*}
+(Copos_2)\;\;\max_{x\in\mathcal{X},\ttW,\ttw,\ttv,t} && c^T x+ \ttb^T\ttw - t\\
+\subto && \ttv = \ttq - (1/2)(\ttA^T\ttw-\ttW^T\ttb)\\
+&&\left[\begin{array}{cc} \ttQ - (1/2)(\ttW^T \ttA + \ttA^T\ttW) & \ttv\\ \ttv^T & t\end{array}\right]\in \copconeCopos\,,
+\end{eqnarray*}
+provides an exact reformulation of the TSRLP problem.
+\end{theorem}
+
+\end{frame}
+
+%\subsection[Relation to Penalized AARC]{\scshape Relation to Penalized AARC}
+
+\begin{frame}{The Penalized AARC model}
+
+\begin{theorem}
+\vspace{-0.5cm}\hspace{2.5cm}{\footnotesize [revised AJ\&D (2016b)]}\\
+When  $\copconeCopos$ is replaced with $\N$ the $Copos_2$ reformulation is equivalent to applying affine adjustments to:
+\begin{eqnarray*}
+(TSRLP_2) \;\;\;\;\;\;\maximize_{x\in\X,y(\cdot),\theta(\cdot)}&&\min_{z\in\Z} c^Tx+f^Ty(z)-u^T\theta(z)\\
+\subto &&Ax+By(z)\le D(x) z+\theta(z)\;\forall z\in\Z\,.
+\end{eqnarray*}
+Moreover, affine (and static) adjustments are always feasible in $TSRLP_2$.
+\end{theorem}
+
+%Note that
+\begin{itemize}
+\pause\item $u$ can be interpreted as a marginal penalty for violating constraints
+\pause\item $TSRLP_2 \;\equiv\; TSRLP$ since $u$ is such that there always exists an optimal solution triplet with $\theta(z):=0$.
+\pause\item Method for converting a relatively complete recourse multi-stage linear program into a complete recourse one
+\end{itemize}
+\end{frame}
+
+%\subsection[ ]{\scshape  }
+
+\section[Applications]{\scshape Applications}
+\subsection[ ]{\scshape  }
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\subsection[Robust Facility Location-Transportation]{\scshape Robust Facility Location-Transportation}
+%\subsection{}
+
+\removed{
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Robust Facility Location-Transportation Problem}
+\vspace{-.4cm}
+\begin{subequations} \label{Robust-location-transportation}
+\begin{eqnarray*}
+\maximize_{I,x}&&\min_{z\in\mathcal{Z}}\;\;h(I,x,z)\\
+\subto&& x_i\le MI_i,\;\forall\,i,\;I_i\in\{{0,1}\}\;\forall\, i.
+\end{eqnarray*}
+\end{subequations}\\
+where $\mathcal{Z}$ captures demand uncertainty and $h(I,x,z)$ is the achieved net profit defined as 
+\begin{subequations}\label{recourse-function}
+\begin{eqnarray*} 
+h(I,x,z)=\;\maximize_{Y}&&\;\;-(c^T x+K^TI)+\sum_i\sum_j (\eta-p_i-t_{ij})Y_{ij}\\
+\subto&&\sum_i Y_{ij} \le \bar{d_j}+\hat{d_j}{\color{blue} z_j}\,,\,\forall\,j,\\
+&&  \sum_j Y_{ij}\le x_i \;,\,\forall\,i,\\
+&&Y_{ij}\ge 0 \;,\,\forall\,i,\forall\,j.
+\end{eqnarray*}
+\end{subequations}
+
+Note that this problem does not have complete recourse
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Completing the Recourse with Penalties}
+
+\begin{itemize}
+\item One can formulate the penalized recourse problem as
+\end{itemize}
+\begin{eqnarray*} 
+\maximize_{Y,\theta^1,\theta^2,\theta^3}&&-(c^T x+K^TI)+ \sum_i\sum_j (\eta-p_i-t_{ij})Y_{ij} {\color {blue}-\sum_{k=1}^3{u^k}^T\theta^k}\\
+\subto&&\sum_i Y_{ij} \le \bar{d_j}+\hat{d_j}z_j {\color{blue}+\theta^1_j}\,,\,\forall\,j\\
+&&  \sum_j Y_{ij}\le x_i {\color {blue}+\theta_i^2}\;,\,\forall\,i,\\
+&&Y_{ij}\ge 0{\color {blue} -\theta^3_{ij}}\;,\,\forall\,i,\forall\,j\\
+&& {\color{blue}\theta^k \geq 0\,,\,\forall\,k=1,2,3}\;,
+\end{eqnarray*}
+where $u$'s are estimated analytically
+\begin{itemize}
+\item Applying affine adjustments on this penalized model will lead to the Penalized AARC model (PAARC)
+\end{itemize}
+
+\end{frame}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Robust Facility Location-Transportation Problem}
+\begin{itemize}
+\item In AJ\&D (2016b), we identify an instance for which
+\end{itemize}
+\begin{center}
+\vspace{-0.25cm}\begin{table}[htb]
+\centering{}%
+\begin{tabular}{|l|c|c|c|}
+\hline 
+ & AARC & Penalized AARC & Exact  \tabularnewline
+& model & (a.k.a. $Copos_2(\N)$)  &model  \tabularnewline
+ \hline
+Bound on w.-c. profit & 0 & 6600 & 6600\tabularnewline
+W.-c. profit of $x^*$ & 0 & 6600 & 6600\tabularnewline
+\hline 
+\end{tabular}
+\end{table}
+\end{center}
+\begin{itemize}
+\pause\item We recently randomly generated 10 000 problem instances, 5 facilities \& 10 customer locations.
+%$\mathcal{Z}(\Gamma)=\{z|\|z\|_\infty\le1 ,\|z\|_1\le \Gamma\}$ where $\Gamma=1$ to $10$.
+\begin{center}
+\vspace{0.25cm}\begin{table}[htb]
+\small
+\centering{}%
+\begin{tabular}{|c||c|c|}
+%\hline 
+\hline 
+Optimality& \multicolumn{2}{c|}{Proportion of instances}\\
+\cline{2-3} 
+gap  & AARC & Penalized AARC\tabularnewline
+\hline
+%\hline 
+$=0\%$& 20.6\% &23.8\%\tabularnewline
+\hline
+$\;\;\;\leq 0.1\%$ & 20.9\% &27.4\%\tabularnewline
+\hline
+$\leq 1\%$ & 28.4\% & 56.3\%\tabularnewline
+\hline
+\hline
+Avg. Gap& 10.5\% &\;\:1.6\%\tabularnewline
+\hline
+Max Gap & 50.0\% & 13.3\% \tabularnewline
+\hline
+\end{tabular}
+\end{table}
+\par\end{center}
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}{What size problems can we solve ? {\footnotesize [AJ\&D (2017)]}}
+
+\vspace{0.2cm}
+
+{\small
+\centering{}%
+\begin{tabular}{||c||c|c|c|c||}
+%\hline 
+\hline 
+\multirow{2}{*}{(T,L,N)} & \multirow{2}{*}{$\Gamma$}  & \multicolumn{2}{c|}{Penalized AARC} & Exact\tabularnewline
+\cline{3-5}
+& & Full form  & Row generation & C\&CG\\
+\hline 
+\hline 
+\multirow{7}{*}{(1,50,100)} & 10 &   - & 3\,241 sec & 8\,465 sec \tabularnewline
+\cline{2-5} 
+  & 30  & - & 4\,563 sec & - \tabularnewline
+\cline{2-5} 
+   & 50 &  - &  8\,460 sec & -\tabularnewline
+\cline{2-5} 
+   & 70 &  - &  3\,781 sec & 7\,682 sec \tabularnewline
+\cline{2-5} 
+   & 90 &  - &  1\,382 sec & \;\;\;\;\;\;7 sec\tabularnewline
+\cline{2-5} 
+   & 100 &  - &  $\;\;\:<1$ sec & \;\;\;\;\;\;2 sec\tabularnewline
+\cline{2-5} 
+\cline{2-5} 
+   & Avg. & - &  3\,572 sec & - \tabularnewline
+\hline 
+\hline 
+\multirow{6}{*}{(20,15,30)} & 60 &  - & \;\;3\,781 sec & \;\;184 sec\tabularnewline
+\cline{2-5} 
+   & 180   & - &  \;\;5\,646 sec & -\tabularnewline
+\cline{2-5} 
+   & 300   & - & 10\,567 sec & -\tabularnewline
+\cline{2-5} 
+   & 420 & - & \;\;4\,445 sec & -\tabularnewline
+\cline{2-5} 
+   & 540  & - &  \;\;\;\;663 sec & -\tabularnewline
+\cline{2-5} 
+   & 600 &  - &  \;\;\;\;\;\;\;\;1 sec & \;\;\:$<$1 sec\tabularnewline
+\cline{2-5} 
+\cline{2-5} 
+   & Avg. &  - &  \;\;4\,184 sec & -\tabularnewline
+\hline 
+%\hline 
+\end{tabular}
+}\\
+\vspace{0.2cm}
+{\footnotesize ($-$ stands for more than two days of computation)}
+%All in less than three hours
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\subsection[Robust Multi-item Newsvendor]{\scshape Robust Multi-item Newsvendor}
+\begin{frame}{Robust Multi-item Newsvendor}
+
+\begin{itemize}
+%\item In AJ\&D (2016a): the robust multi-item newsvendor problem 
+%\begin{equation*}
+%%\maximize_{x\in\X}\;\;\min_{z\in\mathcal{Z}}\;\;\sum_i \bar{r}_i \min \{ x_i, \zeta_i \} - \bar{h}_i \max\{x_i-\zeta_i , 0\}- \bar{c}_i x_i
+%\maximize_{x\in\X}\;\;\min_{z\in\mathcal{Z}(\Gamma)}\;\;\sum_i (r_i-c_i)x_i   - \max\left\{ \begin{array}{c} (r_i-s_i)(x_i-\bar{d}_i-\hat{d}_iz_i) \,,\\ p_i(\bar{d}_i+\hat{d}_iz_i-x_i)\end{array} \right\}
+%\end{equation*}
+%{\color{blue} can be solved optimally} by AARC/$Copos(\N)$ when using  {\color{blue} budgeted uncertainty set with \underline{integer} $\Gamma$}.
+%
+\item In AJ\&D (2016a): the robust multi-item newsvendor problem with \underline{uncorrelated} demand {\color{blue} is solved optimally} by AARC/$Copos(\N)$ when using  budgeted uncertainty set with \underline{integer} $\Gamma$.
+%
+\pause\vspace{0.5cm}\item In AJ\&D (2016b): if demand is \underline{correlated} than solution improves using $Copos$ with $\mathcal{K}_{\mymbox{SDP}}^1\supset \N$:
+\end{itemize}
+\vspace{-0.5cm}\begin{table}[H]
+\centering{}%
+\begin{tabular}{|l|c|c|c|c|}
+\hline 
+& AARC & $Copos(\mathcal{K}_{\mymbox{LP}}^4)$  & $Copos(\mathcal{K}_{\mymbox{SDP}}^1)$ & Exact \tabularnewline
+ \hline
+W.-c. profit bound& 41.83 & 41.83  & 411.08 & 825.83\tabularnewline
+Actual w.-c. profit& 41.83 & 41.83 & 664.76 & 825.83 \tabularnewline
+\hline 
+\end{tabular}
+\end{table}
+
+\end{frame}
+
+\removed{
+\subsection[Robust  Inventory Management]{\scshape Robust Inventory Management}
+
+\begin{frame}{Robust inventory problem}
+\begin{eqnarray*}
+\min_{u}\max_{d\in\mathcal{D}}&& \sum_{t=1}^{T}c_t u_t+K_t 1_{\{u_t>0\}}+\max \left\{\begin{array}{c}h_t (x_1+\sum_{j=1}^{t}(u_j-d_j)),\\-p_t (x_1+\sum_{j=1}^{t}(u_j-d_j))\end{array}\right\}
+\end{eqnarray*}
+
+\begin{itemize}
+
+\item Objective: Minimizing ordering and shortage/holding cost
+\item Decision variable ($u_t$): Stock ordered to be received at the beginning of the $t$-th period,
+\item Uncertainty ($d_t$): Demand during the $t$-th period.
+\item Uncertainty characterization : $d_t:=\bar{d}_t+\hat{d}_t z$ with $z\in\mathcal{Z}(\Gamma)$, the budgeted uncertainty
+\end{itemize}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Comparing AARC to $\mathcal{K}_{\mymbox{SDP}}$}
+
+In AJ\&D(2016b): Comparison of \underline{average} performance over a set of 1000 randomly generated inventory problem instances with 10 periods.
+
+\begin{table}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline 
+\multicolumn{2}{|c|}{} & \multicolumn{2}{c|}{Method}\tabularnewline
+\hline 
+$\Gamma$ & Interval & AARC & $Copos(\mathcal{K}_{\mymbox{SDP}}^*)$\tabularnewline
+\hline 
+\multirow{3}{*}{3} & $=$0\% & 52.6\% & 56.6\%\tabularnewline
+\cline{2-4} 
+ & $>$1\%  & 9.6\% &1.9\%\tabularnewline
+\cline{2-4} 
+ & Maximum Gap & 4.6\% & 2.0\%\tabularnewline
+\hline 
+\multirow{3}{*}{5} & $=$0\% & 57.3\% & 63.5\%\tabularnewline
+\cline{2-4} 
+ & $>$1\% & 3.4\% &0.3\%\tabularnewline
+\cline{2-4} 
+ & Maximum Gap & 2.6\% & 1.3\%\tabularnewline
+\hline 
+\end{tabular}
+\par\end{center}\end{table}
+\end{frame}
+}
+
+%\subsection[ ]{\scshape  }
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Conclusion]{\scshape Conclusion}
+\subsection[ ]{\scshape  }
+
+%\subsection{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}{Conclusion \& Open Questions}
+\begin{enumerate}
+\item Copositive programming is a useful tool for generating conservative approximations for TSRLP
+\begin{itemize}
+\item $Copos(\mathcal{K})$ with $\mathcal{K} \supset \N$ always improves on AARC
+%\item In some cases, $Copos(\N)$ and AARC are exact 
+%\item Although hierarchies of polyhedral cones $\N\subset\mathcal{K}_{\mymbox{LP}}^d\subset \copconeCopos$ provide LP reformulations, work is needed to identify a hierarchy that performs well
+%preliminary results indicate that classical ones perform poorly
+%\item Even the simplest $\mathcal{K}_{\mymbox{SDP}}^d$ in the conic hierarchy provide surprising improvements
+
+\pause\vspace{0.3cm}
+\item {\color{blue} What is a hierarchy of polyhedral cones that performs well?}
+%\item {\color{blue} Can $Copos(\mathcal{K})$  provide intuition on approximate policies ?}
+\item  {\color{blue} Do $Copos(\mathcal{K})$ reformulations exist for multi-stage problems?}
+\end{itemize}
+\pause\vspace{0.25cm}\item Penalized violations can transform a two-stage LP with relatively complete recourse in one with complete recourse
+\vspace{-0.35cm}\begin{itemize}
+\item A useful preprocessing step for AARC when feasibility is a challenge
+%\item How can we efficiently identify the smallest penalties possible?
+\pause\vspace{0.3cm}\item {\color{blue}Is it possible to generalize this approach to robust multi-stage \& non-linear problems?}
+\end{itemize}
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Bibliography}
+\tiny
+\nocite{delage15:rosplfaip,BenTal_Nemirov_1999,ben2004adjustable,ardestani2017LRC,ardestani2018:VFRLTP}
+\nocite{BomzeKlerk:Copos,Burer:Copos,HanasusantoCoposWass,ParriloThesis,XuTSROCopos,zeng2013solving}
+
+\bibliographystyle{plain}
+\bibliography{biblio}
+
+
+\end{frame}
+
+
+\begin{frame}{}
+
+{\LARGE \color{blue}
+%
+\vspace{0cm}Questions \& Comments ...\\
+%\vspace{2cm}
+%\small{email: amir.ardestani-jaafari@hec.ca}
+%
+%\vspace{1cm}
+%\begin{center}
+%{\footnotesize Slides available at:}\\
+%\includegraphics[width=0.3\textwidth]{static_qr_code_without_logo.jpg}\\
+%%\vspace{-0.5cm}{\footnotesize Details in upcoming revision}
+%\end{center}
+
+
+
+\vspace{5cm}
+ \begin{flushright}... Thank you!\\\end{flushright}}
+\end{frame}
+\end{document}
+
+
+
+
+
+
+
+
+

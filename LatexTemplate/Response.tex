@@ -1,0 +1,116 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath, amsfonts, amsthm, amssymb}
+\usepackage{authblk, color, bm, graphicx}
+\usepackage{xspace}
+\usepackage{natbib} % for reference
+
+\usepackage[letterpaper, portrait, margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\def\TheoremsNumberedThrough{%
+\theoremstyle{TH}%
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+\newtheorem{proposition}{Proposition}
+\newtheorem{corollary}{Corollary}
+\newtheorem{claim}{Claim}
+\newtheorem{conjecture}{Conjecture}
+\newtheorem{hypothesis}{Hypothesis}
+\newtheorem{assumption}{Assumption}
+\newtheorem{definition}{Definition}
+\theoremstyle{EX}
+\newtheorem{ex}{Example}
+\newtheorem{remark}{Remark}
+\newtheorem{example}{Example}
+\newtheorem{problem}{Problem}
+\newtheorem{definition}{Definition}
+\newtheorem{question}{Question}
+\newtheorem{answer}{Answer}
+\newtheorem{exercise}{Exercise}
+}
+
+\newcommand{\tr}{\mathop{\rm tr}}
+\def\Expect{{\mathbb E}}
+\def\Prob{{\mathbb P}}
+\def\minimize{\mathop{\rm minimize}}
+\def\maximize{\mathop{\rm maximize}}
+\def\subto{{\rm subject \mbox{   }\rm to}}
+\newcommand{\ie}{{\it i.e., }}
+\newcommand{\V}[1]{{{\boldsymbol #1}}}
+\newcommand{\x}{\V{x}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\e}{\V{e}}
+\newcommand{\0}{\V{0}}
+\newcommand{\1}{\V{1}}
+\newcommand{\f}{{F}}
+\newcommand{\Dist}{\mathcal{D}}
+\newcommand{\mymbox}[1]{\mbox{\scriptsize #1}}
+\renewcommand{\Re}{\mathbb{R}}
+\newcommand{\quoteIt}[1]{``#1''}
+\newcommand{\support}[1]{\1_{[#1]}}
+\renewcommand{\Re}{\mathbb{R}}
+
+\newcommand{\EDmodified}[1]{{\color{red} #1}}
+\newcommand{\EDcomments}[1]{{\EDmodified{Erick commented: #1}}}
+%\newcommand{\EDcomments}[1]{{}}
+\newcommand{\modified}[1]{{\color{blue} #1}}
+\newcommand{\remove}[1]{}
+\newcommand{\tomodify}[1]{{\color{red} #1}}
+
+\newcommand{\ReviewerSay}[1]{\noindent\quoteIt{\emph{#1}}\\}
+\newcommand{\OurAnswer}[1]{\noindent \textbf{Our response}: #1\\}
+
+%################################################################################
+\title{Response Letter to the Editorial Team}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\noindent Dear Professor \tomodify{XXX},\\[5mm]
+We would like to thank you very much for considering our paper\\[3mm]
+{
+Paper Title (Submission ID)\\[3mm]
+}
+for possible publication in \quoteIt{\tomodify{Journal name}} journal, and we sincerely thank the reviewers and the associate editor for their valuable comments. We are very grateful for the careful and constructive reviews that helped us to improve our manuscript substantially, and we hope that the new version satisfactorily addresses all the questions raised. A response to all remarks is provided in the following.  Note also that all major changes to the papers have been highlighted in blue in this revision while we highlighted in blue the title of sections that are completely new or that were significantly rewritten.\\
+
+\noindent Kind regards,\\[3mm]
+
+\noindent \tomodify{Authors' names}
+%################################################################################
+\newpage
+\section{Response to Associate Editor}
+
+We thank the associate editor for the time he invested in studying our article and the constructive comments that he made. We are especially grateful for the following two elements: \tomodify{XXX}. Next, we briefly summarize how we addressed each of his comments.\\
+
+\ReviewerSay{\tomodify{XXX}}  
+
+
+\OurAnswer{\tomodify{XXX}}
+
+%################################################################################
+\newpage
+\section{Response to Reviewer \#1}
+
+We first wish to thank the reviewer for his valuable comments as they helped us significantly improving the quality of our paper. We answer to each of the main issues that were raised below.\\
+
+\ReviewerSay{\tomodify{XXX}.}
+
+\OurAnswer{\tomodify{XXX}}
+
+
+
+\bibliographystyle{ormsv080} 
+\bibliography{biblio}
+
+
+\end{document}

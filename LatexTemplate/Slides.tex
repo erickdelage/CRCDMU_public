@@ -1,0 +1,281 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% This Beamer template was created by Cameron Bracken.
+%% Anyone can freely use or modify it for any purpose
+%% without attribution.
+%%
+%% Last Modified: January 9, 2009
+%%
+
+%% Animated presentation
+\documentclass[xcolor=x11names,compress]{beamer}
+% Handout version
+%\documentclass[xcolor=x11names,compress,handout]{beamer}
+%% General document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{subfig}
+\usepackage{cancel}
+\usetikzlibrary{decorations.fractals}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage[mathscr]{euscript}
+\usepackage{epstopdf}
+\usepackage[justification=centering]{caption}
+\usepackage{graphicx,wrapfig,lipsum}
+\usepackage[english]{babel} % English language/hyphenation
+\usepackage{bbding}
+
+
+
+
+\usepackage{forest}
+
+
+
+\tikzset{
+Above/.style={
+  midway,
+  above,
+  font=\scriptsize,
+  text width=1.5cm,
+  align=center,
+  },
+Below/.style={
+  midway,
+  below,
+  font=\scriptsize,
+  text width=1.5cm,
+  align=center
+  }
+}
+\usepackage{natbib}
+\usepackage{epstopdf}
+
+\usepackage{xcolor,colortbl}
+
+\newcommand{\mc}[2]{\multicolumn{#1}{c}{#2}}
+\definecolor{Gray}{gray}{0.85}
+\definecolor{LightCyan}{rgb}{0.88,1,1}
+
+\newcolumntype{a}{>{\columncolor{Gray}}c}
+\newcolumntype{b}{>{\columncolor{white}}c}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\usepackage{beamerthemeshadow}
+\setbeamertemplate{theorems}[numbered]
+%\usebackgroundtemplate{%
+%\rule{0pt}{\paperheight}%
+% \hspace*{\paperwidth}%
+% \makebox[-30pt][r]{\includegraphics[scale=0.2]{HEC_Montreal_541.eps}}}
+
+
+%% Beamer Layout %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\useoutertheme[subsection=false,shadow]{miniframes}
+\useinnertheme{default}
+\usefonttheme{serif}
+\usepackage{palatino}
+
+\setbeamerfont{title like}{shape=\scshape}
+\setbeamerfont{frametitle}{shape=\scshape}
+%\setbeamercovered{highly dynamic}
+
+
+\setbeamercolor*{lower separation line head}{bg=DeepSkyBlue4} 
+\setbeamercolor*{normal text}{fg=black,bg=white} 
+\setbeamercolor*{alerted text}{fg=red} 
+\setbeamercolor*{example text}{fg=black} 
+\setbeamercolor*{structure}{fg=black} 
+%\setbeamertemplate{headline}{\scriptsize{\vspace*{0.3cm}\hspace*{0.3cm}\insertframenumber}} 
+
+\setbeamercolor*{palette tertiary}{fg=black,bg=black!10} 
+\setbeamercolor*{palette quaternary}{fg=black,bg=black!10} 
+
+\renewcommand{\(}{\begin{columns}}
+\renewcommand{\)}{\end{columns}}
+\newcommand{\<}[1]{\begin{column}{#1}}
+\renewcommand{\>}{\end{column}}
+\newcounter{saveenumi}
+\newcommand{\seti}{\setcounter{saveenumi}{\value{enumi}}}
+\newcommand{\conti}{\setcounter{enumi}{\value{saveenumi}}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\definecolor{darkgreen}{rgb}{7,55,113}
+
+\beamertemplatenavigationsymbolsempty
+
+
+\def\Expect{{\mathbb E}}
+\def\Prob{{\mathbb P}}
+\def\minimize{\mathop{\rm minimize}}
+\def\maximize{\mathop{\rm maximize}}
+%\def\subto{{\rm subject \mbox{ }\rm to}}
+\def\subto{{\rm s. \mbox{ }\rm t.}}
+\def\min{\mathop{\rm min}}
+\def\max{\mathop{\rm max}}
+\def\argmax{\mathop{\rm argmax}}
+\def\argmin{\mathop{\rm argmin}}
+\def\sup{\mathop{\rm sup}}
+\def\inf{\mathop{\rm inf}}
+\newcommand{\ie}{{\it i.e., }}
+\newcommand{\eg}{\textit{e.g.}}
+\newcommand{\V}[1]{{{\boldsymbol #1}}}
+\newcommand{\x}{\V{x}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\e}{\V{e}}
+\newcommand{\0}{\V{0}}
+\newcommand{\1}{\V{1}}
+\newcommand{\Dist}{\mathcal{D}}
+\newcommand{\mymbox}[1]{\mbox{\scriptsize #1}}
+\renewcommand{\Re}{\mathbb{R}}
+\newcommand{\quoteIt}[1]{``#1''}
+\newcommand{\support}[1]{\1_{[#1]}}
+\newcommand{\Halmos}{{\qed}}
+\newcommand{\eye}{{I}} %I matrix
+
+
+\newcommand{\EDmodified}[1]{{\color{red} #1}}
+\newcommand{\EDcomments}[1]{{\EDmodified{Erick commented: #1}}}
+%\newcommand{\EDcomments}[1]{{}}
+\newcommand{\modified}[1]{{\color{blue} #1}}
+\newcommand{\removed}[1]{{}}
+
+
+\setbeamerfont{page number in head/foot}{size=\small}
+\setbeamertemplate{footline}[frame number]
+
+
+
+
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}
+
+\centering
+%    \includegraphics[scale=0.5]{HECMontreal_noir.eps}
+\title{Title here}
+\subtitle{}
+\author{
+Name of presentor\\
+Department of Decision Sciences\\
+HEC Montr\'{e}al\\
+\vspace{0.5 cm}
+	{\small (joint work with co-authors)}\\
+	%{\it }\\
+}
+\date{
+	Date of presentation
+}
+\titlepage
+ \includegraphics[height=0.25in]{HEC_Montreal_541.eps}\hspace{0.3\textwidth} \includegraphics[height=0.25in]{gerad-vector-logo2.png}
+
+\end{frame}
+%\addtocounter{framenumber}{-1}
+\setbeamertemplate{footline}[frame number]
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Introduction]{\scshape Introduction}
+\subsection[ ]{\scshape  }
+
+
+
+\begin{frame}{Title of slide}
+
+\begin{itemize}
+\item Here are your bullets
+\end{itemize} 
+
+
+\end{frame}
+   
+ 
+
+   \begin{frame}
+        \frametitle{Outline}
+%\vspace{0.5cm}        
+\tableofcontents[hidesubsections]
+   \end{frame}
+
+
+\AtBeginSection[]
+{
+   \begin{frame}
+        \frametitle{Outline}
+      \tableofcontents[currentsection,hidesubsections]
+   \end{frame}
+} 
+   
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Main sections]{\scshape Main sections}
+\subsection[ ]{\scshape  }
+
+
+
+\begin{frame}{Title of slide}
+
+\begin{itemize}
+\item Here are your bullets
+\end{itemize} 
+
+
+\end{frame} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section[Conclusion]{\scshape Conclusion \& Open Questions}
+\subsection[ ]{\scshape  }
+
+
+
+\begin{frame}{Title of slide}
+
+\begin{itemize}
+\item Here are your bullets
+\end{itemize} 
+
+
+\end{frame}
+
+  
+
+
+\begin{frame}{Bibliography}
+\tiny
+\nocite{delage15:rosplfaip,BenTal_Nemirov_1999,ben2004adjustable,ardestani2017LRC,ardestani2018:VFRLTP}
+\nocite{BomzeKlerk:Copos,Burer:Copos,HanasusantoCoposWass,ParriloThesis,XuTSROCopos,zeng2013solving}
+
+\bibliographystyle{plain}
+\bibliography{biblio}
+
+
+\end{frame}
+
+\begin{frame}{}
+
+{\LARGE \color{blue}
+%
+\vspace{0cm}Questions \& Comments ...\\
+
+
+
+
+\vspace{5cm}
+ \begin{flushright}... Thank you!\\\end{flushright}}
+\end{frame}
+\end{document}
+
+
+
+
+
+
+
+
+
