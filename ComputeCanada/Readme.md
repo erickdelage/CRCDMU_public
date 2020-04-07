@@ -42,6 +42,7 @@ jobs
 
     Here is an example of how I transfered launch_script file from my personal computer to Niagara node:
     ![](Picture4.png)
+    
     Where you should replace fathanab with your own username.
 - Under Niagara, all open source software is available and could be installed. There is
 also the possibility to install commercial software such as MATLAB, all you need is a licence. They could also help you install it if you provide a licence).
