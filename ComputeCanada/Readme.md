@@ -97,6 +97,15 @@ You could also check the intermediate results and output of your commands logged
     - $ **srun** jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
     - $ **srun** python autoencoder.py
     $SCRATCH/model.hdf5 $SCRATCH/autoencoder-labeller/$RUN_NAME -n-epoch 20 -batch-size 2 -image-every-n 50 -learning-rate-labeller 1e-2 -learning-rate-encoder 1e-2 -batch-limit 50
+    
+# Useful Commands/Tips
+
+- For easy access with ssh (password-less access):
+
+        $ ssh-keygen #To generate your keys
+        $ ssh-copy-id username@niagara.scinet.utoronto.ca # Or
+  
+  You can now use ssh without having to enter a password
 
 
 # Access to Special Software
