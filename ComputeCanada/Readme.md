@@ -191,7 +191,6 @@ You could also check the intermediate results and output of your commands logged
         $ ln -sT $SCRATCH $HOME/scratch
         
  - Useful links:
-    - https://docs.computecanada.ca/wiki/Getting_started
     - https://docs.computecanada.ca/wiki/Jupyter
     - https://docs.computecanada.ca/wiki/Using_GPUs_with_Slurm
     - https://docs.scinet.utoronto.ca/index.php/Using_modules
@@ -202,6 +201,7 @@ You could also check the intermediate results and output of your commands logged
     - https://docs.scinet.utoronto.ca/index.php/Mist#TensorFlow_and_Keras
     - https://docs.computecanada.ca/wiki/TensorFlow
     - https://docs.computecanada.ca/wiki/Niagara_Quickstart
+    - [Getting started with Compute Canada](https://docs.computecanada.ca/wiki/Getting_started)
         
 
 
