@@ -54,6 +54,11 @@ also the possibility to install commercial software such as MATLAB, all you need
   
   To login on Niagara: **ssh** -Y username@niagara.scinet.utoronto.ca
     
+- Before you start using any cluster, make sure to use the right cluster for your needs:
+    - Niagara accepts jobs of up to 24 hours run-time
+    - Béluga up to 7 days.
+    - Cedar and Graham up to 28 days.
+    
 - Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
 
         #!/bin/bash
