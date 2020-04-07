@@ -70,24 +70,24 @@ also the possibility to install commercial software such as MATLAB, all you need
 Once you run: $ **sbatch launch_script.sh**
 It will run your python_test.py file and its output will be logged in the output.txt file. You could of course customize it, and save results (figures, arrays) using other commands.
 
-    In the above file:
+In the above file:
     - RLTest will be the name of my task (arbitrary value).
     - Provide your email to receive notification once your script finishes running.
     - You provide how many tasks and how much memory per task and how many CPUs to use per task.
     - --time is for the time allowed for your script to run, otherwise it will be 15 minutes by default and your script will be stopped.
     - You could also request to use a gpu: Its type and how many.
-    Once sbatch run and during execution of your task, you could check its status:
-    
-    ![](Picture6.png)
-    
-    You could also check the intermediate results and output of your commands logged in output.txt
-    
-    ![](Picture7.png)
-    ![](Picture8.png)
-    
-    Example of other commands possible:
-    - $ srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
-    - $ srun python autoencoder.py
+Once sbatch run and during execution of your task, you could check its status:
+
+![](Picture6.png)
+
+You could also check the intermediate results and output of your commands logged in output.txt
+
+![](Picture7.png)
+![](Picture8.png)
+
+Example of other commands possible:
+- $ srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
+- $ srun python autoencoder.py
 /lu/bf_scratch/multi/datasets/Agriculture-Vision/agri_v3.hdf5 /lu/fast_scratch/multi/landryda/data/agri/runs/autoencoder-labeller/$RUN_NAME -n-epoch 20 -batch-size 2 -image-every-n 50 -learning-rate-labeller 1e-2 -learning-rate-encoder 1e-2 -batch-limit 50
 
 
