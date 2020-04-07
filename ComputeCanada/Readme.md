@@ -86,10 +86,10 @@ You could also check the intermediate results and output of your commands logged
 ![](Picture7.png)
 ![](Picture8.png)
 
-Example of other commands possible:
-- $ srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
-- $ srun python autoencoder.py
-/lu/bf_scratch/multi/datasets/Agriculture-Vision/agri_v3.hdf5 /lu/fast_scratch/multi/landryda/data/agri/runs/autoencoder-labeller/$RUN_NAME -n-epoch 20 -batch-size 2 -image-every-n 50 -learning-rate-labeller 1e-2 -learning-rate-encoder 1e-2 -batch-limit 50
+- Example of other commands possible depending on your use case:
+    - $ **srun** jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute test_srun.ipynb
+    - $ **srun** python autoencoder.py
+    $SCRATCH/model.hdf5 $SCRATCH/autoencoder-labeller/$RUN_NAME -n-epoch 20 -batch-size 2 -image-every-n 50 -learning-rate-labeller 1e-2 -learning-rate-encoder 1e-2 -batch-limit 50
 
 
 # Access to Special Software
