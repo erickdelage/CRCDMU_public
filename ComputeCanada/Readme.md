@@ -135,6 +135,54 @@ You could also check the intermediate results and output of your commands logged
         $ sshuttle --dns -Nr username@cedar.computecanada.ca
         
   Now you can go to your browser and use the http address of your session.
+  
+- Example of slurm files to run a jupyter notebook and a python file:
+
+  On Cedar (no use of conda):
+  
+        #!/bin/bash
+        #SBATCH --gres=gpu:v100l:1        # request GPU, here V100
+        #SBATCH --cpus-per-task=8   # maximum CPU cores per GPU request: 6 on Cedar, 16 on Graham.
+        #SBATCH --mem=0               # Request the full memory of the node
+        #SBATCH --account=def-edelage
+        #SBATCH --job-name=Name_of_your_task
+        #SBATCH --mail-user=Your_email
+        #SBATCH --mail-type=ALL
+        #SBATCH --ntasks=1
+        #SBATCH --time=27-13:00      # time (DD-HH:MM)
+        #SBATCH --output=$SCRATCH/outputs/%N-%j.out  # %N for node name, %j for jobID
+
+        export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
+        
+        source $HOME/jupyter_py3/bin/activate
+
+        cd $SCRATCH/Your_project_folder
+        
+        srun jupyter nbconvert --ExecutePreprocessor.timeout=-1 --to notebook --inplace --execute your_jupyter_file.ipynb
+
+  On Niagara (use conda tfenv on top of your virtual environment):
+  
+        #!/bin/bash
+        #SBATCH --job-name=Your_test
+        #SBATCH --mail-user=Your_email
+        #SBATCH --ntasks=1
+        #SBATCH --mem-per-cpu=2G
+        #SBATCH --cpus-per-task=1
+        #SBATCH --output=/scratch/e/edelage/username/output_%N-%j.txt
+        # #SBATCH --gres=gpu:TitanX:1
+
+        module load anaconda3
+
+        source /home/e/edelage/username/.bashrc
+
+        source /home/e/edelage/username/tensorflow/bin/activate
+        conda activate tfenv
+        
+        cd $SCRATCH #Choose your working directory
+
+        export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/e/edelage/username/.conda/envs/tfenv/lib
+
+        srun python $SCRATCH/tensorflow-test.py
 
 
 
