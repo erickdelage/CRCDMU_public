@@ -70,7 +70,7 @@ also the possibility to install commercial software such as MATLAB, all you need
 Once you run: $ **sbatch launch_script.sh**
 It will run your python_test.py file and its output will be logged in the output.txt file. You could of course customize it, and save results (figures, arrays) using other commands.
 
-In the above file:
+- In the above file:
     - RLTest will be the name of my task (arbitrary value).
     - Provide your email to receive notification once your script finishes running.
     - You provide how many tasks and how much memory per task and how many CPUs to use per task.
