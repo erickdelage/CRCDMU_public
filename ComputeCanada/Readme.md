@@ -183,6 +183,25 @@ You could also check the intermediate results and output of your commands logged
         export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/e/edelage/username/.conda/envs/tfenv/lib
 
         srun python $SCRATCH/tensorflow-test.py
+        
+ - On Niagara, it is possible to have access to your file and modify/execute them through jupyter via this link: https://jupyter.scinet.utoronto.ca
+   You will first have to create a symbolic link to your $SCRATCH folder by executing the following command:
+   
+        $ ln -sT $SCRATCH $HOME/scratch
+        
+ - Useful links:
+        - https://docs.computecanada.ca/wiki/Getting_started
+        - https://docs.computecanada.ca/wiki/Jupyter
+        - https://docs.computecanada.ca/wiki/Using_GPUs_with_Slurm
+        - https://docs.scinet.utoronto.ca/index.php/Using_modules
+        - https://docs.computecanada.ca/wiki/Cedar
+        - https://docs.scinet.utoronto.ca/index.php/Jupyter_Hub
+        - https://slurm.schedmd.com/srun.html
+        - https://docs.computecanada.ca/wiki/Running_jobs
+        - https://docs.scinet.utoronto.ca/index.php/Mist#TensorFlow_and_Keras
+        - https://docs.computecanada.ca/wiki/TensorFlow
+        - https://docs.computecanada.ca/wiki/Niagara_Quickstart
+        
 
 
 
