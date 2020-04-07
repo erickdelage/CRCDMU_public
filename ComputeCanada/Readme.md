@@ -52,7 +52,7 @@ also the possibility to install commercial software such as MATLAB, all you need
     
   To login on Cedar: **ssh** -Y username@cedar.computecanada.ca
   
-           on Niagara: **ssh** -Y username@niagara.scinet.utoronto.ca
+  To login on Niagara: **ssh** -Y username@niagara.scinet.utoronto.ca
     
 - Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
 #!/bin/bash
