@@ -38,11 +38,12 @@ Could depend on the time of the day) you could then first login and then apply f
     - https://docs.scinet.utoronto.ca/index.php/Niagara_Quickstart
     - https://docs.scinet.utoronto.ca/index.php/Niagara_Quickstart#Submitting_
 jobs
-- To move your data to Niagara nodes, you could move them through command line via scp (e.g. **scp** myfile.py your_username@niagara.scinet.utoronto.ca:PATH_ON_NODE) or rsync on command line. You could also use FileZilla or other FTP clients on your local machines to transfer files.
+- To move your data to Niagara nodes, you could move them through command line via scp (e.g. **scp** myfile.py your_username@niagara.scinet.utoronto.ca:PATH_ON_NODE) or **rsync** on command line. You could also use FileZilla or other FTP clients on your local machines to transfer files.
+
 Here is an example of how I transfered launch_script file from my personal computer to Niagara node:
     ![](Picture4.png)
 
-    Where you should replace fathanab with your own user id.
+    Where you should replace fathanab with your own username.
 - Under Niagara, all open source software is available and could be installed. There is
 also the possibility to install commercial software such as MATLAB, all you need is a licence. They could also help you install it if you provide a licence).
 - To login:
