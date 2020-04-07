@@ -184,7 +184,7 @@ You could also check the intermediate results and output of your commands logged
 
         srun python $SCRATCH/tensorflow-test.py
         
- - On Niagara, it is possible to have access to your files and modify/execute them through jupyter via this link: https://jupyter.scinet.utoronto.ca
+ - On Niagara, it is possible to have easy access to your files and modify/execute them through jupyter via this link: https://jupyter.scinet.utoronto.ca
  
    You will first have to create a symbolic link to your $SCRATCH folder by executing the following command:
    
