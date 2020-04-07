@@ -58,15 +58,17 @@ also the possibility to install commercial software such as MATLAB, all you need
 
         #!/bin/bash
         #SBATCH --job-name=RLTest
-        #SBATCH --mail-user=abderrahim.fathan@gmail.ca #SBATCH --ntasks=1
+        #SBATCH --mail-user=your_email
+        #SBATCH --ntasks=1
         #SBATCH --mem-per-cpu=2G
         #SBATCH --cpus-per-task=1
-        #SBATCH --output=/scratch/e/edelage/fathanab/output.txt #SBATCH --time=1:00:00
+        #SBATCH --output=/scratch/e/edelage/fathanab/output.txt 
+        #SBATCH --time=1:00:00
         #SBATCH --gres=gpu:TitanX:1
         srun python python_test.py
 
 Once you run: $ **sbatch launch_script.sh**
-It will run your python_test.py file and it’s output will be logged in the output.txt file. You could of course customize it, and save results (figures, arrays) using other commands.
+It will run your python_test.py file and its output will be logged in the output.txt file. You could of course customize it, and save results (figures, arrays) using other commands.
 
     In the above file:
     - RLTest will be the name of my task (arbitrary value).
