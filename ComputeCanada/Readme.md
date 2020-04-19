@@ -29,7 +29,7 @@ Could depend on the time of the day) you could then first login and then apply f
     - $ **sbatch** launch_script.sh (This is to launch your scripts on the cloud. You have to specify the resources needed, load all packages needed, move to specific directories on the linux system, and launch your command with **srun** followed by your normal way of launching your script. (e.g. srun python your_python.py --my_param param). All these commands should be specified inside the launch_script.sh script which you have to create.)
     - $ **scancel** 88000 (replace 88000 with the ID of your running job on the cluster to cancel it).
     - $ **squeue** --user YOUR_ID (to see all your running or awaiting jobs on the cluster).
-    - $ **scontrol** show jobid -dd <jobid> (Lists detailed information for a job (useful for troubleshooting)).
+    - $ **scontrol** show jobid -dd your_jobid (Lists detailed information for a job (useful for troubleshooting)).
     - $ **squeue** -u <username> -t RUNNING (Lists all running jobs for a user).
     - $ **squeue** -u <username> -t PENDING (Lists all pending jobs for a user).
     
