@@ -123,7 +123,7 @@ You could also check the intermediate results and output of your commands logged
         $ conda activate tfenv
         $ conda install -c https://public.dhe.ibm.com/ibmdl/export/pub/software/server/ibm-ai/conda/ tensorflow-gpu==1.14.0
         $ echo ". /scinet/niagara/software/2018a/opt/base/anaconda3/2018.12/etc/profile.d/conda.sh" >> ~/.bashrc # You may need to adapt to your own path
-        $ locate ~/.bashrc # Optional: If ever you need to locate you bashrc file.
+        $ locate ~/.bashrc # Optional: If ever you need to locate your bashrc file.
         
 - Start a jupyter session:
 
