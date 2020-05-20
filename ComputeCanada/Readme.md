@@ -189,6 +189,11 @@ You could also check the intermediate results and output of your commands logged
    
         $ ln -sT $SCRATCH $HOME/scratch
         
+ - Compress/Extract compressed directory:
+ 
+        $ tar -czvf file.tar.gz directory # To compress directory into file.tar.gz
+        $ tar xvzf file.tar.gz # To extract file.tar.gz
+        
  - Useful links:
     - [Getting started with Compute Canada](https://docs.computecanada.ca/wiki/Getting_started)
     - [Getting started with Slurm](https://docs.computecanada.ca/wiki/Using_GPUs_with_Slurm)
