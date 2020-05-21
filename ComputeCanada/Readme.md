@@ -58,6 +58,8 @@ also the possibility to install commercial software such as MATLAB, all you need
     - **Béluga** up to 7 days.
     - **Cedar** and **Graham** up to 28 days.
     
+  According to our experience, we would recommend using Cedar or Graham over Niagara, as the latter clusters have an easier and less restrictive environment for development.
+    
 - A good practice is to have your working files in the $SCRATCH directory. Submitting jobs from directories residing in /home is not permitted. Transfer your files to a directory in /scratch or /project and submit jobs from there.
     
 - Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
