@@ -195,6 +195,7 @@ You could also check the intermediate results and output of your commands logged
  
         $ tar -czvf file.tar.gz directory # To compress directory into file.tar.gz
         $ tar xvzf file.tar.gz # To extract file.tar.gz
+        $ tar -xvf file.tar.bz2 # To extract file.tar.bz2
         
  - Useful links:
     - [Getting started with Compute Canada](https://docs.computecanada.ca/wiki/Getting_started)
