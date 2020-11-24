@@ -1,7 +1,3 @@
-# This a node-locked license file.
-# Do NOT try to install this license file on a license server!!!
-# Computer name: ANY
-#
 VENDOR MOSEKLM
 FEATURE PTS MOSEKLM 9.00 1-jun-2021 uncounted \
 	VENDOR_STRING=-1*-1*-1*0 HOSTID=ANY SN=1000 TS_OK SIGN="1F95 \
