@@ -58,6 +58,8 @@ also the possibility to install commercial software such as MATLAB, all you need
     - **Béluga** up to 7 days.
     - **Cedar** and **Graham** up to 28 days.
     
+  According to our experience, we would recommend using Cedar or Graham over Niagara, as these clusters have an easier and less restrictive environment for development.
+    
 - A good practice is to have your working files in the $SCRATCH directory. Submitting jobs from directories residing in /home is not permitted. Transfer your files to a directory in /scratch or /project and submit jobs from there.
     
 - Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
@@ -123,7 +125,7 @@ You could also check the intermediate results and output of your commands logged
         $ conda activate tfenv
         $ conda install -c https://public.dhe.ibm.com/ibmdl/export/pub/software/server/ibm-ai/conda/ tensorflow-gpu==1.14.0
         $ echo ". /scinet/niagara/software/2018a/opt/base/anaconda3/2018.12/etc/profile.d/conda.sh" >> ~/.bashrc # You may need to adapt to your own path
-        $ locate ~/.bashrc # Optional: If ever you need to locate you bashrc file.
+        $ locate ~/.bashrc # Optional: If ever you need to locate your bashrc file.
         
 - Start a jupyter session:
 
@@ -188,6 +190,12 @@ You could also check the intermediate results and output of your commands logged
    You will first have to create a symbolic link to your $SCRATCH folder by executing the following command:
    
         $ ln -sT $SCRATCH $HOME/scratch
+        
+ - Compress/Extract compressed directory:
+ 
+        $ tar -czvf file.tar.gz directory # To compress directory into file.tar.gz
+        $ tar xvzf file.tar.gz # To extract file.tar.gz
+        $ tar -xvf file.tar.bz2 # To extract file.tar.bz2
         
  - Useful links:
     - [Getting started with Compute Canada](https://docs.computecanada.ca/wiki/Getting_started)
