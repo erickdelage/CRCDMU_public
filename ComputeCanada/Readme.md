@@ -231,18 +231,18 @@ It is recommended to use Github for transferring files to computecanda. The bene
 
 Finally here is an example of a .sh file that will run a job on GPU:
 
-#!/bin/bash
-#SBATCH --job-name=RLTest
-#SBATCH --mail-user=saeed.marzban@hec.ca
-#SBATCH --ntasks=1
-#SBATCH --mem-per-cpu=8G
-#SBATCH --cpus-per-task=1
-#SBATCH --output=output.txt
-#SBATCH --time=1:00:00
-#SBATCH --gres=gpu:p100:1
-module load python/3.6
-source ~/userenv36/bin/activate
-srun python runModel.py
+    #!/bin/bash
+    #SBATCH --job-name=RLTest
+    #SBATCH --mail-user=saeed.marzban@hec.ca
+    #SBATCH --ntasks=1
+    #SBATCH --mem-per-cpu=8G
+    #SBATCH --cpus-per-task=1
+    #SBATCH --output=output.txt
+    #SBATCH --time=1:00:00
+    #SBATCH --gres=gpu:p100:1
+    module load python/3.6
+    source ~/userenv36/bin/activate
+    srun python runModel.py
 
 
 
