@@ -212,6 +212,20 @@ You could also check the intermediate results and output of your commands logged
         
 
 
+# Setting up a virtual environment for python and running a job on GPU
+
+For users that want to use python for their projects, it is recommended to first install a virtual environment, install their required packages in this environment, and then run their jobs. Here is the instruction for creating a virtual environment using python 3.6:
+
+- Move to the main directory of your user account in computecanda
+- Load python 3.6 on the server by using this command: module load python/3.6
+- Create the virtual environment by using this command: virtualenv --no-download ~/userenv36  (Note that you can choose another name instead of userenv36 for your environment)
+- Activate the virtual environment by using this command: source ~/userenv36/bin/activate
+- Upgrade pip by using this command: pip install --no-index --upgrade pip
+- Whenever needed you can deactivate the virtual environment using this command:deactivate 
+
+After creating the virtual environment, you can install different packages you need without affecting the labraries that are installed on the main server. In order to install different libraries you can simply activate the virtual environment you just created and then use pip to install them. Here is an example to install pandas: pip install pandas
+
+Note that all your files should be put in the directory "scratch"
 
 
 # Access to Special Software
@@ -226,4 +240,5 @@ Here's some links provided by Compute Canada for each one of them:
 - In case you need technical assistance or you don't find your available version, you could contact the Niagara/Compute Canada support teams to have it installed for you: 
     - support@scinet.utoronto.ca
     - niagara@computecanada.ca
+
 
