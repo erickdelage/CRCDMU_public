@@ -227,6 +227,10 @@ After creating the virtual environment, you can install different packages you n
 
 Note that all your files should be put in the directory "scratch"
 
+It is recommended to use Github for transferring files to computecanda. The benefit of doing so is that every time you make a change in your project you can simply replace the new files with old ones in computecanada by running a script that downloads your files from github. In order to download a project from Github into compute canada, you can simply use the "clone" command. For example to download the current project, first move to the "scratch" directory and then run this command "git clone https://github.com/erickdelage/CRCDMU_public.git". Any time you make some changes in your project at the github, you can update your files in the "scratch" directory by using this command: "git pull origin master".
+
+
+
 
 # Access to Special Software
 
