@@ -233,7 +233,7 @@ Finally here is an example of a .sh file that will run a job on GPU:
 
     #!/bin/bash
     #SBATCH --job-name=RLTest
-    #SBATCH --mail-user=saeed.marzban@hec.ca
+    #SBATCH --mail-user=user@hec.ca
     #SBATCH --ntasks=1
     #SBATCH --mem-per-cpu=8G
     #SBATCH --cpus-per-task=1
