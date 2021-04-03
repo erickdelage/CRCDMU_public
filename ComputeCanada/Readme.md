@@ -216,20 +216,37 @@ You could also check the intermediate results and output of your commands logged
 
 For users that want to use python for their projects, it is recommended to first install a virtual environment, install their required packages in this environment, and then run their jobs. Here is the instruction for creating a virtual environment using python 3.6:
 
-- Move to the main directory of your user account in computecanda
-- Load python 3.6 on the server by using this command: module load python/3.6
-- Create the virtual environment by using this command: virtualenv --no-download ~/userenv36  (Note that you can choose another name instead of userenv36 for your environment)
-- Activate the virtual environment by using this command: source ~/userenv36/bin/activate
-- Upgrade pip by using this command: pip install --no-index --upgrade pip
-- Whenever needed you can deactivate the virtual environment using this command:deactivate 
+    - Move to the main directory of your user account in computecanda
+    - Load python 3.6 on the server by using this command: module load python/3.6
+    - Create the virtual environment by using this command: virtualenv --no-download ~/userenv36  (Note that you can choose another name instead of userenv36 for your environment)
+    - Activate the virtual environment by using this command: source ~/userenv36/bin/activate
+    - Upgrade pip by using this command: pip install --no-index --upgrade pip
+    - Whenever needed you can deactivate the virtual environment using this command:deactivate 
 
-After creating the virtual environment, you can install different packages you need without affecting the labraries that are installed on the main server. In order to install different libraries you can simply activate the virtual environment you just created and then use pip to install them. Here is an example to install pandas: pip install pandas
+After creating the virtual environment, you can install different packages you need without affecting the libraries that are installed on the main server. In order to install different libraries you can simply activate the virtual environment that you just created and then use pip to install them. Here is an example to install pandas: pip install pandas
 
 Note that all your files should be put in the directory "scratch"
 
-It is recommended to use Github for transferring files to computecanda. The benefit of doing so is that every time you make a change in your project you can simply replace the new files with old ones in computecanada by running a script that downloads your files from github. In order to download a project from Github into compute canada, you can simply use the "clone" command. For example to download the current project, first move to the "scratch" directory and then run this command "git clone https://github.com/erickdelage/CRCDMU_public.git". Any time you make some changes in your project at the github, you can update your files in the "scratch" directory by using this command: "git pull origin master".
+It is recommended to use Github for transferring files to computecanda. The benefit of doing so is that every time you make a change in your project you can simply replace the new files with old ones in computecanada by running a script that downloads your files from github. Here is the instruction for downloading a github project on your local computer on windows, making changes in the project, and then updating the project in computecanada:
 
-Finally here is an example of a .sh file that will run a job on GPU:
+    - Download and install the git bash app from this link: https://git-scm.com/downloads
+    - Create a directory in your local computer for the specific project that you want to download.
+    - Go to the github page of the project and copy the url. For example we can download the current project by using this url: https://github.com/erickdelage/CRCDMU_public
+    - Change the current directory to the newly created one and choose "Git bash here" from the right click menu so the command window opens up.
+    - Type "git clone https://github.com/erickdelage/CRCDMU_public.git"
+    - This will download the project into the created directory
+    - In order to create the same project in compute canada, move to the "scratch" folder, and run the same command there. This will download the same project in computecanada.
+    - Now you can make changes into different files of the project including .py files.
+    - Now you need to commit the changes you have already made into the github. To do so, type the following commands in order:
+    -   git add .
+    -   git commit -m "update python"
+    -   git push origin master
+    - Now we can update the project in computecanada.
+    - Move to the directory where this prject is downloaded in computecanada and run the following command: git pull origin master
+    - This command will update the project in computecanada according to the changes you made in your local computer.
+
+
+Finally here is an example of a .sh file that will run a job on GPU. We assume in the project that you have downloaded into your computecanada account in "scratch" there is a runModel.py file that runs your project:
 
     #!/bin/bash
     #SBATCH --job-name=RLTest
