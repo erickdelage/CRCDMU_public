@@ -1,0 +1,33 @@
+\documentclass{article}
+
+%%% HELPER CODE FOR DEALING WITH EXTERNAL REFERENCES
+\usepackage{xr}
+\makeatletter
+\newcommand*{\addFileDependency}[1]{
+  \typeout{(#1)}
+  \@addtofilelist{#1}
+  \IfFileExists{#1}{}{\typeout{No file #1.}}
+}
+\makeatother
+
+\newcommand*{\myexternaldocument}[1]{
+    \externaldocument{#1}
+    \addFileDependency{#1.tex}
+    \addFileDependency{#1.aux}
+}
+%%% END HELPER CODE
+
+% put all the external documents here!
+\myexternaldocument{File2}
+
+% just to see what's happening
+\listfiles
+
+\title{\texttt{xr} package example}
+\author{Overleaf team}
+
+\begin{document}
+
+\maketitle
+We would like to reference section \ref{label1} of file2.tex
+\end{document}
