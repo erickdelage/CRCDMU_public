@@ -18,4 +18,7 @@ Example of paper: [./INFOR_paper](./INFOR_paper)
 
 Example of slides: [./FIELDS\_talk\_2018](./FIELDS_talk_2018)
 
+Latex and Overleaf tricks for crossreferencing documents (i.e. submitting first look to OR): [./crossReferenceTrick](./crossReferenceTrick)
+
+
 
