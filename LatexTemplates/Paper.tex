@@ -43,24 +43,18 @@
 \newcommand{\Halmos}{{\qed}}
 \newcommand{\eye}{{I}} %I matrix
 
-newif \iffinal
-\finalfalse
-%\finaltrue
-\iffinal
-\newcommand{\EDmodified}[1]{{#1}}
-\newcommand{\EDcomments}[1]{{}}
-\newcommand{\modified}[1]{{#1}}
-\else
 \newcommand{\EDmodified}[1]{{\color{red} #1}}
 \newcommand{\EDcomments}[1]{{\EDmodified{Erick commented: #1}}}
 %\newcommand{\EDcomments}[1]{{}}
 \newcommand{\modified}[1]{{\color{blue} #1}}
-\fi
 \newcommand{\removed}[1]{{}}
+
 
 \title{This is the title}
 
 \author{These are the authors}
+%This is how to indicate your affiliation
+\affil{GERAD and Department of Decision Sciences, HEC Montréal, Montreal, Qc, H3T 2A7, Canada}
 
 \begin{document}
 
