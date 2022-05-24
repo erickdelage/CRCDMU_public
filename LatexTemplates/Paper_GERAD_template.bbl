@@ -1,0 +1,4099 @@
+\begin{thebibliography}{100}
+
+\bibitem{AartLenstr97}
+Emile Aarts and Jan~K. Lenstra, editors.
+\newblock {\em Local Search in Combinatorial Optimization}.
+\newblock John Wiley \& Sons, Inc., New York, NY, USA, 1997.
+
+\bibitem{Mehrizi}
+H.~Abouee-Mehrizi, O.~Berman, and {M. R.} Baharnemati.
+\newblock Designing production-inventory-transportation systems with
+  capacitated cross-docks.
+\newblock {\em Transportation Science}, 48(1):121--135, 2014.
+
+\bibitem{acciaio_penner_2011_dc}
+Beatrice Acciaio and Irina Penner.
+\newblock {Dynamic Risk Measures}.
+\newblock In Giulia Di~Nunno and Bernt {\O}ksendal, editors, {\em Advanced
+  Mathematical Methods for Finance}, chapter~1, pages 1--34. Springer, 2011.
+
+\bibitem{acerbi_spectral_rm_2002}
+Carlo Acerbi.
+\newblock {Spectral Measures of Risk: A coherent Representation of Subjective
+  Risk Aversion}.
+\newblock {\em Journal of Banking \& Finance}, 26(7):1505 -- 1518, 2002.
+
+\bibitem{acerbi_book_chapter}
+Carlo Acerbi.
+\newblock {Coherent Representations of Subjective Risk Aversion}.
+\newblock In Giorgio Szeg\"{o}, editor, {\em {Risk Measures for the 21st
+  Century}}, chapter~13, page 147. John Wiley \& Sons, 2004.
+
+\bibitem{acerbi_tasche_es_2001}
+Carlo Acerbi and Dirk Tasche.
+\newblock Expected shortfall: A natural coherent alternative to value at risk.
+\newblock {\em Economic Notes}, 31(2):379--388, 2002.
+
+\bibitem{miplib_2003}
+Tobias Achterberg, Thorsten Koch, and Alexander Martin.
+\newblock {MIPLIB} 2003.
+\newblock {\em Operations Research Letters}, 34(4):361--372, 2006.
+
+\bibitem{Adida_Joshi_2010}
+Elodie Adida and Pradnya Joshi.
+\newblock A robust optimisation approach to project scheduling and resource
+  allocation.
+\newblock {\em International Journal of Services, Operations and Informatics},
+  4(2):169--193, 2009.
+
+\bibitem{Adida_Perakis_2007}
+Elodie Adida and Georgia Perakis.
+\newblock A robust optimization approach to dynamic pricing and inventory
+  control with no backorders.
+\newblock {\em Mathematical Programming}, 107:97--129, 2006.
+
+\bibitem{Aggarwal_Feder_Motwani_Zhu_04}
+Gagan Aggarwal, Tom\'{a}s Feder, Rajeev Motwani, and An~Zhu.
+\newblock Algorithms for multi-product pricing.
+\newblock In {\em In Proceedings of the International Colloquium on Automata,
+  Languages, and Programming}, pages 72--83, 2004.
+
+\bibitem{bolton}
+P~Aghion and P~Bolton.
+\newblock An incomplete contracts approach to financial contracting.
+\newblock {\em Review of Economic Studies}, 59(3):473--494, 1992.
+
+\bibitem{AO15:stochastic_choice}
+M.~Agranov and P.~Ortoleva.
+\newblock Stochastic choice and preferences for randomization.
+\newblock {\em Journal of Political Economy}, 125(1):40--68, 2017.
+
+\bibitem{Ahmed_Cakmak_Shapiro_2007}
+Shabbir Ahmed, Ula\c{s} \c{C}akmak, and Alexander Shapiro.
+\newblock Coherent risk measures in inventory problems.
+\newblock {\em European Journal of Operational Research}, 182:226--238, 2007.
+
+\bibitem{Ahn_Gumus_Kaminsky11012007}
+Hyun-soo Ahn, Mehmet G\"{u}m\"{u}\c{s}, and Philip Kaminsky.
+\newblock {Pricing and Manufacturing Decisions When Demand Is a Function of
+  Prices in Multiple Periods}.
+\newblock {\em OPERATIONS RESEARCH}, 55(6):1039--1057, 2007.
+
+\bibitem{aickelin_2002}
+Uwe Aickelin.
+\newblock {An Indirect Genetic Algorithm for Set Covering Problems}.
+\newblock {\em {Journal of the Operational Research Society}},
+  53(10):1118--1126, 2002.
+
+\bibitem{sultan_huss_1996}
+K.~S. Al-Sultan, M.~F. Hussain, and J.~S. Nizami.
+\newblock {A Genetic Algorithm for the Set Covering Problem}.
+\newblock {\em The Journal of the Operational Research Society}, 47(5):pp.
+  702--709, 1996.
+
+\bibitem{alan14}
+Y~Alan, G~Gao, and V~Gaur.
+\newblock Does inventory turnover predict future stock returns? a retailing
+  industry perpective.
+\newblock {\em Management Science}, 2014.
+
+\bibitem{gaur12}
+Y~Alan and V~Gaur.
+\newblock Optimal investment and capital structure under asset based lending.
+\newblock {W}orking Paper, 2012.
+
+\bibitem{Allais_1953}
+M.~Allais.
+\newblock {Le Comportement de l'Homme Rationel devant le Risque: Critique des
+  Portulates et Axiomes de l'Ecole Americaine}.
+\newblock {\em Econometrica}, 21(4):503--546, 1953.
+
+\bibitem{almgren_chriss_2000}
+Robert Almgren and Neil Chriss.
+\newblock Optimal execution of portfolio transactions.
+\newblock {\em Journal of Risk}, 3(2):5--39, 2000.
+
+\bibitem{ATSxx:security_games}
+B.~An, M.~Tambe, and A.~Sinha.
+\newblock Stackelberg security games ({SSG}): Basics and application overview.
+\newblock In A.~Abbas, M.~Tambe, and D.~von Winterfeldt, editors, {\em
+  Improving Homeland Security Decisions}. Cambridge University Press, 2016.
+
+\bibitem{an2014reliable}
+Y.~An, B.~Zeng, Y.~Zhang, and L.~Zhao.
+\newblock Reliable p-median facility location problem: two-stage robust models
+  and algorithms.
+\newblock {\em Transportation Research Part B: Methodological}, 64:54--72,
+  2014.
+
+\bibitem{AlexandarAngelus05012008}
+Alexandar Angelus and Evan~L. Porteus.
+\newblock {An Asset Assembly Problem}.
+\newblock {\em OPERATIONS RESEARCH}, 56(3):665--680, 2008.
+
+\bibitem{AramanCaldentey05}
+Victor Araman and Rene Caldentey.
+\newblock Dynamic pricing for non-perishable products with demand learning.
+\newblock Working draft, 2005.
+
+\bibitem{arch}
+TW~Archibald, LC~Thomas, JM~Betts, and RB~Johnston.
+\newblock Should start-up companies be cautious? inventory policies which
+  maximize survival probabilities.
+\newblock {\em Management Science}, 48(9):1161--1174, 2002.
+
+\bibitem{wieseman:drcp}
+A.~Ardestani-Jaafari and E.~Delage.
+\newblock The value of flexibility in robust location-transportation problem.
+\newblock {\em Working paper}, 2015.
+
+\bibitem{ardestani2017LRC}
+A.~Ardestani-Jaafari and E.~Delage.
+\newblock Linearized robust counterparts of two-stage robust optimization
+  problem with applications in operations management.
+\newblock {\em Cahier du GERAD G-2016-69}, 2017.
+
+\bibitem{delage15:rosplfaip}
+Amir Ardestani-Jaafari and Erick Delage.
+\newblock Robust optimization of sums of piecewise linear functions with
+  application to inventory problems.
+\newblock {\em Operations Research}, 64(2):474--494, 2016.
+
+\bibitem{ardestani2018:VFRLTP}
+Amir Ardestani-Jaafari and Erick Delage.
+\newblock The value of flexibility in robust location–transportation
+  problems.
+\newblock {\em Transportation Science}, 52(1):189--209, 2018.
+
+\bibitem{Arkin_Hassin_1998}
+Esther~M. Arkin and Refael Hassin.
+\newblock {On Local Search for Weighted k-Set Packing}.
+\newblock {\em Mathematics of Operations Research}, 23(3):pp. 640--648, 1998.
+
+\bibitem{Artzner_Delbaen_1999}
+P.~Artzner, F.~Delbaen, J.-M. Eber, and D.~Heath.
+\newblock Coherent measures of risk.
+\newblock {\em Mathematical Finance}, 9(3):203--228, 1999.
+
+\bibitem{delbaen_multiperiod_2007}
+P.~Artzner, F.~Delbaen, J.-M. Eber, D.~Heath, and H.~Ku.
+\newblock Coherent multiperiod risk adjusted values and bellman's principle.
+\newblock {\em Annals of Operations Research}, 152:5--22, 2007.
+
+\bibitem{AsmussenGlynn07}
+Soren Asmussen and Peter Glynn.
+\newblock {\em Stochastic Simulation: Algorithms and Analysis}.
+\newblock Springer, 2007.
+
+\bibitem{Ata0609}
+Alper Atamt{\"u}rk.
+\newblock Strong formulations of robust mixed 0--1 programming.
+\newblock {\em Mathematical Programming}, 108(2):235--250, 09 2006.
+
+\bibitem{AlperAtamturk07012007}
+Alper Atamturk and Muhong Zhang.
+\newblock {Two-Stage Robust Network Flow and Design Under Demand Uncertainty}.
+\newblock {\em OPERATIONS RESEARCH}, 55(4):662--673, 2007.
+
+\bibitem{AvivPazgal_02}
+Y.~Aviv and A.~Pazgal.
+\newblock Pricing of short life-cycle products through active learning.
+\newblock {W}orking Paper, Washington University in St. Louis, St. Louis, MO,
+  2002.
+
+\bibitem{AvivPazgal_05}
+Yossi Aviv and Amit Pazgal.
+\newblock A partially observed markov decision process for dynamic pricing.
+\newblock {\em Manage. Sci.}, 51(9):1400--1416, 2005.
+
+\bibitem{Axsater_inventory_book}
+Sven \"{A}xsater.
+\newblock {\em {Inventory Control}}.
+\newblock Springer, 2006.
+
+\bibitem{azoury}
+KS~Azoury.
+\newblock Bayes solution to dynamic inventory models under unknown demand
+  distribution.
+\newblock {\em Management Science}, 31(9):1150--1160, 1985.
+
+\bibitem{babich10}
+V~Babich.
+\newblock Independence of capacity ordering and financial subsidies to risky
+  suppliers.
+\newblock {\em Manufacturing \& Service Operations Management}, 12(4):583--607,
+  2010.
+
+\bibitem{babich04}
+V~Babich and MJ~Sobel.
+\newblock Pre-ipo operational and financial decisions.
+\newblock {\em Management Science}, 50:935--948, 2004.
+
+\bibitem{babich12}
+Volodymyr Babich, Hantao Li, Peter Ritchken, and Yunzeng Wang.
+\newblock Contracting with asymmetric demand information in supply chains.
+\newblock {\em European Journal of Operational Research}, 217(2):333 -- 341,
+  2012.
+
+\bibitem{Babonneau_Vial_Apparigliato_2010}
+F.~Babonneau, J.-P. Vial, and R.~Apparigliato.
+\newblock {\em Uncertainty and Environmental Decision Making}, volume 138 of
+  {\em International Series in Operations Research \& Management Science},
+  chapter Robust Optimization for Environmental and Energy Planning, pages
+  79--126.
+\newblock Springer US, 2010.
+
+\bibitem{BaSaPi95}
+S.~Bakhtiari, R.~Safavi-Naini, and J.~Pieprzyk.
+\newblock Cryptographic hash functions: A survey.
+\newblock Technical Report 95-09, University of Wollongong - Department of
+  Computer Science, July 1995.
+
+\bibitem{Balas_Bockmayr_Pisaruk_Wolsey_2004}
+Egon Balas, Alexander Bockmayr, Nicolai Pisaruk, and Laurence Wolsey.
+\newblock On unions and dominants of polytopes.
+\newblock {\em Mathematical Programming}, 99:223--239, 2004.
+
+\bibitem{BalCerCorn93}
+Egon Balas, Sebasti\'{a}n Ceria, and G\'{e}rard Cornu\'{e}jols.
+\newblock A lift-and-project cutting plane algorithm for mixed 0-1 programs.
+\newblock {\em Mathematical Programming}, 58(3):295--324, 1993.
+
+\bibitem{Balas_Fischetti_97}
+Egon Balas and Matteo Fischetti.
+\newblock On the monotonization of polyhedra.
+\newblock {\em Mathematical Programming}, 78:59--84, 1996.
+
+\bibitem{balas_ho_set_cov_1980}
+Egon Balas and Andrew Ho.
+\newblock {Set Covering Algorithms Using Cutting Planes, Heuristics, and
+  Subgradient Optimization: A Computational Study}.
+\newblock In {\em Combinatorial Optimization}, volume~12 of {\em Mathematical
+  Programming Studies}, pages 37--60. Springer Berlin Heidelberg, 1980.
+
+\bibitem{BalMart80}
+Egon Balas and Clarence.~H. Martin.
+\newblock Pivot and complement-a heuristic for 0-1 programming.
+\newblock {\em Management Science}, 26(1):86--96, 1980.
+
+\bibitem{Balas1998}
+Egon Balas and Maarten Oosten.
+\newblock On the dimension of projected polyhedra.
+\newblock {\em Discrete Applied Mathematics}, 87(1-3):1 -- 9, 1998.
+
+\bibitem{Bandi_Bertsimas_2012}
+Chaithanya Bandi and Dimitris Bertsimas.
+\newblock Tractable stochastic analysis in high dimensions via robust
+  optimization.
+\newblock {\em Mathematical Programming}, 134:23--70, 2012.
+
+\bibitem{barmannpolyhedral}
+Andreas B{\"a}rmann, Andreas Heidt, Alexander Martin, Sebastian Pokutta, and
+  Christoph Thurner.
+\newblock Polyhedral approximation of ellipsoidal uncertainty sets via extended
+  formulations: a computational case study.
+\newblock {\em Computational Management Science}, 13(2):151--193, 2016.
+
+\bibitem{baron2011:FacilityLocation}
+O.~Baron, J.~Milner, and H.~Naseraldin.
+\newblock Facility location: A robust optimization approach.
+\newblock {\em Production and Operations Management}, 20(5):772--785, 2011.
+
+\bibitem{baron2011facility}
+O.~Baron, J.~Milner, and H.~Naseraldin.
+\newblock Facility location: A robust optimization approach.
+\newblock {\em Production and Operations Management}, 20(5):772--785, 2011.
+
+\bibitem{Basak_Shapiro}
+S~Basak and A~Shapiro.
+\newblock Value-at-risk-based risk management: optimal policies and asset
+  prices.
+\newblock {\em Review of Financial Studies}, 14(2):371--405, 2001.
+
+\bibitem{Chabakauri_Basak_2010}
+Suleyman Basak and Georgy Chabakauri.
+\newblock Dynamic mean-variance asset allocation.
+\newblock {\em Review of Financial Studies}, 23(8):2970--3016, 2010.
+
+\bibitem{Basel_II}
+{Basel Committee on Banking Supervision}.
+\newblock {International Convergence of Capital Measurement and Capital
+  Standards}.
+\newblock Technical report, Bank for International Settlements, Bank for
+  International Settlements, 2006.
+
+\bibitem{Baeuerle2005}
+N.~B{\"a}uerle and A.~M{\"u}ller.
+\newblock Stochastic orders and risk measures: Consistency and bounds.
+\newblock {\em Insurance: Mathematics and Economics}, 38(1):132--148, 2006.
+
+\bibitem{Beas_nav_log_1990}
+J.~E. Beasley.
+\newblock {A Lagrangian Heuristic for Set-covering Problems}.
+\newblock {\em Naval Research Logistics}, 37(1):151--164, 1990.
+
+\bibitem{Bellini:elicitable2014}
+F.~Bellini and V.~Bignozzi.
+\newblock On elicitable risk measures.
+\newblock {\em Quantitative Finance}, 15(5):725--733, 2015.
+
+\bibitem{Bellman_DP_2954}
+Richard Bellman.
+\newblock {Some Problems in the Theory of Dynamic Programming}.
+\newblock {\em Econometrica}, 22(1):37--48, January 1954.
+
+\bibitem{MorBemp00}
+A.~Bemporad, F.~Borrelli, and M.~Morari.
+\newblock {Optimal Controllers for Hybrid Systems: Stability and Piecewise
+  Linear Explicit Form}.
+\newblock In {\em Decision and Control, 2000. Proceedings of the 39th {IEEE}
+  Conference on}, volume~2, pages 1810--1815 vol.2, 2000.
+
+\bibitem{MorBemp02}
+A.~Bemporad, F.~Borrelli, and M.~Morari.
+\newblock {Model Predictive Control Based on Linear Programming - The Explicit
+  Solution}.
+\newblock {\em {IEEE Transactions on Automatic Control}}, 47(12):1974--1985,
+  2002.
+
+\bibitem{BempMor03}
+A.~Bemporad, F.~Borrelli, and M.~Morari.
+\newblock Min-max control of constrained uncertain discrete-time linear
+  systems.
+\newblock {\em IEEE Transactions on Automatic Control}, 48(9):1600--1606, 2003.
+
+\bibitem{BenTal_Nemirov_ElGhao_book_09}
+A.~Ben-Tal, L.~El Ghaoui, and A.~Nemirovski.
+\newblock {\em Robust Optimization}.
+\newblock Princeton University Press, 2009.
+
+\bibitem{ben2005retailer}
+A.~Ben-Tal, B.~Golany, A.~Nemirovski, and J.P. Vial.
+\newblock Retailer-supplier flexible commitments contracts: a robust
+  optimization approach.
+\newblock {\em Manufacturing \& Service Operations Management}, 7(3):248--271,
+  2005.
+
+\bibitem{Ben-Tal2009}
+A.~Ben-Tal, B.~Golany, and S.~Shtern.
+\newblock Robust multi-echelon multi-period inventory control.
+\newblock {\em European Journal of Operational Research}, 199(3):922--935,
+  2009.
+
+\bibitem{ben2004adjustable}
+A.~{Ben-Tal}, A.~Goryashko, E.~Guslitzer, and A.~Nemirovski.
+\newblock Adjustable robust solutions of uncertain linear programs.
+\newblock {\em Mathematical Programming}, 99(2):351--376, 2004.
+
+\bibitem{bentalNem:rttdsdp}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust truss topology design via semidefinite programming.
+\newblock {\em SIAM Journal of Optimization}, 7(4):991--1016, 1997.
+
+\bibitem{bentalNem1998:rco}
+A.~{Ben-Tal} and A.~Nemirovski.
+\newblock {Robust convex optimization}.
+\newblock {\em Mathematics of Operations Research}, 23(4):769--805, 1998.
+
+\bibitem{AharoBent}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock On polyhedral approximations of the second-order cone.
+\newblock {\em Mathematics of Operations Research}, 26(2):pp. 193--205, 2001.
+
+\bibitem{bentalTeboulle:oce86}
+A.~Ben-Tal and M.~Teboulle.
+\newblock Expected utility, penalty functions and duality in stochastic
+  nonlinear programming.
+\newblock {\em Management Science}, 32:1445--1466, 1986.
+
+\bibitem{BenTal_Teboulle_2007}
+A.~Ben-Tal and M.~Teboulle.
+\newblock An old-new concept of convex risk measures: The optimized certainty
+  equivalent.
+\newblock {\em Mathematical Finance}, 17(3):449--476, 2007.
+
+\bibitem{Ben-Tal_Bertsimas_Brown_2010}
+Aharon Ben-Tal, Dimitris Bertsimas, and David~B. Brown.
+\newblock A soft robust model for optimization under ambiguity.
+\newblock {\em Operations Research}, 58:1220--1234, 2010.
+
+\bibitem{BenBoy05}
+Aharon Ben-Tal, Stephen Boyd, and Arkadi Nemirovski.
+\newblock Control of uncertainty-affected discrete time linear systems via
+  convex programming.
+\newblock {W}orking Paper, 2005.
+
+\bibitem{BenBoyd06}
+Aharon Ben-Tal, Stephen Boyd, and Arkadi Nemirovski.
+\newblock Extending scope of robust optimization: Comprehensive robust
+  counterparts of uncertain problems.
+\newblock {\em Mathematical Programming}, 107(1):63--89, 2006.
+
+\bibitem{BenTal_Hertog_2013}
+Aharon Ben-Tal, Dick {den Hertog}, Anja {De Waegenaere}, Bertrand Melenberg,
+  and Gijs Rennen.
+\newblock Robust solutions of optimization problems affected by uncertain
+  probabilities.
+\newblock {\em Management Science}, 59(2):341--357, 2013.
+
+\bibitem{BenTal_denHertog_Vial_2015}
+Aharon Ben-Tal, Dick den Hertog, and Jean-Phillipe Vial.
+\newblock Deriving robust counterparts of nonlinear uncertain inequalities.
+\newblock {\em Mathematical Programming, Series A}, 149:265--299, 2015.
+
+\bibitem{BenTal05}
+Aharon Ben-Tal, Boaz Golany, Arkadi Nemirovski, and Jean-Phillipe Vial.
+\newblock Retailer-supplier flexible commitments contracts: A robust
+  optimization approach.
+\newblock {\em Manufacturing \& Service Operations Management}, 7(3):248--271,
+  2005.
+
+\bibitem{Ben-Tal_Nemirov_pfolio_2000}
+Aharon Ben-Tal, T.~Margalit, and Arkadi Nemirovski.
+\newblock Robust modeling of multi-stage portfolio problems.
+\newblock In H.~Frenk, K.~Roos, T.~Terlaky, and S.~Zhang, editors, {\em High
+  Performance Optimization}, pages 303--328. Kluwer Academic Publishers, 2000.
+
+\bibitem{BenTal00}
+Aharon Ben-Tal and Arkadi Nemirovski.
+\newblock Robust solutions of uncertain linear programs.
+\newblock {\em Operations Research Letters}, 25:1--13, 1999.
+
+\bibitem{BenTal_Nemirov_1999}
+Aharon Ben-Tal and Arkadi Nemirovski.
+\newblock Robust solutions of linear programming problems contaminated with
+  uncertain data.
+\newblock {\em Mathematical Programming, Series A}, 88(3):411--424, September
+  2000.
+
+\bibitem{BenTal02}
+Aharon Ben-Tal and Arkadi Nemirovski.
+\newblock Robust optimization - methodology and applications.
+\newblock {\em Mathematical Programming}, 92(3):453--480, 2002.
+
+\bibitem{BenTal_Nemirov_survey_08}
+Aharon Ben-Tal and Arkadi Nemirovski.
+\newblock Selected topics in robust convex optimization.
+\newblock {\em Mathematical Programming}, 112(1):125--158, 2007.
+
+\bibitem{Ben-Tal_Nemirov_safe_LMI_2009}
+Aharon Ben-Tal and Arkadi Nemirovski.
+\newblock On safe tractable approximations of chance-constrained linear matrix
+  inequalities.
+\newblock {\em Mathematics of Operations Research}, 34(1):1--25, 2009.
+
+\bibitem{BenTalRoos02}
+Aharon Ben-Tal, Arkadi Nemirovski, and C.~Roos.
+\newblock Robust solutions of uncertain quadratic and conic-quadratic problems.
+\newblock {\em SIAM Journal on Optimization}, 13(2):535--560, 2002.
+
+\bibitem{dsdp1}
+{S. J.} Benson, Y.~Ye, and X.~Zhang.
+\newblock Solving large-scale sparse semidefinite programs for combinatorial
+  optimization.
+\newblock {\em SIAM Journal on Optimization}, 10(2):443--461, 2000.
+
+\bibitem{Bensoussan_inventory_83}
+Alain Bensoussan, M~Crourty, and J.~M. Proth.
+\newblock {\em Mathematical Theory of Production Planning}.
+\newblock Elsevier Science Ltd., 1983.
+
+\bibitem{Bergson_1938}
+Abram Bergson.
+\newblock A reformulation of certain aspects of welfare economics.
+\newblock {\em The Quarterly Journal of Economics}, 52(2):310--334, 1938.
+
+\bibitem{Bkas_Nonlinear_99}
+D.~P. Bertsekas.
+\newblock {\em {Nonlinear Programming}}.
+\newblock Athena Scientific, Belmont, MA, 1999.
+
+\bibitem{Bkas_DP_05}
+D.~P. Bertsekas.
+\newblock {\em {Dynamic Programming and Optimal Control}}.
+\newblock Athena Scientific, Belmont, MA, 2001.
+
+\bibitem{Bkas_Convex_03}
+D.~P. Bertsekas, A.~Nedic, and A.~Ozdaglar.
+\newblock {\em {Convex Analysis and Optimization}}.
+\newblock Athena Scientific, 2003.
+
+\bibitem{Bkas71}
+D.~P. Bertsekas and I.B. Rhodes.
+\newblock On the minmax reachability of target tubes.
+\newblock {\em Automatica}, 7:233--247, 1971.
+
+\bibitem{BkasTsi_Neurodynamic_96}
+D.~P. Bertsekas and J.~N. Tsitsiklis.
+\newblock {\em {Neurodynamic Programming}}.
+\newblock Athena Scientific, Belmont, MA, 1996.
+
+\bibitem{Bertsekas_1971}
+Dimitri Bertsekas.
+\newblock {\em Control of Uncertain Systems with a Set-Membership Description
+  of the Uncertainty}.
+\newblock PhD thesis, Massachusetts Institute of Technology, Cambridge, MA,
+  1971.
+
+\bibitem{BertBrwon}
+D.~Bertsimas, D.~Brown, and C.~Caramanis.
+\newblock Theory and applications of robust optimization.
+\newblock {\em SIAM Review}, 53(3):464--501, 2011.
+
+\bibitem{Caramanis_Berts_finite_adapt_08}
+D.~Bertsimas and C.~Caramanis.
+\newblock Finite adaptability in multistage linear optimization.
+\newblock {\em Automatic Control, IEEE Transactions on}, 55(12):2751 --2766,
+  dec. 2010.
+
+\bibitem{bertsimasduality}
+D.~Bertsimas and F.~{de Ruiter}.
+\newblock Duality in two-stage adaptive linear optimization: Faster computation
+  and stronger bounds.
+\newblock {\em working paper}, 2015.
+
+\bibitem{bertsimas2012power}
+D.~Bertsimas and V.~Goyal.
+\newblock On the power and limitations of affine policies in two-stage adaptive
+  optimization.
+\newblock {\em Mathematical Programming}, 134(2):491--531, 2012.
+
+\bibitem{Bertsimas:2018aa}
+D.~Bertsimas, V.~Gupta, and N.~Kallus.
+\newblock Data-driven robust optimization.
+\newblock {\em Mathematical Programming}, 167(2):235--292, 2018.
+
+\bibitem{Bertsimas2010}
+D.~Bertsimas, {D. A.} Iancu, and {P. A.} Parrilo.
+\newblock Optimality of affine policies in multistage robust optimization.
+\newblock {\em Mathematics of Operations Research}, 35(2):363--394, 2010.
+
+\bibitem{Bertsimas2011}
+D.~Bertsimas, {D. A.} Iancu, and {P. A.} Parrilo.
+\newblock A hierarchy of near-optimal policies for multistage adaptive
+  optimization.
+\newblock {\em IEEE Transactions on Automatic Control}, 56(12):2809--2824,
+  2011.
+
+\bibitem{bertsimas2011:aroscucp}
+D.~Bertsimas, E.~Litvinov, {X. A.} Sun, J.~Zhao, and T.~Zheng.
+\newblock Adaptive robust optimization for the security constrained unit
+  commitment problem.
+\newblock {\em IEEE Transactions on Power Systems}, 28(1):52--63, 2013.
+
+\bibitem{BNO16:randomization}
+D.~Bertsimas, E.~Nasrabadi, and J.~B. Orlin.
+\newblock On the power of randomization in network interdiction.
+\newblock {\em Operations Research Letters}, 44(1):114--120, 2016.
+
+\bibitem{bertsimas2003robust}
+D.~Bertsimas and M.~Sim.
+\newblock Robust discrete optimization and network flows.
+\newblock {\em Mathematical Programming}, 98(1):49--71, 2003.
+
+\bibitem{bertsimas2004:priceOfRobust}
+D.~Bertsimas and M.~Sim.
+\newblock {The price of robustness}.
+\newblock {\em Operations Research}, 52(1):35--53, 2004.
+
+\bibitem{bertsimas2006robust}
+D.~Bertsimas and A.~Thiele.
+\newblock A robust optimization approach to inventory theory.
+\newblock {\em Operations Research}, 54(1):150--168, 2006.
+
+\bibitem{BertDB07}
+Dimitris Bertsimas and David~B. Brown.
+\newblock {Constrained Stochastic LQC: A Tractable Approach}.
+\newblock {\em IEEE Transactions on Automatic Control}, 52(10):1826--1841, Oct.
+  2007.
+
+\bibitem{Bertsimas_Brown_2009}
+Dimitris Bertsimas and David~B. Brown.
+\newblock Constructing uncertainty sets for robust linear optimization.
+\newblock {\em Operations Research}, 57(6):1483--1495, 2009.
+
+\bibitem{Berts_Caramanis_07}
+Dimitris Bertsimas and Constantine Caramanis.
+\newblock Adaptability via sampling.
+\newblock In {\em Decision and Control, 2000. Proceedings of the 46th {IEEE}
+  Conference on}, 2007.
+
+\bibitem{Bertsimas_Darnell_GMO_1999}
+Dimitris Bertsimas, Christopher Darnell, and Robert Soucy.
+\newblock Portfolio construction through mixed-integer programming at grantham,
+  mayo, van otterloo and company.
+\newblock {\em Interfaces}, 29(1):49--66, 1999.
+
+\bibitem{Bertsimas_Doan_Natarajan_Teo_2010}
+Dimitris Bertsimas, Xuan~Vinh Doan, Karthik Natarajan, and Chung-Piaw Teo.
+\newblock Models for minimax stochastic linear optimization problems with risk
+  aversion.
+\newblock {\em Mathematics of Operations Research}, 2010.
+
+\bibitem{Bertsimas_Farias_Trichakis_2011}
+Dimitris Bertsimas, Vivek~F. Farias, and Nikolaos Trichakis.
+\newblock The price of fairness.
+\newblock {\em Operations Research}, 59(1):17--31, 2011.
+
+\bibitem{Bertsimas_Farias_Trichakis_2012}
+Dimitris Bertsimas, Vivek~F. Farias, and Nikolaos Trichakis.
+\newblock On the efficiency-fairness tradeoff.
+\newblock {\em {Management Science}}, 2012.
+\newblock To appear.
+
+\bibitem{Berts_Gheorg_2015}
+Dimitris Bertsimas and Angelos Gheorghiou.
+\newblock Design of near optimal decision rules in multistage adaptive
+  mixed-integer optimization, 2015.
+\newblock {W}orking paper.
+
+\bibitem{Bertsimas_Goyal_2010_finite_adapt}
+Dimitris Bertsimas and Vineet Goyal.
+\newblock {On the Power of Robust Solutions in Two-Stage Stochastic and
+  Adaptive Optimization Problems}.
+\newblock {\em Mathematics of Operations Research}, 35(2):284--305, 2010.
+
+\bibitem{Bertsimas_Lu_Goyal}
+Dimitris Bertsimas, Vineet Goyal, and Brian Lu.
+\newblock A tight characterization of the performance of static solutions in
+  two-stage adjustable robust linear optimization.
+\newblock {\em Mathematical Programming}, 150(2):281--319, 2015.
+
+\bibitem{Berts_Goyal_Sun_2011}
+Dimitris Bertsimas, Vineet Goyal, and Xu~Andy Sun.
+\newblock A geometric characterization of the power of finite adaptability in
+  multistage stochastic and adaptive optimization.
+\newblock {\em Mathematics of Operations Research}, 36(1):24--54, 2011.
+
+\bibitem{Bertsimas_Hummel_Lo_1999}
+Dimitris Bertsimas, Paul Hummel, and Andrew Lo.
+\newblock Optimal control of execution costs for portfolios.
+\newblock {\em {Computing in Science and Engineering}}, 1(6):40--53, 1999.
+
+\bibitem{Bertsimas_Iancu_Parrilo_affine}
+Dimitris Bertsimas, Dan~A. Iancu, and Pablo~A. Parrilo.
+\newblock Optimality of affine policies in multistage robust optimization.
+\newblock {\em Mathematics of Operations Research}, 35(2):363--394, 2010.
+
+\bibitem{Bertsimas_Kogan_Lo}
+Dimitris Bertsimas, Leonid Kogan, and Andrew Lo.
+\newblock Hedging derivative securities and incomplete markets: An
+  epsilon-arbitrage approach.
+\newblock {\em {Operations Research}}, 49:372--397, 2001.
+
+\bibitem{Bertsimas_Lo_1998}
+Dimitris Bertsimas and Andrew Lo.
+\newblock Optimal control of execution costs.
+\newblock {\em Journal of Financial Markets}, 1(1):1--50, 1998.
+
+\bibitem{Bertsimas_Nino_Mora_1996}
+Dimitris Bertsimas and Jose Nino-Mora.
+\newblock Conservation laws, extended polymatroids and multiarmed bandit
+  problems; a polyhedral approach to indexable systems.
+\newblock {\em Mathematics of Operations Research}, 21(2):257--306, 1996.
+
+\bibitem{Pachamanova_Bertsimas_multiper_2008}
+Dimitris Bertsimas and Dessislava Pachamanova.
+\newblock Robust multiperiod portfolio management in the presence of
+  transaction costs.
+\newblock {\em Computers and Operations Research}, 35(1):3--17, 2008.
+
+\bibitem{BertPach04}
+Dimitris Bertsimas, Dessislava Pachamanova, and Melvyn Sim.
+\newblock {Robust linear optimization under general norms}.
+\newblock {\em Operations Research Letters}, 32(6):510 -- 516, 2004.
+
+\bibitem{Bertsimas_Perakis_2006}
+Dimitris Bertsimas and Georgia Perakis.
+\newblock Dynamic pricing: A learning approach.
+\newblock {\em Mathematical and Computational Models for Congestion Charging},
+  101:45--79, 2006.
+
+\bibitem{bertsimas_popescu_probab_ineq_2005}
+Dimitris Bertsimas and Ioana Popescu.
+\newblock {Optimal Inequalities in Probability Theory: A Convex Optimization
+  Approach}.
+\newblock {\em SIAM Journal on Optimization}, 15(3):780--804, 2005.
+
+\bibitem{BerSim03}
+Dimitris Bertsimas and Melvyn Sim.
+\newblock Robust discrete optimization and network flows.
+\newblock {\em Mathematical Programming}, 98(1-3):49--71, 2003.
+
+\bibitem{BerTsi}
+Dimitris Bertsimas and John~N. Tsitsiklis.
+\newblock {\em Introduction to Linear Optimization}.
+\newblock Athena Scientific, Belmont, MA, 1997.
+
+\bibitem{besbes_maglaras}
+O~Besbes and C~Maglaras.
+\newblock Dynamic pricing with financial milestones: Feedback-form policies.
+\newblock {\em Management Science}, 9(9):1715--1731, 2012.
+
+\bibitem{OmarBesbes11012009}
+Omar Besbes and Assaf Zeevi.
+\newblock {Dynamic Pricing Without Knowing the Demand Function: Risk Bounds and
+  Near-Optimal Algorithms}.
+\newblock {\em OPERATIONS RESEARCH}, 57(6):1407--1420, 2009.
+
+\bibitem{Besbes_Zeevi_2010}
+Omar Besbes and Assaf Zeevi.
+\newblock {On the Minimax Complexity of Pricing in a Changing Environment}.
+\newblock forthcoming in {Operations Research}, 2010.
+
+\bibitem{bienstock2008computing}
+D.~Bienstock and N.~{\"O}zbay.
+\newblock Computing robust basestock levels.
+\newblock {\em Discrete Optimization}, 5(2):389--414, 2008.
+
+\bibitem{Bienstock_07}
+Daniel Bienstock.
+\newblock {Histogram Models for Robust Portfolio Optimization}.
+\newblock {\em Journal of Computational Finance}, 11(1):389 -- 414, 2007.
+
+\bibitem{Billingsley_P_prob_and_measure}
+Patrick Billingsley.
+\newblock {\em Probability and Measure}.
+\newblock Wiley, 2008.
+
+\bibitem{billionnet20142}
+A.~Billionnet, {M.-C.} Costa, and {P.-L.} Poirion.
+\newblock 2-stage robust milp with continuous recourse variables.
+\newblock {\em Discrete Applied Mathematics}, 170:21--32, 2014.
+
+\bibitem{BirgeLouv}
+J.~R. Birge and F.~Louveaux.
+\newblock {\em {Introduction to Stochastic Programming}}.
+\newblock Springer, 2000.
+
+\bibitem{Birge:2000:OMI:767743.768719}
+John~R. Birge.
+\newblock Option methods for incorporating risk into linear capacity planning
+  models.
+\newblock {\em Manufacturing \& Service Operations Management}, 2:19--31,
+  January 2000.
+
+\bibitem{birgebankruptcy}
+JR~Birge, RP~Parker, and SA~Yang.
+\newblock Bankruptcy as a competitive strategy.
+\newblock {W}orking Paper, 2014.
+
+\bibitem{Birge13}
+JR~Birge and SA~Yang.
+\newblock How inventory is (should be) financed: trade credit in supply chains
+  with demand uncertainty and costs of financial distress.
+\newblock {W}orking Paper, 2013.
+
+\bibitem{Bitran_Caldentey_Mondschein_1998}
+Gabriel~R. Bitran, Ren\'{e} Caldentey, and Susana~V. Mondschein.
+\newblock Coordinating clearance markdown sales of seasonal products in retail
+  chains.
+\newblock {\em Operations Research}, 46(5):609--624, September-October 1998.
+
+\bibitem{Bitran_Mondschein_1997}
+Gabriel~R. Bitran and Susana~V. Mondschein.
+\newblock {Periodic Pricing of Seasonal Products in Retailing}.
+\newblock {\em Management Science}, 43(1):64--79, 1997.
+
+\bibitem{Bitran_Mondschein_1993}
+Gabriel~R. Bitran and Susana~V. Mondschein.
+\newblock Pricing perishable products: An application to the retail industry.
+\newblock MIT Working Paper \#3592-93, July 2003.
+
+\bibitem{Bitran_Wadhwa_1996}
+Gabriel~R. Bitran and Kumar~Singh Wadhwa, Hitendra.
+\newblock {A Methodology for Demand Learning with an Application to the Optimal
+  Pricing of Seasonal Products}.
+\newblock MIT Working Paper \#3898-96, 1996.
+
+\bibitem{Boda_Filar_2006}
+K.~Boda and J.~Filar.
+\newblock Time consistent dynamic risk measures.
+\newblock {\em Mathematical Methods of Operations Research}, 63(1):169--186,
+  February 2006.
+
+\bibitem{bolton2013}
+P~Bolton.
+\newblock Corporate finance, incomplete contracts, and corporate control.
+\newblock {\em The Journal of Law, Economics, and Organization}, 2013.
+
+\bibitem{ctbook}
+P~Bolton and M~Dewatripont.
+\newblock {\em Contract Theory}.
+\newblock The MIT Press, 2004.
+
+\bibitem{BomzeKlerk:Copos}
+{I. M} Bomze and E.~{de Klerk}.
+\newblock Solving standard quadratic optimization problems via linear,
+  semidefinite and copositive programming.
+\newblock {\em J. Global Optim.}, 24(2):163--185, 2002.
+
+\bibitem{Borwein2000}
+Jonathan~M. Borwein and Adrian~S. Lewis.
+\newblock {\em Convex Analysis and Nonlinear Optimization}.
+\newblock Springer, 2000.
+
+\bibitem{bourg}
+JM~Bourgeon and G~Dionne.
+\newblock On debt service and renegotiation when debt-holders are more
+  strategic.
+\newblock {\em J. Finan. Intermediation}, 22:353--372, 2013.
+
+\bibitem{Box_Jenkins_book_94}
+George Box, Gwilym~M. Jenkins, and Gregory Reinsel.
+\newblock {\em Time Series Analysis: Forecasting and Control}.
+\newblock Prentice Hall, 3 edition, 1994.
+
+\bibitem{BoyabToktay2011}
+Onur Boyabatl{\i} and L.~Beril Toktay.
+\newblock Stochastic capacity investment and flexible versus dedicated
+  technology choice in imperfect capital markets.
+\newblock {\em Management Science}, 20(6):2163--2179, 2011.
+
+\bibitem{boydetal:dcogp}
+S.~Boyd, {S.-J.} Kim, D.~Patil, and M.~Horowitz.
+\newblock Digital circuit optimization via geometric programming.
+\newblock {\em Operations Research}, 53(6):899--932, 2005.
+
+\bibitem{Boyd_Kim_Vand_Hassibi_2007}
+Stephen Boyd, Seung-Jean Kim, Lieven Vandenberghe, and Arash Hassibi.
+\newblock A tutorial on geometric programming.
+\newblock {\em Optimization and Engineering}, 8(1):67--127, March 2007.
+
+\bibitem{Boyd_Magnani_2009}
+Stephen Boyd and Alessandro Magnani.
+\newblock {Convex Piecewise-linear Fitting}.
+\newblock {\em Optimization and Engineering}, 10(1):1--17, March 2009.
+
+\bibitem{Boyd_Vanden_book_2004}
+Stephen Boyd and Lieven Vandenberghe.
+\newblock {\em Convex Optimization}.
+\newblock Cambridge University Press, 2004.
+
+\bibitem{bradley}
+M.~Bradley and M.~R. Roberts.
+\newblock The structure and pricing of corporate debt covenants.
+\newblock {W}orking Paper, 2004.
+
+\bibitem{Bray_Mendelson_2012}
+Robert~L. Bray and Haim Mendelson.
+\newblock {Deriving Supply Chain Metrics From Financial Statements}.
+\newblock {W}orking paper., 2012.
+
+\bibitem{Brazauskas_2008}
+Vytaras Brazauskas, Bruce~L. Jones, Madan~L. Puri, and Ri{\v c}ardas Zitikis.
+\newblock Estimating conditional tail expectation with actuarial applications
+  in view.
+\newblock {\em Journal of Statistical Planning and Inference}, 138(11):3590 --
+  3604, 2008.
+
+\bibitem{Briest_Krysta_2007}
+Patrick Briest and Piotr Krysta.
+\newblock Buying cheap is expensive: hardness of non-parametric multi-product
+  pricing.
+\newblock In {\em Proceedings of the eighteenth annual ACM-SIAM symposium on
+  Discrete algorithms}, SODA '07, pages 716--725, Philadelphia, PA, USA, 2007.
+  Society for Industrial and Applied Mathematics.
+
+\bibitem{Brown:10}
+David Brown, B., Bruce Carlin, and S.~Miguel Lobo.
+\newblock Optimal portfolio liquidation with distress risk.
+\newblock {\em Management Science}, 56(11):1997--2014, 2010.
+
+\bibitem{Brown_Smith_Sun_2010}
+David~B. Brown, James~E. Smith, and Peng Sun.
+\newblock Information relaxations and duality in stochastic dynamic programs.
+\newblock {\em Operations Research}, 58(4-Part-1):785--801, July/August 2010.
+
+\bibitem{Commitment_Devices}
+G.~Bryan, D.~Karlan, and S.~Nelson.
+\newblock Commitment devices.
+\newblock {\em Annual Review of Economics}, 2:671--698, 2010.
+
+\bibitem{Bulinskaia_Convex_ordering_1967}
+E.~V. Bulinskaya.
+\newblock {Optimum Inventory Policies with a Convex Ordering Cost Function}.
+\newblock {\em Theory of Probability and its Applications}, 12(1):9--21, 1967.
+
+\bibitem{Burer:Copos}
+S.~Burer.
+\newblock On the copositive representation of binary and continuous nonconvex
+  quadratic programs.
+\newblock {\em Math. Prog.}, 120(2):479--495, 2009.
+
+\bibitem{buz}
+AJ~Buzacott and QR~Zhang.
+\newblock Inventory management with asset-based financing.
+\newblock {\em Management Science}, 50(9):1274--1292, 2004.
+
+\bibitem{cachon}
+G~Cachon.
+\newblock {\em Handbooks in Operations Research and Management Science}.
+\newblock Elsevier, Chapter 2: Supply chain coordination with contracts, 2003.
+
+\bibitem{cachon0}
+GP~Cachon and M~Fisher.
+\newblock Supply chain inventory management and the value of shared
+  information.
+\newblock {\em Management Science}, 46(8):1032--48, 2000.
+
+\bibitem{cachon7}
+GP~Cachon and AG~Kok.
+\newblock Implementation of the newsvendor model with clearance pricing: how to
+  (and how not to) estimate a salvage value.
+\newblock {\em Manufacturing \& Service Operations Management}, 9(3):276--290,
+  2007.
+
+\bibitem{cachon5}
+GP~Cachon and MA~Lariviere.
+\newblock Supply chain coordination with revenue-sharing contracts: strengths
+  and limitations.
+\newblock {\em Management Science}, 51(1):30--44, 2005.
+
+\bibitem{cachon6}
+GP~Cachon and S~Netessine.
+\newblock Game theory in supply chain analysis.
+\newblock {\em INFORMS}, 2006.
+
+\bibitem{Calafiore_robust_pfolio_2007}
+G.~Calafiore.
+\newblock Ambiguous risk measures and optimal robust portfolios.
+\newblock {\em SIAM Journal on Optimization}, 18(3):853--877, 2007.
+
+\bibitem{calElG:rmlelm}
+G.~Calafiore and L.~El Ghaoui.
+\newblock Robust maximum likelihood estimation in the linear model.
+\newblock {\em Automatica}, 37(4):573--580, 2001.
+
+\bibitem{Calafiore_Campi_2005}
+Giuseppe Calafiore and Marco~C. Campi.
+\newblock {Uncertain Convex Programs: Randomized Solutions and Confidence
+  Levels}.
+\newblock {\em Mathematical Programming}, 102(1):25--46, January 2005.
+
+\bibitem{Calafiore_Campi_2006}
+Giuseppe Calafiore and Marco~C. Campi.
+\newblock {The Scenario Approach to Robust Control Design}.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 51(5):742--753, May
+  2006.
+
+\bibitem{caldentey}
+R~Caldentey and M~Haugh.
+\newblock Supply contracts with financial hedging.
+\newblock {\em Operations Research}, 57:47--65, 2009.
+
+\bibitem{Caldentey_Haugh_MOR_06}
+Rene Caldentey and Martin Haugh.
+\newblock Optimal control and hedging of operations in the presence of
+  financial markets.
+\newblock {\em MATHEMATICS OF OPERATIONS RESEARCH}, 31(2):285--304, 2006.
+
+\bibitem{campi:fate}
+{M. C.} Campi.
+\newblock Why is resorting to fate wise? a critical look at randomized
+  algorithms in systems and control.
+\newblock {\em European Journal of Control}, 16(5):419--430, 2010.
+
+\bibitem{candia2011minmax}
+A.~Candia-V{\'e}jar, E.~{\'A}lvarez-Miranda, and N.~Maculan.
+\newblock Minmax regret combinatorial optimization problems: an algorithmic
+  perspective.
+\newblock {\em RAIRO-Operations Research}, 45(2):101--129, 2011.
+
+\bibitem{AlbertoCaprara09011999}
+Alberto Caprara, Matteo Fischetti, and Paolo Toth.
+\newblock A heuristic method for the set covering problem.
+\newblock {\em {Operations Research}}, 47(5):730--743, 1999.
+
+\bibitem{caprara_survey_set_cov}
+Alberto Caprara, Paolo Toth, and Matteo Fischetti.
+\newblock {Algorithms for the Set Covering Problem}.
+\newblock {\em Annals of Operations Research}, 98:353--371, 2000.
+\newblock 10.1023/A:1019225027893.
+
+\bibitem{Carlin_Lobo_Visw_2007}
+Bruce~Ian Carlin, Miguel~Sousa Lobo, and S.~Viswanathan.
+\newblock Episodic liquidity crises: Cooperative and predatory trading.
+\newblock {\em The Journal of Finance}, 62(5):2235--2274, 2007.
+
+\bibitem{Carter_Rogers_Simkins_06}
+David~A. Carter, Daniel~A. Rogers, and Betty~J. Simkins.
+\newblock Does hedging affect firm value? evidence from the us airline
+  industry.
+\newblock {\em Financial Management}, 35(1):53--86, 2006.
+
+\bibitem{CB02:stat_inference}
+G.~Casella and R.~L. Berger.
+\newblock {\em Statistical Inference}.
+\newblock Duxbury Thomson Learning, 2nd edition, 2002.
+
+\bibitem{Celik_Muharremoglu_Savin_2009}
+Sabri Celik, Alp Muharremoglu, and Sergei Savin.
+\newblock {Revenue Management with Costly Price Adjustments}.
+\newblock {\em OPERATIONS RESEARCH}, 57(5):1206--1219, 2009.
+
+\bibitem{Ceria_Stubbs_2006}
+Sebasti\'{a}n Ceria and Robert~A. Stubbs.
+\newblock Incorporating estimation errors into portfolio selection: Robust
+  portfolio construction.
+\newblock {\em Journal of Asset Management}, 7(2):109--127, July 2006.
+
+\bibitem{CR16:revealed}
+E.~Cettolin and A.~Riedl.
+\newblock Revealed incomplete preferences under uncertainty: Evidence for
+  bewley preferences.
+\newblock Available on {SSRN}, 2016.
+
+\bibitem{comp}
+CH.
+\newblock {\em Accounts Receivable and Inventory Financing}.
+\newblock Comptroller of the currency, administrator of national banks, 2014.
+
+\bibitem{Chan2015:RobustFacilityLoc}
+T.~C.~Y. Chan, Z.-J.~M. Shen, and A.~Siddiq.
+\newblock Robust facility location under demand location uncertainty.
+\newblock Available on Ar{X}iv, 2015.
+
+\bibitem{Chan_Borfeld_Tsitsiklis_2006}
+Timothy C~Y Chan, Thomas Bortfeld, and John~N Tsitsiklis.
+\newblock A robust approach to {IMRT} optimization.
+\newblock {\em Physics in Medicine and Biology}, 51(10):2567, 2006.
+
+\bibitem{chao}
+X~Chao, J~Chen, and S~Wang.
+\newblock Dynamic inventory management with cash flow constraints.
+\newblock {\em Naval Research Logistics}, 55:758--768, 2008.
+
+\bibitem{Charn_Coop_58}
+A.~Charnes, W.~W. Cooper, and G.~H. Symonds.
+\newblock Cost horizons and certainty equivalents: An approach to stochastic
+  programming of heating oil.
+\newblock {\em Management Science}, 4(3):235--263, April 1958.
+
+\bibitem{Charnes_Kirby_1966}
+A.~Charnes and M.~J.~L. Kirby.
+\newblock {Optimal Decision Rules for the E-model of Chance-Contraint
+  Programming}.
+\newblock {\em Cahiers du Centre d'Etudes de Recherche Operationelle}, 8:5--44,
+  1966.
+
+\bibitem{Charnes_Kirby_1969}
+A.~Charnes and M.~J.~L. Kirby.
+\newblock {Optimal Decision Rules for the Triangular E-model of
+  Chance-Contraint Programming}.
+\newblock {\em Cahiers du Centre d'Etudes de Recherche Operationelle},
+  12:215--243, 1969.
+
+\bibitem{Chatterjee_etal_11}
+Debasish Chatterjee, Peter Hokayem, and John Lygeros.
+\newblock Stochastic model predictive control with bounded control inputs: a
+  vector space approach.
+\newblock {\em IEEE Transactions on Automatic Control}, 56(11):2704--2710,
+  2011.
+
+\bibitem{chava}
+S~Chava and MR~Roberts.
+\newblock How does financing impact investment? the role of debt covenants.
+\newblock {\em The Journal of Finance}, 63(5), 2008.
+
+\bibitem{Chen_Song_optimal_policies_multiechel_2001}
+Fangruo Chen and Jing-Sheng Song.
+\newblock {Optimal Policies for Multiechelon Inventory Problems with
+  Markov-Modulated Demand}.
+\newblock {\em OPERATIONS RESEARCH}, 49(2):226--234, 2001.
+
+\bibitem{Chen_Lee_2009}
+Li~Chen and Hau~L. Lee.
+\newblock Information sharing and order variability control under a generalized
+  demand model.
+\newblock {\em Management Science}, 55(5):781--797, 2009.
+
+\bibitem{Chen_Daw_Jana_2014}
+Wei Chen, Milind Dawande, and Ganesh Janakiraman.
+\newblock Fixed-dimensional stochastic dynamic programs: An approximation
+  scheme and an inventory application.
+\newblock {\em {Operations Research}}, 62(1):81--103, 2014.
+
+\bibitem{Chen_etal_robust_Pareto_2011}
+Wei Chen, Jan Unkelback, Alexei Trofimov, Thomas Madden, Hanne Kooy, Thomas
+  Bortfeld, and David Craft.
+\newblock Including robustness in multi-criteria optimization for intensity
+  modulated proton therapy.
+\newblock {W}orking paper, December 2011.
+
+\bibitem{WenqingChen_MSim_2009}
+Wenqing Chen and Melvyn Sim.
+\newblock {Goal-Driven Optimization}.
+\newblock {\em OPERATIONS RESEARCH}, 57(2):342--357, 2009.
+
+\bibitem{Chen2009}
+X.~Chen and Y.~Zhang.
+\newblock Uncertain linear programs: Extended affinely adjustable robust
+  counterparts.
+\newblock {\em Operations Research}, 57(6):1469--1482, 2009.
+
+\bibitem{XinChen09012007}
+Xin Chen, Melvyn Sim, David Simchi-Levi, and Peng Sun.
+\newblock {Risk Aversion in Inventory Management}.
+\newblock {\em OPERATIONS RESEARCH}, 55(5):828--842, 2007.
+
+\bibitem{ChenSimSung07}
+Xin Chen, Melvyn Sim, and Peng Sun.
+\newblock A robust optimization perspective on stochastic programming.
+\newblock {\em {Operations Research}}, 55(6):1058--1071, 2007.
+
+\bibitem{Xin_Zhang_Sim_08}
+Xin Chen, Melvyn Sim, Peng Sun, and Jiawei Zhang.
+\newblock A linear decision-based approximation approach to stochastic
+  programming.
+\newblock {\em Operations Research}, 56(2):344--357, 2008.
+
+\bibitem{XinChen_Simchi_Levi_2004}
+Xin Chen and David Simchi-Levi.
+\newblock {Coordinating Inventory Control and Pricing Strategies with Random
+  Demand and Fixed Ordering Cost: The Infinite Horizon Case}.
+\newblock {\em MATHEMATICS OF OPERATIONS RESEARCH}, 29(3):698--723, 2004.
+
+\bibitem{Jianqiang2014:DROKnapsack}
+J.~Cheng, E.~Delage, and A.~Lisser.
+\newblock Distributionally robust stochastic knapsack problem.
+\newblock {\em {SIAM} Journal on Optimization}, 24(3):1485--1506, 2014.
+
+\bibitem{Cheng2016196}
+J.~Cheng, J.~Leung, and A.~Lisser.
+\newblock New reformulations of distributionally robust shortest path problem.
+\newblock {\em Computers \& Operations Research}, 74:196--204, 2016.
+
+\bibitem{Cheridito_Delbaen_Kupper_2006}
+Patrick Cheridito, Freddy Delbaen, and Michael Kupper.
+\newblock Dynamic monetary risk measures for bounded discrete-time processes.
+\newblock {\em Electronic Journal of Probability}, 11:57--106, 2006.
+
+\bibitem{Cheridito_Kupper_2011}
+Patrick Cheridito and Michael Kupper.
+\newblock Composition of time-consistent dynamic monetary risk measures in
+  discrete time.
+\newblock {\em International Journal of Theoretical and Applied Finance},
+  14(1):137--162, 2011.
+
+\bibitem{chod14}
+J~Chod.
+\newblock Agency theory of trade credit.
+\newblock {W}orking Paper, 2014.
+
+\bibitem{chod}
+J~Chod, N~Rudi, and JA~Van~Mieghem.
+\newblock Operational flexibility and financial hedging: Complements or
+  substitutes?
+\newblock {\em Management Science}, 56(6):1030--1045, 2010.
+
+\bibitem{chod2}
+J~Chod and J~Zhou.
+\newblock Resource flexibility and capital structure.
+\newblock {\em Management Science}, 60(3):708--729, 2014.
+
+\bibitem{Choi_Ruszcz_2011}
+Sungyong Choi, Andrzej Ruszczy{\'n}ski, and Yao Zhao.
+\newblock A multiproduct risk-averse newsvendor with law-invariant coherent
+  measures of risk.
+\newblock {\em Operations Research}, 59(2):346--364, 2011.
+
+\bibitem{Choquet_1954}
+Gustave Choquet.
+\newblock Theory of capacities.
+\newblock {\em Annales de l'Institut Fourier}, 5:131--295, 1954.
+
+\bibitem{Chow_Pavone_2014}
+Y-L Chow and Marco Pavone.
+\newblock A unifying framework for time-consistent, risk-averse model
+  predictive control: Theory and algorithms.
+\newblock In {\em Proceedings of the American Control Conference}, 2014.
+
+\bibitem{Christensen}
+{T. R. L.} Christensen, {K. A.} Andersen, and A.~Klose.
+\newblock Solving the single-sink, fixed-charge, multiple-choice transportation
+  problem by dynamic programming.
+\newblock {\em Transportation Science}, 47(3):428--438, 2013.
+
+\bibitem{Shantikumar_Chu_2008}
+Leon~Yang Chu, J.George Shanthikumar, and Zuo-Jun~Max Shen.
+\newblock Solving operational statistics via a bayesian analysis.
+\newblock {\em Operations Research Letters}, 36(1):110 -- 116, 2008.
+
+\bibitem{Chu_1997}
+P.~C. Chu and J.~E. Beasley.
+\newblock {A Genetic Algorithm for the Generalised Assignment Problem}.
+\newblock {\em Computers \& Operations Research}, 24(1):17 -- 23, 1997.
+
+\bibitem{ClarkSc60}
+A.~J. Clark and H.~Scarf.
+\newblock Optimal policies for a multi-echelon inventory problem.
+\newblock {\em Management Science}, 50(12):475--490, July 1960.
+
+\bibitem{Clemen99:MHD}
+{R. T.} Clemen and T.~Reilly.
+\newblock {\em Making hard decisions with decisiontools suite}.
+\newblock Duxbury, 1st edition, 1999.
+
+\bibitem{clementi}
+GL~Clementi and HA~Hopenhayn.
+\newblock A theory of financing constraints and firm dynamics.
+\newblock {\em QJE}, 121:229--65, 2006.
+
+\bibitem{Cobbs:2004}
+R.~Cobbs and A.~Wolf.
+\newblock {Jet Fuel Hedging Strategies: Options Available for Airlines and a
+  Survey of Industry Practices}.
+\newblock {\em Research Report, Kellogg School of Management.}, 2004.
+
+\bibitem{Cohen_Golany_Shtub_2007}
+I.~Cohen, Boaz Golany, and A.~Shtub.
+\newblock The stochastic time-cost tradeoff problem: A robust optimization
+  approach.
+\newblock {\em Networks}, 49:175--188, 2007.
+
+\bibitem{cohen12}
+M~Cohen, S~Katz, and G~Sadka.
+\newblock Debt covenants and capital structure: Evidence from an exogenous
+  shock to debt capacity.
+\newblock {W}orking Paper, 2012.
+
+\bibitem{Basle_committee_1996}
+Basle Committee.
+\newblock {Amendment to the Capital Accord to Incorporate Market Risks}.
+\newblock Technical report, Basle Committee on Banking Supervision, 1996.
+
+\bibitem{Cooper09012006}
+William~L. Cooper, Tito Homem-de Mello, and Anton~J. Kleywegt.
+\newblock {Models of the Spiral-Down Effect in Revenue Management}.
+\newblock {\em OPERATIONS RESEARCH}, 54(5):968--987, 2006.
+
+\bibitem{Kleywegt_Cooper_Homem_Mello_2009}
+William~L. Cooper, Tito Homem-de Mello, and Anton~J. Kleywegt.
+\newblock Learning and pricing with models that do not explicitly incorporate
+  competition.
+\newblock {W}orking Paper, November 2009.
+
+\bibitem{Cope07}
+Eric Cope.
+\newblock Bayesian strategies for dynamic pricing in e-commerce.
+\newblock {\em Naval Research Logistics}, 54(3):265--281, 2007.
+
+\bibitem{CLRS01}
+Thomas~H. Cormen, Clifford Stein, Ronald~L. Rivest, and Charles~E. Leiserson.
+\newblock {\em Introduction to Algorithms}.
+\newblock McGraw-Hill Higher Education, 2001.
+
+\bibitem{Cotter20063469}
+John Cotter and Kevin Dowd.
+\newblock Extreme spectral risk measures: An application to futures
+  clearinghouse margin requirements.
+\newblock {\em Journal of Banking \& Finance}, 30(12):3469 -- 3485, 2006.
+
+\bibitem{Cover91}
+T.~M. Cover and J.~A. Thomas.
+\newblock {\em Elements of Information Theory}.
+\newblock Wiley, 1991.
+
+\bibitem{CSS14:rim}
+J.~C. Cox, V.~Sadiraj, and U.~Schmidt.
+\newblock Asymmetrically dominated choice problems, the isolation hypothesis
+  and random incentive mechanisms.
+\newblock {\em {PLoS} {ONE}}, 9(3):e90742, 2014.
+
+\bibitem{craig13}
+N~Craig and A~Raman.
+\newblock Improving store liquidation.
+\newblock Harvard Business School Working Paper, 2013.
+
+\bibitem{Crainic1997409}
+{T. G.} Crainic and G.~Laporte.
+\newblock Planning models for freight transportation.
+\newblock {\em European Journal of Operational Research}, 97(3):409 -- 438,
+  1997.
+
+\bibitem{Cristobal_Parks_Clarkson_2006}
+Molina~A. Cristobal, G.T. Parks, and P.J. Clarkson.
+\newblock Finding robust solutions to multi-objective optimisation problems
+  using polynomial chaos.
+\newblock In {\em Proceedings of the 6th {ASMO UK/ISSMO} Conference on
+  Engineering Design Optimization}, July 2006.
+
+\bibitem{Cunningham_Green_Krotki}
+William Cunningham and Jan Green-Krotki.
+\newblock Dominants and submissives of matching polyhedra.
+\newblock {\em Mathematical Programming}, 36:228--237, 1986.
+
+\bibitem{CuocoHeIssaenko_2008}
+Domenico Cuoco, Hua He, and Sergei Isaenko.
+\newblock Optimal dynamic trading strategies with risk limits.
+\newblock {\em Operations Research}, 56(2):358--368, 2008.
+
+\bibitem{dada}
+M~Dada and Q~Hu.
+\newblock Financing newsvendor inventory.
+\newblock {\em Operations Research Letters}, 36(5):569--573, 2008.
+
+\bibitem{gb}
+P~Dalton.
+\newblock Volatility in collateral values.
+\newblock {\em Asset-based Financing Journal}, January-February 2014.
+
+\bibitem{dAspremont_Boyd_2003}
+Alexandre d'Aspremont and Stephen Boyd.
+\newblock Relaxations and randomized methods for nonconvex qcqps.
+\newblock Technical report, Stanford University, 2003.
+
+\bibitem{deFariasVanRoy03}
+Daniela~Pucci de~Farias and Benjamin Van~Roy.
+\newblock The linear programming approach to approximate dynamic programming.
+\newblock {\em Operations Research}, 51(6):850--865, November-December 2003.
+
+\bibitem{deFariasVanRoy04}
+Daniela~Pucci de~Farias and Benjamin Van~Roy.
+\newblock On constraint sampling in the linear programming approach to
+  approximate dynamic programming.
+\newblock {\em Mathematics of Operations Research}, 29(3):462--478, 2004.
+
+\bibitem{ruiter15:arodrird}
+{F.J.C.T.} {de Ruiter}, A.~Ben-Tal, {R.C.M.} Brekelmans, and D.~{den Hertog}.
+\newblock Adjustable robust optimization with decision rules based on inexact
+  revealed data.
+\newblock Center discussion paper series no. 2014-003, CentER, 2014.
+
+\bibitem{SvendeVries01012003}
+Sven de~Vries and Rakesh~V. Vohra.
+\newblock Combinatorial auctions: A survey.
+\newblock {\em INFORMS Journal on Computing}, 15(3):284--309, 2003.
+
+\bibitem{deangelo}
+H~DeAngelo, L~DeAngelo, and KH~Wruck.
+\newblock Asset liquidity, debt covenants, and managerial discretion in
+  financial distress: the collapse of l.a. gear.
+\newblock {\em Journal of Financial Economics}, 64:3--34, 2002.
+
+\bibitem{Deb_Gupta_multiobjective_RO_2005}
+Kalyanmoy Deb and Himanshu Gupta.
+\newblock Searching for robust pareto-optimal solutions in multi-objective
+  optimization.
+\newblock In Carlos Coello~Coello, Arturo Hern{\'a}ndez~Aguirre, and Eckart
+  Zitzler, editors, {\em Evolutionary Multi-Criterion Optimization}, volume
+  3410 of {\em Lecture Notes in Computer Science}, pages 150--164. Springer
+  Berlin / Heidelberg, 2005.
+
+\bibitem{Debo_vanRyzin_2009}
+Laurens~G. Debo and Garrett van Ryzin.
+\newblock {Creating Sales with Stock-Outs}.
+\newblock Chicago Booth Research Paper No. 09-25, July 2009.
+
+\bibitem{DeCroix_Zipkin_2005}
+Gregory~A. DeCroix and Paul~H. Zipkin.
+\newblock Inventory management for an assembly system with product or component
+  returns.
+\newblock {\em Management Science}, 51(8):1250--1265, 2005.
+
+\bibitem{DDGO15:time_lotteries}
+P.~De{J}arnette, D.~Dillenberger, D.~Gottlieb, and P.~Ortoleva.
+\newblock Time lotteries.
+\newblock Available on {SSRN}, 2015.
+
+\bibitem{ErickDelage01282010}
+E.~Delage and Y.~Ye.
+\newblock Distributionally robust optimization under moment uncertainty with
+  application to data-driven problems.
+\newblock {\em Operations Research}, 58(3):595--612, 2010.
+
+\bibitem{delageetal:drsp}
+E.~Delage and Y.~Ye.
+\newblock Distributionally robust optimization under moment uncertainty with
+  application to data-driven problems.
+\newblock {\em Operations Research}, 58(3):569--612, 2010.
+
+\bibitem{delageetal:vsmtslco}
+E.~Delage, Y.~Ye, and S.~Arroyo.
+\newblock The value of stochastic modeling in two-stage stochastic programs
+  with cost uncertainty.
+\newblock {\em Operations Research}, 62(6):1377--1393, 2014.
+
+\bibitem{Delbaen_Grandits_Samperi_2002}
+Freddy Delbaen, P.~Grandits, T.~Rheinl\"{a}nder, D.~Samperi, M.~Schweizer, and
+  C.~Stricker.
+\newblock {Exponential Hedging and Entropic Penalties}.
+\newblock {\em Mathematical Finance}, 2:99--123, 2002.
+
+\bibitem{demarzo}
+PM~DeMarzo and MJ~Fishman.
+\newblock Agency and optimal investment dynamics.
+\newblock {\em RFS}, 20(1):151--88, 2007.
+
+\bibitem{demarzo2}
+PM~DeMarzo and MJ~Fishman.
+\newblock Optimal long-term financial contracting.
+\newblock {\em RFS}, 20(6):2079--2128, 2007.
+
+\bibitem{Deng_Papadimitriou_1994}
+Xiaotie Deng and Christos~H. Papadimitriou.
+\newblock On the complexity of cooperative solution concepts.
+\newblock {\em Mathematics of Operations Research}, 19(2):257--266, 1994.
+
+\bibitem{Denton2010}
+B.~T. Denton, A.~J. Miller, H.~J. Balasubramanian, and T.~R. Huschka.
+\newblock Optimal allocation of surgery blocks to operating rooms under
+  uncertainty.
+\newblock {\em Operations Research}, 58(4-Part-1):802--816, 2010.
+
+\bibitem{Detlefs_Scandolo_05}
+Kai Detlefsen and Giacomo Scandolo.
+\newblock Conditional and dynamic convex risk measures.
+\newblock {\em Finance and Stochastics}, 9(4):539--561, 2005.
+
+\bibitem{devalk_anupindi_sinha_2012}
+Sripad~K. Devalkar, Ravi Anupindi, and Amitabh Sinha.
+\newblock Dynamic risk management of commodity operations: Model and analysis.
+\newblock {W}orking paper, 2012.
+
+\bibitem{DK11:comonotonic_modification}
+J.~Dhaene and A.~Kukush.
+\newblock Comonotonic modification of random vector in its own probability
+  space.
+\newblock Available on {SSRN}, 2011.
+
+\bibitem{dhaene_goov_06}
+Jan Dhaene, Steven Vanduffel, Qihe Tang, M.~J. Goovaerts, Rob Kaas, and David
+  Vyncke.
+\newblock {Risk Measures and Comonotonicity: A Review}.
+\newblock {\em Stochastic Models}, 22:573--606, 2006.
+
+\bibitem{Dhillon_Mertens_1999}
+Amrita Dhillon and Jean-Francois Mertens.
+\newblock Relative utilitarianism.
+\newblock {\em Econometrica}, 67(3):471--498, 1999.
+
+\bibitem{dichev}
+ID~Dichev and DJ~Skinner.
+\newblock Large-sample evidence on the debt covenant hypothesis.
+\newblock {\em Journal of Accounting Research}, 40(4):1091--1123, 2002.
+
+\bibitem{kouvelis07}
+Q~Ding, L~Dong, and P~Kouvelis.
+\newblock On the integration of production and financial hedging decisions in
+  global markets.
+\newblock {\em Operations Research}, 55(3):470--489, 2007.
+
+\bibitem{DS11:attitudes}
+A.~Dominiak and W.~Schnedler.
+\newblock Attitudes towards uncertainty and randomization: An experimental
+  study.
+\newblock {\em Economic Theory}, 48(2):289--312, 2011.
+
+\bibitem{tomlin12}
+L~Dong and B~Tomlin.
+\newblock Managing disruption risk: The interplay between operations and
+  insurance.
+\newblock {\em Management Science}, 58(10):1898--1915, 2012.
+
+\bibitem{LingxiuDong05012004}
+Lingxiu Dong and Nils Rudi.
+\newblock {Who Benefits from Transshipment? Exogenous vs. Endogenous Wholesale
+  Prices}.
+\newblock {\em Management Science}, 50(5):645--657, 2004.
+
+\bibitem{Doyle_Glover_1989}
+John Doyle, Keith Glover, Pramod Khargonekar, and Bruce Francis.
+\newblock State-space solutions to standard h-2 and h-infinity control
+  problems.
+\newblock {\em {IEEE Transactions on Automatic Control}}, 34(8):831--847, 1989.
+
+\bibitem{Duffie_Pan_1997}
+Darrell Duffie and Jun Pan.
+\newblock {An Overview of Value at Risk}.
+\newblock {\em The Journal of Derivatives}, 4(3):7--49, 1997.
+
+\bibitem{Paga05}
+G.~E. Dullerud and F.~Paganini.
+\newblock {\em A Course in Robust Control Theory}.
+\newblock Springer, 2005.
+
+\bibitem{Dupacova_1980}
+J.~Dupa\u{c}ov\'{a}.
+\newblock {\em Minimax stochastic programs with nonseparable penalties},
+  volume~1, chapter Lecture Notes in Control and Information Sciences, pages
+  157--163.
+\newblock Springer Verlag, Berlin, 1980.
+
+\bibitem{Dupacova_1987}
+J.~Dupa\u{c}ov\'{a}.
+\newblock The minimax approach to stochastic programming and an illustrative
+  application.
+\newblock {\em Stochastics}, 20:73--88, 1987.
+
+\bibitem{duzgun2010robust}
+R.~D{\"u}zg{\"u}n and A.~Thiele.
+\newblock Robust optimization with multiple ranges: Theory and application to
+  {R}\&{D} project selection.
+\newblock Technical report, Industrial and Systems Engineering Department,
+  Lehigh University, Bethlehem, Pennslvania, 2010.
+
+\bibitem{DKW16:flipping}
+N.~Dwenger, D.~K{\"u}bler, and G.~Weizs{\"a}cker.
+\newblock Flipping a coin: Evidence from laboratory and field.
+\newblock Technical Report, University of Hohenheim, 2016.
+
+\bibitem{DyerStougie2006}
+Martin Dyer and Leen Stougie.
+\newblock Computational complexity of stochastic programming problems.
+\newblock {\em Mathematical Programming}, 106(3):423--432, 2006.
+
+\bibitem{EckstNedi07}
+Jonathan Eckstein and Mikhail Nediak.
+\newblock Pivot, cut, and dive: a heuristic for 0-1 mixed integer programming.
+\newblock {\em Journal of Heuristics}, 13(5):471--503, 2007.
+
+\bibitem{EGK15:dynamic_consistency}
+J.~Eichberger, S.~Grant, and D.~Kelsey.
+\newblock Randomization and dynamic consistency.
+\newblock {\em Economic Theory}, 63(3):547--566, 2016.
+
+\bibitem{EK96:preference}
+J.~Eichberger and D.~Kelsey.
+\newblock Uncertainty aversion and preference for randomisation.
+\newblock {\em Journal of Economic Theory}, 71(1):31--43, 1996.
+
+\bibitem{Eichhorn_Roemisch_2005}
+Andreas Eichhorn and Werner R\"{o}misch.
+\newblock {Polyhedral Risk Measures in Stochastic Programming}.
+\newblock {\em SIAM Journal on Optimization}, 16(1):69--95, 2005.
+
+\bibitem{elghaoui:rslspud}
+L.~El~Ghaoui and H.~Lebret.
+\newblock Robust solutions to least-squares problems with uncertain data.
+\newblock {\em SIAM Journal of Matrix Analysis and Applications},
+  18(4):1035--1064, 1997.
+
+\bibitem{Ellsberg_1961}
+Daniel Ellsberg.
+\newblock {Risk, Ambiguity and the Savage Axioms}.
+\newblock {\em Quarterly Journal of Economics}, 75(4):643--669, 1961.
+
+\bibitem{WedadElmaghraby10012003}
+Wedad Elmaghraby and Pinar Keskinocak.
+\newblock {Dynamic Pricing in the Presence of Inventory Considerations:
+  Research Overview, Current Practices, and Future Directions}.
+\newblock {\em Management Science}, 49(10):1287--1309, 2003.
+
+\bibitem{E99:unc_aversion}
+L.~G. Epstein.
+\newblock A definition of uncertainty aversion.
+\newblock {\em Review of Economic Studies}, 66(3):579--608, 1999.
+
+\bibitem{Epstein_Schneid_03}
+Larry~G. Epstein and Martin Schneider.
+\newblock Recursive multiple-priors.
+\newblock {\em Journal of Economic Theory}, 113(1):1 -- 31, 2003.
+
+\bibitem{Csaba_Vesz_2008}
+Csaba F\'{a}bi\'{a}n and Anna Veszpr\'{e}mi.
+\newblock Algorithms for handling cvar constraints in dynamic stochastic
+  programming models with applications to finance.
+\newblock {\em Journal of Risk}, 10(3):111--131, 2008.
+
+\bibitem{Fabozzi_Focardi_Kolm_2010}
+Frank Fabozzi, Sergio Focardi, and Petter Kolm.
+\newblock {\em Quantitative Equity Investing: Techniques and Strategies}.
+\newblock Wiley, first edition, March 2010.
+
+\bibitem{Faboz_commod_08}
+Frank Fabozzi, Roland F\:{u}ss, and Dieter~G. Kaiser, editors.
+\newblock {\em The Handbook of Commodity Investing}.
+\newblock Wiley, 2008.
+
+\bibitem{Fabozzi_Kolm_Pacha_robust}
+Frank Fabozzi, Petter Kolm, Dessislava Pachamanova, and Sergio Focardi.
+\newblock {\em Robust Portfolio Optimization and Management}.
+\newblock Frank J. Fabozzi Series. Wiley, 2007.
+
+\bibitem{Falk_1975}
+James~E. Falk.
+\newblock Exact solutions of inexact linear programs.
+\newblock {\em {Operations Research}}, 24(4):783--787, 1976.
+
+\bibitem{Doyle91}
+M.K.H. Fan, A.~Tits, and J.~Doyle.
+\newblock Robustness in the presence of mixed parametric uncertainty and
+  unmodeled dynamics.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 36(1):25--38, 1991.
+
+\bibitem{Farahat_Perakis_2008}
+Amr Farahat and Georgia Perakis.
+\newblock Price competition among multiproduct firms.
+\newblock {W}orking Paper, June 2008.
+
+\bibitem{FedZip84}
+A.~Federgruen and P.~Zipkin.
+\newblock Computational issues in an infinite-horizon, multiechelon inventory
+  model.
+\newblock {\em Operations Research}, 32(4):818--836, July-August 1984.
+
+\bibitem{AwiFedergruen05011999}
+Awi Federgruen and Aliza Heching.
+\newblock {Combined Pricing and Inventory Control Under Uncertainty}.
+\newblock {\em OPERATIONS RESEARCH}, 47(3):454--475, 1999.
+
+\bibitem{AwiFedergruen07012008}
+Awi Federgruen and Nan Yang.
+\newblock {Selecting a Portfolio of Suppliers Under Demand and Supply Risks}.
+\newblock {\em Operations Research}, 56(4):916--936, 2008.
+
+\bibitem{Feige_Jain_2007}
+Uriel Feige, Kamal Jain, Mohammad Mahdian, and Vahab Mirrokni.
+\newblock {Robust Combinatorial Optimization with Exponential Scenarios}.
+\newblock {\em Lecture Notes in Computer Science}, 4513:439--453, June 2007.
+
+\bibitem{lai13}
+Q~Feng, G~Lai, and L~Lu.
+\newblock Dynamic bargaining in a supply chain with asymmetric information.
+\newblock {\em Management Science, Forthcoming}, 2014.
+
+\bibitem{Feng_Gallego_08011995}
+Youyi Feng and Guillermo Gallego.
+\newblock {Optimal Starting Times for End-of-Season Sales and Optimal Stopping
+  Times for Promotional Fares}.
+\newblock {\em Management Science}, 41(8):1371--1391, 1995.
+
+\bibitem{Feng_Gallego_2000}
+Youyi Feng and Guillermo Gallego.
+\newblock Perishable asset revenue management with markovian time dependent
+  demand intensities.
+\newblock {\em Manage. Sci.}, 46(7):941--956, 2000.
+
+\bibitem{YouyiFeng05012000}
+Youyi Feng and Baichun Xiao.
+\newblock {A Continuous-Time Yield Management Model with Multiple Prices and
+  Reversible Price Changes}.
+\newblock {\em Management Science}, 46(5):644--657, 2000.
+
+\bibitem{YouyiFeng03012000}
+Youyi Feng and Baichun Xiao.
+\newblock {Optimal Policies of Yield Management with Multiple Predetermined
+  Prices}.
+\newblock {\em OPERATIONS RESEARCH}, 48(2):332--343, 2000.
+
+\bibitem{FischLod05}
+Matteo Fischetti, Fred Glover, and Andrea Lodi.
+\newblock The feasibility pump.
+\newblock {\em Mathematical Programming}, 104(1):91--104, 2005.
+
+\bibitem{Fischetti_Monaci_2009}
+Matteo Fischetti and Michele Monaci.
+\newblock Light robustness.
+\newblock In Ravindra Ahuja, Rolf M{\"o}hring, and Christos Zaroliagis,
+  editors, {\em Robust and Online Large-Scale Optimization}, volume 5868 of
+  {\em Lecture Notes in Computer Science}, pages 61--84. Springer Berlin /
+  Heidelberg, 2009.
+
+\bibitem{Fishburn_1970}
+{P. C.} Fishburn.
+\newblock {\em {Utility theory for Decision Making}}.
+\newblock John Wiley and Sons, operations research society of america edition,
+  1970.
+
+\bibitem{fisher96}
+M~Fisher and A~Raman.
+\newblock Reducing the cost of demand uncertainty through accurate response to
+  early sales.
+\newblock {\em Operations Research}, 44(1):87--89, 1996.
+
+\bibitem{anath_craig_12}
+FC~Foley, A~Raman, and NC~Craig.
+\newblock Inventory based lending industry note.
+\newblock Harvard Business School note, 2013.
+
+\bibitem{follmer_schied_2001}
+H.~F\"{o}llmer and A.~Schied.
+\newblock Convex measures of risk and trading constraints.
+\newblock {\em Finance and Stochastics}, 6(4):429--447, October 2002.
+
+\bibitem{Follmerbook}
+H.~F\"{o}llmer and A.~Schied.
+\newblock {\em Stochastic Finance -- An Introduction in Discrete Time}.
+\newblock Walter de Gruyter \& Co., 3rd edition, 2011.
+
+\bibitem{Follmer:RiskMeasureSurvey}
+H.~F\"{o}llmer and S.~Weber.
+\newblock The axiomatic approach to risk measures for capital determination.
+\newblock {\em Annual Review of Financial Economics}, 7:301--337, 2015.
+
+\bibitem{Follmer_Penner_2006_convex_rm_dynamic}
+Hans F\"{o}llmer and Irina Penner.
+\newblock {Convex Risk Measures and the Dynamics of Their Penalty Functions}.
+\newblock {\em Statistics \& Decisions}, 24(1):61--96, 2006.
+
+\bibitem{Frank_Tardos_1988}
+Andr{\'a}s Frank and {\'E}va Tardos.
+\newblock Generalized polymatroids and submodular flows.
+\newblock {\em Mathematical Programming}, 42:489--563, 1988.
+
+\bibitem{Freund_Orlin_85}
+Robert~M. Freund and James~B. Orlin.
+\newblock {On the Complexity of Four Polyhedral Set Containment Problems}.
+\newblock {\em Mathematical Programming}, 33:139--145, 1985.
+
+\bibitem{Frittelli_RoszGian_2002}
+Marco Frittelli and Emanuela~Rosazza Gianin.
+\newblock {Putting Order in Risk Measures}.
+\newblock {\em Journal of Banking \& Finance}, 26(7):1473 -- 1486, 2002.
+
+\bibitem{Fritelli_Scandolo_2006}
+Marco Frittelli and Giacomo Scandolo.
+\newblock {Risk Measures and Capital Requirements for Processes}.
+\newblock {\em Mathematical Finance}, 16(4):589--612, 2006.
+
+\bibitem{Fujishige_1984_submod_programs}
+Satoru Fujishige.
+\newblock Theory of submodular programs: A fenchel-type min-max theorem and
+  subgradients of submodular functions.
+\newblock {\em Mathematical Programming}, 29:142--155, 1984.
+
+\bibitem{Fujishige_book_05}
+Satoru Fujishige.
+\newblock {\em {Submodular Functions and Optimization}}, volume~58 of {\em
+  Annals of Discrete Mathematics}.
+\newblock Elsevier, second edition, 2005.
+
+\bibitem{Fukuda_zonotopes_03}
+Komei Fukuda.
+\newblock From the zonotope construction to the minkowski addition of convex
+  polytopes.
+\newblock {\em Journal of Symbolic Computation}, 38(4):1261--1272, 2004.
+
+\bibitem{Fulkerson_1971}
+D.~R. Fulkerson.
+\newblock Blocking and anti-blocking pairs of polyhedra.
+\newblock {\em Mathematical Programming}, 1:168--194, 1971.
+
+\bibitem{Fulkerson_1972}
+D.~R. Fulkerson.
+\newblock Anti-blocking polyhedra.
+\newblock {\em Journal of Combinatorial Theory, Series B}, 12(1):50 -- 71,
+  1972.
+
+\bibitem{Gabrel2014100}
+V.~Gabrel, M.~Lacroix, C.~Murat, and N.~Remli.
+\newblock Robust location transportation problems under uncertain demands.
+\newblock {\em Discrete Applied Mathematics}, 164, 1(1):100 -- 111, 2014.
+
+\bibitem{Gabrel2014471}
+V.~Gabrel, C.~Murat, and A.~Thiele.
+\newblock Recent advances in robust optimization: An overview.
+\newblock {\em European Journal of Operational Research}, 235(3):471 -- 483,
+  2014.
+
+\bibitem{Gabrel_Murat_Thiele_2012}
+Virginie Gabrel, C\'{e}cile Murat, and Aur\'{e}lie Thiele.
+\newblock Recent advances in robust optimization and robustness: An overview.
+\newblock {W}orking paper, July 2012.
+
+\bibitem{Gabrel_Murat_Wu_2011}
+Virginie Gabrel, C\'{e}cile Murat, and Lei Wu.
+\newblock New models for the robust shortest path problem: Complexity,
+  resolution and generalization.
+\newblock {\em Annals of Operations Research}, pages 1--24, 2011.
+
+\bibitem{GalMoon94}
+G.~Gallego and I.~Moon.
+\newblock Distribution free procedures for some inventory models.
+\newblock {\em Journal of the Operational Research Society}, 45(6):651--658,
+  June 1994.
+
+\bibitem{GalRyan01}
+G.~Gallego, J.~Ryan, and D.~Simchi-Levi.
+\newblock Minimax analysis for finite-horizon inventory models.
+\newblock {\em IIE Transactions}, 33(10):861--874, October 2001.
+
+\bibitem{gallego1993distribution}
+Guillermo Gallego and Ilkyeong Moon.
+\newblock The distribution free newsboy problem: Review and extensions.
+\newblock {\em The Journal of the Operational Research Society},
+  44(8):825--834, 1993.
+
+\bibitem{Gallego_vanRyzin_1994}
+Guillermo Gallego and Garrett van Ryzin.
+\newblock {Optimal Dynamic Pricing of Inventories with Stochastic Demand over
+  Finite Horizons}.
+\newblock {\em Management Science}, 40(8):999--1020, 1994.
+
+\bibitem{Gallego_vanRyzin_multiprod_1997}
+Guillermo Gallego and Garrett van Ryzin.
+\newblock {A Multiproduct Dynamic Pricing Problem and Its Applications to
+  Network Yield Management}.
+\newblock {\em OPERATIONS RESEARCH}, 45(1):24--41, 1997.
+
+\bibitem{Mor89}
+C.~E. Garcia, D.~M. Prett, and M.~Morari.
+\newblock {Model Predictive Control: Theory and Practice---A Survey}.
+\newblock {\em Automatica}, 25(3):335--348, 1989.
+
+\bibitem{garleanu}
+N~G\^{a}rleanu and J~Zwiebel.
+\newblock Design and renegotiation of debt contracts.
+\newblock {\em RFS}, 22(2):749--81, 2009.
+
+\bibitem{GarstkaWets74}
+Stanley~J. Garstka and Roger J.-B. Wets.
+\newblock On decision rules in stochastic programming.
+\newblock {\em Mathematical Programming}, 7(1):117--143, 1974.
+
+\bibitem{gaur14}
+V~Gaur, S~Kesavan, and A~Raman.
+\newblock Retail inventory: Managing the canary in the coal mine.
+\newblock {\em California Management Review}, 56(2):55--76, 2014.
+
+\bibitem{gaurh}
+V~Gaur and S~Seshadri.
+\newblock Hedging inventory risk through market instruments.
+\newblock {\em Manufacturing \& Service Operations Management}, 7(2):103--20,
+  2005.
+
+\bibitem{VishalGaur01012005}
+Vishal Gaur and Sridhar Seshadri.
+\newblock Hedging inventory risk through market instruments.
+\newblock {\em Manufacturing \& Service Operations Management}, 7(2):103--120,
+  2005.
+
+\bibitem{Geman_commod_prices_2009}
+Helyette Geman.
+\newblock {\em {Commodities and Commodity Derivatives: Modelling and Pricing
+  for Agriculturals, Metals and Energy}}.
+\newblock John Wiley \& Sons, Inc., The Atrium, Southern Gate, Chichester, West
+  Sussex PO19 8SQ, England, 2005.
+
+\bibitem{georghiou2010generalized}
+A.~Georghiou, W.~Wiesemann, and D.~Kuhn.
+\newblock Generalized decision rule approximations for stochastic programming
+  via liftings.
+\newblock {\em Mathematical Programming}, 152(1-2):301--338, 2015.
+
+\bibitem{Geweke_1986}
+John Geweke.
+\newblock Exact inference in the inequality constrained normal linear
+  regression model.
+\newblock {\em Journal of Applied Econometrics}, 1(2):127--141, 1986.
+
+\bibitem{Ghaddar2011}
+B.~Ghaddar, {J. C} Vera, and {M. F} Anjos.
+\newblock Second-order cone relaxations for binary quadratic polynomial
+  programs.
+\newblock {\em SIAM Journal on Optimization}, 21(1):391--414, 2011.
+
+\bibitem{ElGhaoui_2003_worstcase_VaR}
+L.~El Ghaoui, M.~Oks, and F.~Oustry.
+\newblock Worst-case value-at-risk and robust portfolio optimization: A conic
+  programming approach.
+\newblock {\em Operations Research}, 51(4):543--556, 2003.
+
+\bibitem{ElGhao98}
+L.~El Ghaoui, F.~Oustry, and H.~Lebret.
+\newblock Robust solutions to uncertain semidefinite programs.
+\newblock {\em SIAM Journal on Optimization}, 9(1):33--52, 1998.
+
+\bibitem{Ghysels2006659}
+Eric Ghysels, Denise~R. Osborn, and Paulo~M.M. Rodrigues.
+\newblock Handbook of economic forecasting.
+\newblock In C.W.J.~Granger G.~Elliott and A.~Timmermann, editors, {\em
+  Forecasting Seasonal Time Series}, volume~1 of {\em Handbook of Economic
+  Forecasting}, chapter~13, pages 659 -- 711. Elsevier, 2006.
+
+\bibitem{gigler}
+F~Gigler, C~Kanodia, H~Sapra, and R~Venugopalan.
+\newblock Accounting conservatism and the efficiency of debt contracts.
+\newblock {\em Journal of Accounting Research}, 47(3):767--797, 2009.
+
+\bibitem{Gilboa_Schmeidler_89}
+I.~Gilboa and D.~Schmeidler.
+\newblock Maxmin expected utility with non-unique prior.
+\newblock {\em Journal of Mathematical Economics}, 18(2):141--153, 1989.
+
+\bibitem{Glasserman_Tayur_1994}
+Paul Glasserman and Sridhar Tayur.
+\newblock {The Stability of a Capacitated, Multi-Echelon Production-Inventory
+  System Under a Base-Stock Policy}.
+\newblock {\em OPERATIONS RESEARCH}, 42(5):913--925, 1994.
+
+\bibitem{Glass95}
+Paul Glasserman and Sridhar Tayur.
+\newblock {Sensitivity Analysis for Base-Stock Levels in Multiechelon
+  Production-Inventory Systems}.
+\newblock {\em Management Science}, 41(2):263--281, 1995.
+
+\bibitem{Glazer:2011}
+Emily Glazer.
+\newblock {Commodities Prices Are Hitting Your Wallet}.
+\newblock {\em The Wall Street Journal.}, 2011.
+
+\bibitem{Goemans_Hall_1996}
+Michel Goemans and Leslie Hall.
+\newblock The strongest facets of the acyclic subgraph polytope are unknown.
+\newblock In William Cunningham, S.~McCormick, and Maurice Queyranne, editors,
+  {\em Integer Programming and Combinatorial Optimization}, volume 1084 of {\em
+  Lecture Notes in Computer Science}, pages 415--429. Springer Berlin /
+  Heidelberg, 1996.
+
+\bibitem{Goh_Sim_2009}
+J.~Goh and M.~Sim.
+\newblock Distributionally robust optimization and its tractable
+  approximations.
+\newblock {\em Operations Research}, 58(4):902--917, 2010.
+
+\bibitem{goh2010distributionally}
+J.~Goh and M.~Sim.
+\newblock Distributionally robust optimization and its tractable
+  approximations.
+\newblock {\em Operations research}, 58(4-part-1):902--917, 2010.
+
+\bibitem{goh2009robust}
+J.~Goh and M.~Sim.
+\newblock Robust optimization made easy with rome.
+\newblock {\em Operations Research}, 59(4):973--985, 2011.
+
+\bibitem{Goh_Sim_robust_proj_manag}
+Joel Goh, Nicholas Hall, and Melvyn Sim.
+\newblock Robust optimization strategies for total cost control in project
+  management.
+\newblock {W}orking paper, 2010.
+
+\bibitem{Goldfarb_Iyengar_03}
+D.~Goldfarb and G.~Iyengar.
+\newblock {Robust Portfolio Selection Problems}.
+\newblock {\em Mathematics of Operations Research}, 28(1):1--38, 2003.
+
+\bibitem{Goldfarb02robustconvex}
+Donald Goldfarb and Garud Iyengar.
+\newblock {Robust Convex Quadratically Constrained Programs}.
+\newblock {\em Mathematical Programming}, 97:495--515, 2002.
+
+\bibitem{gong}
+X~Gong, X~Chao, and D~Simchi-Levi.
+\newblock Dynamic inventory control with limited capital and short-term
+  financing.
+\newblock {\em Naval Research Logistics}, 61(3):184--201, 2014.
+
+\bibitem{Gorissen201330}
+B.~L. Gorissen and D.~{den Hertog}.
+\newblock Robust counterparts of inequalities containing sums of maxima of
+  linear functions.
+\newblock {\em European Journal of Operational Research}, 227(1):30 -- 43,
+  2013.
+
+\bibitem{Gorissen_denHertog_2012}
+B.L. Gorissen and Dick den Hertog.
+\newblock Approximating the pareto set of multiobjective linear programs via
+  robust optimization.
+\newblock CentER Discussion Paper, 2012-031, 2011.
+
+\bibitem{Gorissen_denHertog_2011}
+Bram~L. Gorissen and Dick {den Hertog}.
+\newblock Robust counterparts of inequalities containing sums of maxima of
+  linear functions.
+\newblock {\em European Journal of Operational Research}, 227(1):30--43, May
+  2013.
+
+\bibitem{KerrGoul05}
+P.~J. Goulart and E.C. Kerrigan.
+\newblock {Relationships Between Affine Feedback Policies for Robust Control
+  with Constraints}.
+\newblock In {\em Proceedings of the 16th IFAC World Congress on Automatic
+  Control}, July 2005.
+
+\bibitem{GWF13:robust_cvrp}
+C.~E. Gounaris, W.~Wiesemann, and C.~A. Floudas.
+\newblock The robust capacitated vehicle routing problem under demand
+  uncertainty.
+\newblock {\em Operations Research}, 61(3):677--693, 2013.
+
+\bibitem{Goyal_and_Lu_2015}
+Vineet Goyal and Brian Lu.
+\newblock On the adaptivity gap in two-stage robust linear optimization under
+  uncertain constraints.
+\newblock {W}orking paper, Columbia University, 2015.
+
+\bibitem{Goyal_Ravi}
+Vineet Goyal and R.~Ravi.
+\newblock An fptas for minimizing a class of low-rank quasi-concave functions
+  over a convex set.
+\newblock {T}echnical Report 366, Tepper School of Business, Carnegie Mellon
+  University, June 2008.
+
+\bibitem{grady2010discrete}
+{L. J.} Grady and J.~Polimeni.
+\newblock {\em Discrete calculus: Applied analysis on graphs for computational
+  science}.
+\newblock Springer Science \& Business Media, 2010.
+
+\bibitem{graham}
+JR~Graham and MT~Leary.
+\newblock A review of empirical capital structure research and directions for
+  the future.
+\newblock {\em Annu. Rev. Finance. Econ.}, 3:309--45, 2011.
+
+\bibitem{graves}
+S~Graves.
+\newblock A single-item inventory model for a nonstationary demand process.
+\newblock {\em Manufacturing \& Service Operations Management}, 1(1), 1999.
+
+\bibitem{Graves_1998}
+Stephen~C. Graves, David~B. Kletter, and William~B. Hetzel.
+\newblock A dynamic model for requirements planning with application to supply
+  chain optimization.
+\newblock {\em Operations Research}, 46(3):35--49, May/June 1998.
+
+\bibitem{Greene_econometrics_book}
+William Greene.
+\newblock {\em Econometric Analysis}.
+\newblock Prentice Hall, 5th edition edition, 2002.
+
+\bibitem{PabloMor03}
+Pascal Grieder, Pablo~A. Parrilo, and Manfred Morari.
+\newblock {Robust Receding Horizon Control - Analysis \& Synthesis}.
+\newblock In {\em Proceedings of the 42nd IEEE Conference on Decision and
+  Control}, volume~1, pages 941--946 Vol.1, Dec. 2003.
+
+\bibitem{Groe_Lov_Sch_1988}
+Martin Gr\"{o}tschel, L\'{a}zl\'{o} Lov\'{a}cz, and Alexander Schrijver.
+\newblock {\em Geometric Algorithms and Combinatorial Optimization}.
+\newblock Springer Verlag, Berlin, New York, 1988.
+
+\bibitem{GF06:reu}
+F.~Gul and W.~Pesendorfer.
+\newblock Random expected utility.
+\newblock {\em Econometrica}, 74(1):121--146, 2006.
+
+\bibitem{RePEc:sce:scecf2:377}
+Nalan Gulpinar and Berc Rustem.
+\newblock Worst-case optimal robust decisions for multi-period portfolio
+  optimization.
+\newblock Computing in Economics and Finance 2002 377, Society for
+  Computational Economics, 2002.
+
+\bibitem{Gurgel_Wakabayashi_97}
+Maria Angela~C.M. Gurgel and Yoshiko Wakabayashi.
+\newblock Adjacency of vertices of the complete pre-order polytope.
+\newblock {\em Discrete Mathematics}, 175(1-3):163 -- 172, 1997.
+
+\bibitem{KushClark78}
+D.~Clark H.~Kushner.
+\newblock {\em Stochastic Approximation for Constrained and Unconstrained
+  Systems}.
+\newblock Springer Verlag, New York, 1978.
+
+\bibitem{Haigh_Holt_2002}
+Michael~S. Haigh and Matthew~T. Holt.
+\newblock Combining time-varying and dynamic multi-period optimal hedging
+  models.
+\newblock {\em European Review of Agricultural Economics}, 4:471--500, 2002.
+
+\bibitem{Haksoz_Seshadri_07}
+{C} Haks\"{o}z, \ and Sridhar Seshadri.
+\newblock {Supply Chain Operations in the Presence of a Spot Market: A Review
+  with Discussion}.
+\newblock {\em {Journal of the Operational Research Society}}, 58:1412--1429,
+  2007.
+
+\bibitem{Klibanogg_Hanany_2009}
+Eran Hanany and Peter Klibanoff.
+\newblock {Updating Ambiguity Averse Preferences}.
+\newblock {\em Journal of Theoretical Economics}, 9(1), 2009.
+
+\bibitem{Hanasusanto2012}
+G.~Hanasusanto, D.~Kuhn, S.~W. Wallace, and S.~Zymler.
+\newblock Distributionally robust multi-item newsvendor problems with
+  multimodal demand distributions.
+\newblock {\em Mathematical Programming}, pages 1--32, 2014.
+
+\bibitem{Hanasusanto_2015}
+Grani Hanasusanto, Daniel Kuhn, and Wolfram Wiesemann.
+\newblock K-adaptability in two-stage robust binary programming.
+\newblock Submitted for publication, 2015.
+
+\bibitem{HanasusantoCoposWass}
+Grani~A. Hanasusanto and Daniel Kuhn.
+\newblock Conic programming reformulations of two-stage distributionally robust
+  linear programs over wasserstein balls.
+\newblock {\em Operations Research}, 66(3):849--869, 2018.
+
+\bibitem{Hansen_Sargent_2001}
+Lars~Peter Hansen and Thomas~J. Sargent.
+\newblock Robust control and model uncertainty.
+\newblock {\em The American Economic Review}, 91(2):pp. 60--66, May 2001.
+
+\bibitem{Hansen_Sargent_book}
+Lars~Peter Hansen and Thomas~J. Sargent.
+\newblock {\em Robustness}.
+\newblock Princeton University Press, 2008.
+
+\bibitem{Hardy_Wirch_2004}
+Mary~R. Hardy and Julia~L. Wirch.
+\newblock The iterated {CTE}: A dynamic risk measure.
+\newblock {\em North American Actuarial Journal}, 8(4):62--75, 2004.
+
+\bibitem{hart}
+O~Hart and J~Moore.
+\newblock Default and renegotiation: a dynamic model of debt.
+\newblock {\em QJE}, 113(1):1--41, 1998.
+
+\bibitem{Hausman_1969}
+Warren~H. Hausman.
+\newblock Sequential decision problems: A model to exploit existing
+  forecasters.
+\newblock {\em Management Science}, 16(2):93--111, 1969.
+
+\bibitem{Hazan_Safra_Schwartz_2006}
+Elad Hazan, Shmuel Safra, and Oded Schwartz.
+\newblock {On the Complexity of Approximating k-set Packing}.
+\newblock {\em Computational Complexity}, 15(1):20--39, April 2006.
+
+\bibitem{Heath_Jackson_1994}
+David~C. Heath and Peter~L. Jackson.
+\newblock Modeling the evolution of demand forecasts with application to safety
+  stock analysis in production/distribution systems.
+\newblock {\em {IIE} Transactions}, 26(3):17--30, 1994.
+
+\bibitem{Heching_Gallego_vanRyzin_02}
+Aliza Heching, Guillermo Gallego, and Garrett van Ryzin.
+\newblock Mark-down pricing: An empirical analysis of policies and revenue
+  potential at one apparel retailer.
+\newblock {\em Journal of Revenue \& Pricing Management}, 1(2):139--160, July
+  2002.
+
+\bibitem{Hendricks_Singhal_2005_empirical_disruptions}
+Kevin~B. Hendricks and Vinod~R. Singhal.
+\newblock An empirical analysis of the effect of supply chain disruptions on
+  long-run stock price performance and equity risk of the firm.
+\newblock {\em Production \& Operations Management}, 14(1):35 -- 52, 2005.
+
+\bibitem{HC95:stochastic}
+J.~D. Hey and E.~Carbone.
+\newblock Stochastic choice with deterministic preferences: An experimental
+  investigation.
+\newblock {\em Economics Letters}, 47(2):161--167, 1995.
+
+\bibitem{Heyman_Sobel_2004}
+Daniel~P. Heyman and Matthew~J. Sobel.
+\newblock {\em {Stochastic Models in Operations Research}}.
+\newblock Dover Publications, Inc., 1984.
+
+\bibitem{hilson}
+JF~Hilson.
+\newblock {\em Asset-based lending: a practical guide to secured financing}.
+\newblock Practicing Law Institute, NY, 2013.
+
+\bibitem{Hoffman1956}
+{A. J.} Hoffman and {J. B.} Kruskal.
+\newblock Integral boundary points of convex polyhedra.
+\newblock {\em Linear inequalities and related systems}, 38:223--246, 1956.
+
+\bibitem{Horn_Johnson_Matrix_Analysis_vol_1}
+Roger~A. Horn and Charles~R. Johnson.
+\newblock {\em {Matrix Analysis}}.
+\newblock Cambridge University Press, 19 edition, 2005.
+
+\bibitem{Horn_Johnson_Topics_Matrix_Analysis_vol_2}
+Roger~A. Horn and Charles~R. Johnson.
+\newblock {\em {Topics in Matrix Analysis}}.
+\newblock Cambridge University Press, 8 edition, 2007.
+
+\bibitem{Horst_Tuy_2003}
+Reiner Horst and Hoang Tuy.
+\newblock {\em Global Optimization}.
+\newblock Springer, third edition, 2003.
+
+\bibitem{Hrovat_1997}
+D.~Hrovat.
+\newblock {Survey of Advanced Suspension Developments and Related Optimal
+  Control Applications}.
+\newblock {\em Automatica}, 33(10):1781--1817, 1997.
+
+\bibitem{Hsu:2005}
+Ming Hsu, Meghana Bhatt, Ralph Adolphs, Daniel Tranel, and Colin~F. Camerer.
+\newblock Neural systems responding to degrees of uncertainty in human
+  decision-making.
+\newblock {\em Science}, 310(5754):1680--1680--3, Dec 09 2005.
+\newblock 213590800; Probability; Dec 9, 2005; Washington; GSCI; 16339445;
+  Brain; Hsu, Ming; SCIEAS; INODGSCI0002456625; 1680-3; English; 16924041;
+  Tranel, Daniel; Camerer, Colin F; Adolphs, Ralph; 28298; 943783111; Decision
+  theory; Bhatt, Meghana; Copyright American Association for the Advancement of
+  Science Dec 9, 2005; Neurology.
+
+\bibitem{Huang_Iancu_Petrik_Subram_11}
+Pu~Huang, Dan~A. Iancu, Marek Petrik, and Dharmashankar Subramanian.
+\newblock {The Price of Dynamic Inconsistency for Distortion Risk Measures}.
+\newblock Submitted for publication, June 2011.
+
+\bibitem{Huang_I_Petrik_Subraman_cvar_2012}
+Pu~Huang, Dan~A. Iancu, Marek Petrik, and Dharmashankar Subramanian.
+\newblock Static and dynamic {C}onditional {V}alue at {R}isk.
+\newblock {W}orking paper, 2012.
+
+\bibitem{Huber_Ronchetti_book}
+Peter Huber and Elvezio Ronchetti.
+\newblock {\em {Robust Statistics}}.
+\newblock Wiley, 2 edition, February 2009.
+
+\bibitem{Huber_book}
+Peter~J. Huber.
+\newblock {\em {Robust Statistics}}.
+\newblock John Wiley \& Sons, Inc., 1981.
+
+\bibitem{cohen}
+A~Huchzermeier and MA~Cohen.
+\newblock Valuing operational flexibility under exchange rate uncertainty.
+\newblock {\em Operations Research}, 44(1):100--113, 1996.
+
+\bibitem{Huh_Janakiraman_2010}
+Woonghee~Tim Huh and Ganesh Janakiraman.
+\newblock On the optimal policy structure in serial inventory systems with lost
+  sales.
+\newblock {\em Operations Research}, 58(2):486--491, March/April 2010.
+
+\bibitem{hull_opt_futures}
+John~C. Hull.
+\newblock {\em Options, Futures and Other Derivatives}.
+\newblock Prentice Hall, 6 edition, 2005.
+
+\bibitem{Hurken89}
+C.~A.~J. Hurkens and A.~Schrijver.
+\newblock On the size of systems of sets every t of which have an sdr, with an
+  application to the worst-case ratio of heuristics for packing problems.
+\newblock {\em {SIAM} Journal on Discrete Mathematics}, 2(1):68--72, 1989.
+
+\bibitem{iancu:sapdro}
+{D. A.} Iancu, M.~Sharma, and M.~Sviridenko.
+\newblock Supermodularity and affine policies in dynamic robust optimization.
+\newblock {\em Operations Research}, 61(4):941--956, 2013.
+
+\bibitem{I_Petrik_Subraman_tight_appx_2012}
+Dan~A. Iancu, Marek Petrik, and Dharmashankar Subramanian.
+\newblock Tight approximations of dynamic comonotonic risk measures.
+\newblock {W}orking paper, 2012.
+
+\bibitem{IBM_supply_chain_risk}
+{IBM}.
+\newblock {Supply Chain Risk Management: A Delicate Balancing Act}.
+\newblock IBM Global Business Services White Paper, 2008.
+
+\bibitem{CPLEX_12}
+{IBM ILOG}.
+\newblock {CPLEX 11.2}, 2010.
+
+\bibitem{Erdogan_Iyengar_2006}
+Garud Iyengar and Emre Erdo\u{g}an.
+\newblock {Ambiguous Chance Constrained Problems and Robust Optimization}.
+\newblock {\em Mathematical Programming}, 107(1-2):37--61, June 2006.
+
+\bibitem{Iyengar_2005_robust_DP}
+Garud~N. Iyengar.
+\newblock Robust dynamic programming.
+\newblock {\em {Mathematics of Operations Research}}, 30(2):257--280, 2005.
+
+\bibitem{JacPrestel01}
+T.~Jacobi and A.~Prestel.
+\newblock {Distinguished Representations of Strictly Positive Polynomials}.
+\newblock {\em Journal f\"{u}r die reine und angewandte Mathematik (Crelles
+  Journal)}, 2001(532):223--235, 2001.
+
+\bibitem{GaneshJanakiraman_2009}
+Ganesh Janakiraman and John~A. Muckstadt.
+\newblock A decomposition approach for a class of capacitated serial systems.
+\newblock {\em Operations Research}, 57(6):1384--1393, November 2009.
+
+\bibitem{jensen}
+MC~Jensen and WH~Meckling.
+\newblock Theory of the firm: Managerial behavior, agency costs, and capital
+  structure.
+\newblock {\em Journal of Financial Economics}, 3:305--360, 1976.
+
+\bibitem{Jezek_Satchell_2010}
+Michal Jezek and Stephen Satchell.
+\newblock Asset management with price impact and fair treatment of clients.
+\newblock Cambridge working papers in economics, Faculty of Economics,
+  University of Cambridge, 2010.
+
+\bibitem{Jia_Zhang_2004}
+Weijia Jia, Chuanlin Zhang, and Jianer Chen.
+\newblock {An Efficient Parameterized Algorithm for m-set Packing}.
+\newblock {\em Journal of Algorithms}, 50:106--117, January 2004.
+
+\bibitem{Jiang2011}
+H.~Jiang, S.~Netessine, and S.~Savin.
+\newblock Technical note---robust newsvendor competition under asymmetric
+  information.
+\newblock {\em Operations Research}, 59(1):254--261, 2011.
+
+\bibitem{Jiang2016:DROUnitCommitment}
+R.~Jiang, Y.~Guan, and J.-P. Watson.
+\newblock Risk-averse stochastic unit commitment with incomplete information.
+\newblock {\em IIE Transactions\emph{,}}, Available online first, 2016.
+
+\bibitem{Johnson_Thompson_75}
+G.~D. Johnson and H.~E. Thompson.
+\newblock {Optimality of Myopic Inventory Policies for Certain Dependent Demand
+  Processes}.
+\newblock {\em Management Science}, 21(11):pp. 1303--1307, 1975.
+
+\bibitem{TABB_Group_2007}
+Jeromee Johnson and Larry Tabb.
+\newblock Alternative investments 2007: The quest for alpha.
+\newblock Financial study, {TABB Group}, 2007.
+
+\bibitem{Jorion_VaR_2006}
+Philippe Jorion.
+\newblock {\em Value at Risk}.
+\newblock McGraw Hill, third edition, 2006.
+
+\bibitem{JoseAlem2012}
+D.~{Jos{\'e} Alem} and R.~Morabito.
+\newblock Production planning in furniture settings via robust optimization.
+\newblock {\em Computers \& Operations Research}, 39(2):139--150, 2012.
+
+\bibitem{Joshi_Boyd_09}
+Boyd~S. Joshi~S.
+\newblock An efficient method for large-scale slack allocation.
+\newblock {\em Engineering Optimization}, 41(12):1163--1176, Dec. 2009.
+
+\bibitem{Jouini2006}
+E.~Jouini, W.~Schachermayer, and N.~Touzi.
+\newblock Law invariant risk measures have the {F}atou property.
+\newblock In S.~Kusuoka and A.~Yamazaki, editors, {\em Advances in Mathematical
+  Economics}. Springer, 2006.
+
+\bibitem{Perakis_Kachani_Simon_07}
+Soulaymane Kachani, Georgia Perakis, and Carine Simon.
+\newblock {\em {Modeling the Transient Nature of Dynamic Pricing with Demand
+  Learning in a Competitive Environment}}, volume 102 of {\em International
+  Series in Operations Research \& Management Science}, chapter~11.
+\newblock Springer US, June 2007.
+
+\bibitem{Kahneman_Tver_1979}
+Daniel Kahneman and Amos Tversky.
+\newblock {Prospect Theory: An Analysis of Decision Under Risk}.
+\newblock {\em Econometrica}, 47(2):263--291, March 1979.
+
+\bibitem{Kaibel_Pfetsch_2004}
+Volker Kaibel and Martin Pfetsch.
+\newblock {Some Algorithmic Problems in Polytope Theory}.
+\newblock In {\em Algebra, Geometry and Software Systems}, pages 23--47.
+  Springer Berlin, 2003.
+
+\bibitem{Kalai_2012}
+Rim Kalai, Claude Lamboray, and Daniel Vanderpooten.
+\newblock Lexicographic $\alpha$-robustness: An alternative to min--max
+  criteria.
+\newblock {\em European Journal of Operational Research}, 220(3):722 -- 728,
+  2012.
+
+\bibitem{Kapus98}
+R.~Kapu\'{s}ci\'{n}ski and S.~Tayur.
+\newblock A capacitated production-inventory model with periodic demand.
+\newblock {\em Operations Research}, 46(6):899--911, 1998.
+
+\bibitem{Karush59}
+William Karush.
+\newblock {A Theorem in Convex Programming}.
+\newblock {\em Naval Research Logistics Quarterly}, 6(3):245--260, 1959.
+
+\bibitem{Kasugai_Kasegai_1960}
+Hiroshi Kasugai and Tadami Kasegai.
+\newblock {Characteristics of Dynamic Maximin Ordering Policy}.
+\newblock {\em Journal of the Operations Research Society of Japan},
+  3(1):11--26, 1960.
+
+\bibitem{Kasugai_Kasegai_1961}
+Hiroshi Kasugai and Tadami Kasegai.
+\newblock {Note of Minimax Regret Ordering Policy, Static and Dynamic Solutions
+  and a Comparison to Maximin Policy}.
+\newblock {\em Journal of the Operations Research Society of Japan},
+  3(4):155--169, 1961.
+
+\bibitem{Katz_Nelson}
+Barbara~G. Katz and Julianne Nelson.
+\newblock {The Implications of Regulating Retailer Stockout}.
+\newblock {\em Journal of Regulatory Economics}, 2:379--395, 1990.
+
+\bibitem{kay_roy}
+Chris Kay and Roy Debarati.
+\newblock {Cocoa Futures Rise on Ivory Coast Supply Concerns; Sugar, Coffee
+  Decline}.
+\newblock {\em Bloomberg.}, 2010.
+
+\bibitem{kazaz}
+B~Kazaz, M~Dada, and H~Moskowitz.
+\newblock Global production planning under exchange-rate uncertainty.
+\newblock {\em Management Science}, 51(7):1101--19, 2005.
+
+\bibitem{KMS00:portfolios}
+H.~Kellerer, R.~Mansini, and M.~Grazia Speranza.
+\newblock Selecting portfolios with fixed costs and minimum transaction lots.
+\newblock {\em Annals of Operations Research}, 99:287--304, 2000.
+
+\bibitem{Kelner:2007:HSC:1333875.1334218}
+Jonathan~A. Kelner and Evdokia Nikolova.
+\newblock On the hardness and smoothed complexity of quasi-concave
+  minimization.
+\newblock In {\em Proceedings of the 48th Annual IEEE Symposium on Foundations
+  of Computer Science}, pages 472--482, Washington, DC, USA, 2007. IEEE
+  Computer Society.
+
+\bibitem{KerrMacie03}
+E.C. Kerrigan and J.M. Maciejowski.
+\newblock On robust optimization and the optimal control of constrained linear
+  systems with bounded state disturbances.
+\newblock In {\em Proceedings of the 2003 European Control Conference},
+  Cambridge, UK, September 2003.
+
+\bibitem{KerrMacie04}
+E.C. Kerrigan and J.M. Maciejowski.
+\newblock Properties of a new parameterization for the control of constrained
+  systems with disturbances.
+\newblock {\em Proceedings of the 2004 American Control Conference},
+  5:4669--4674, June-July 2004.
+
+\bibitem{K21:treatise}
+J.~M. Keynes.
+\newblock {\em A Treatise on Probability}.
+\newblock Macmillan \& Co., 1921.
+
+\bibitem{Khodadadi_Tutuncu_Zangari_2006}
+Arlen Khodadadi, Reha~H. T\"{u}t\"{u}nc\"{u}, and Peter~J. Zangari.
+\newblock Optimisation and quantitative investment management.
+\newblock {\em Journal of Asset Management}, 7(2):83--92, 2006.
+
+\bibitem{Kilman_Berry:2011}
+Scott Kilman and Ian Berry.
+\newblock {Corn Pops as USDA Sees Drop in Supply}.
+\newblock {\em The Wall Street Journal.}, 2011.
+
+\bibitem{Kilman_Pleven:2011}
+Scott Kilman and Liam Pleven.
+\newblock {Prices Soar on Crop Woes}.
+\newblock {\em The Wall Street Journal.}, 2011.
+
+\bibitem{K13:difference}
+P.~Kircher, S.~Ludwig, and A.~Sandroni.
+\newblock On the difference between social and private goods.
+\newblock {\em B.E. Journals of Theoretical Economics}, 13(1):151--177, 2013.
+
+\bibitem{Kleinberg_Leighton_2003}
+Robert Kleinberg and Tom Leighton.
+\newblock {The Value of Knowing a Demand Curve: Bounds on Regret for Online
+  Posted-Price Auctions}.
+\newblock In {\em {FOCS '03}: Proceedings of the 44th Annual {IEEE} Symposium
+  on Foundations of Computer Science}, page 594. {IEEE} Computer Society, 2003.
+
+\bibitem{Kleindorfer_Saad_2005_disruption_risks}
+Paul~R. Kleindorfer and Germaine~H. Saad.
+\newblock {Managing Disruption Risks in Supply Chains}.
+\newblock {\em Production \& Operations Management}, 14(1):53 -- 68, 2005.
+
+\bibitem{Kleywegt:2002:SAA}
+{A. J.} Kleywegt, A.~Shapiro, and T.~{Homem-de-Mello}.
+\newblock The sample average approximation method for stochastic discrete
+  optimization.
+\newblock {\em SIAM J. on Optimization}, 12(2):479--502, 2002.
+
+\bibitem{K96:game_theory}
+P.~Klibanoff.
+\newblock Uncertainty, decision and normal form games.
+\newblock {T}echnical Report, Massachusetts Institute of Technology, 1996.
+
+\bibitem{Klibi}
+W.~Klibi, F.~Lasalle, A.~Martel, and S.~Ichoua.
+\newblock The stochastic multiperiod location transportation problem.
+\newblock {\em Transportation Science}, 44(2):221--237, 2010.
+
+\bibitem{Knight_1921}
+F.~H. Knight.
+\newblock {Risk, Uncertainty and Profit}.
+\newblock In {\em Hart, Shaffner, and Marx Prize Essays}, volume~31. Houghton
+  Mifflin Co., Boston, 1921.
+
+\bibitem{Kolm_algo_trading_2009}
+Petter Kolm.
+\newblock Algorithmic trading: A buy-side perspective.
+\newblock Presentation at the {I}nternational {A}ssociation of {F}inancial
+  {E}ngineers, May 2009.
+
+\bibitem{KYKCT11:security_games}
+D.~Korzhyk, Z.~Yin, C.~Kiekintveld, V.~Conitzer, and M.~Tambe.
+\newblock Stackelberg vs.~{N}ash in security games: An extended investigation
+  of interchangeability, equivalence, and uniqueness.
+\newblock {\em Journal of Artificial Intelligence Research}, 41(2):297--327,
+  2011.
+
+\bibitem{Koutis_2005}
+Ioannis Koutis.
+\newblock {A Faster Parameterized Algorithm for Set Packing}.
+\newblock {\em Information Processing Letters}, 94(1):7 -- 9, 2005.
+
+\bibitem{kouvelisbook}
+P~Kouvelis.
+\newblock {\em Handbook of Integrated Risk Management in Global Supply Chains}.
+\newblock Wiley, New York, 2012.
+
+\bibitem{kouvelis13}
+P~Kouvelis, R~Li, and Q~Ding.
+\newblock Inventory management and financial hedging of storable commodities.
+\newblock {\em Manufacturing \& Service Operations Management}, 15(3):507--521,
+  2013.
+
+\bibitem{kouvelis12}
+P~Kouvelis and W~Zhao.
+\newblock Financing the newsvendor: supplier vs. bank, and the structure of
+  optimal trade credit contracts.
+\newblock {\em Operations Research}, 60(3):566--580, 2012.
+
+\bibitem{Kuhn_Wiesmann_Georghiou_2009}
+Daniel Kuhn, Wolfram Wiesemann, and Angelos Georghiou.
+\newblock Primal and dual linear decision rules in stochastic and robust
+  optimization.
+\newblock {\em Mathematical Programming}, pages 1--33, December 2009.
+
+\bibitem{Kumar20076084}
+Mahesh Kumar and Nitin~R. Patel.
+\newblock Clustering data with measurement errors.
+\newblock {\em Computational Statistics \& Data Analysis}, 51(12):6084 -- 6101,
+  2007.
+
+\bibitem{Kumar_Patel_2010}
+Mahesh Kumar and Nitin~R. Patel.
+\newblock Using clustering to improve sales forecasts in retail merchandising.
+\newblock {\em Annals of Operations Research}, 174(1):33--46, February 2010.
+
+\bibitem{Kusuoka_2001}
+S.~Kusuoka.
+\newblock On law invariant coherent risk measures.
+\newblock In S.~Kusuoka and T.~Maruyama, editors, {\em Advances in Mathematical
+  Economics}, volume~3, pages 83--95. Springer, 2001.
+
+\bibitem{lai11}
+G~Lai, L~Debo, and L~Nan.
+\newblock Channel stuffing with short-term interest in market value.
+\newblock {\em Management Science}, 57(2):332--346, 2011.
+
+\bibitem{lai09}
+G~Lai, L~Debo, and K~Sycara.
+\newblock Sharing inventory risk in supply chain: the implication of financial
+  constraint.
+\newblock {\em Omega-International Journal of Management Science},
+  37(4):811--825, 2009.
+
+\bibitem{Lai_Margot_Secomandi}
+Guoming Lai, Francois Margot, and Nicola Secomandi.
+\newblock An approximate dynamic programming approach to benchmark
+  practice-based heuristics for natural gas storage valuation.
+\newblock {\em Operations Research}, 58(3):564--582, 2010.
+
+\bibitem{Lan_Lu_Monteiro_2009}
+Guangui Lan, Zhaosong Lu, and Renato D.~C. Monteiro.
+\newblock {Primal-dual First-order Methods with O(1/$\epsilon$)
+  Iteration-complexity for Cone Programming}.
+\newblock {\em Mathematical Programming}, 126:1--29, 2011.
+
+\bibitem{YingjieLan09012008}
+Yingjie Lan, Huina Gao, Michael~O. Ball, and Itir Karaesmen.
+\newblock {Revenue Management with Limited Demand Information}.
+\newblock {\em Management Science}, 54(9):1594--1609, 2008.
+
+\bibitem{Lasserre01}
+J.~B. Lasserre.
+\newblock {Global Optimization with Polynomials and the Problem of Moments}.
+\newblock {\em SIAM Journal on Optimization}, 11:796--817, 2001.
+
+\bibitem{Lasserre2002}
+{J. B.} Lasserre.
+\newblock An explicit equivalent positive semidefinite program for nonlinear
+  0-1 programs.
+\newblock {\em SIAM Journal on Optimization}, 12(3):756--769, 2002.
+
+\bibitem{Laserre06}
+J.~B. Lasserre.
+\newblock A sum of squares approximation of nonnegative polynomials.
+\newblock {\em SIAM J. on Optimization}, 16(3):751--765, 2006.
+
+\bibitem{rob08}
+MT~Leary and Roberts MR.
+\newblock The pecking order, debt capacity, and information asymmetry.
+\newblock {\em Journal of Financial Economics}, 95:332--355, 2011.
+
+\bibitem{rob10}
+MT~Leary and Roberts MR.
+\newblock The pecking order, debt capacity, and information asymmetry.
+\newblock {\em Journal of Financial Economics}, 95:332--355, 2011.
+
+\bibitem{haulee}
+HL~Lee, V~Padmanabhan, and S~Whang.
+\newblock Information distortion in a supply chain: the bullwhip effect.
+\newblock {\em Management Science}, 50(12):1875--1886, 2004.
+
+\bibitem{Leeflang_Heerde_Wittink_2002}
+Peter~S.H. Leeflang, Harald~J. Van~Heerde, and Dick~R. Wittink.
+\newblock {How Promotions Work: SCAN*PRO-Based Evolutionary Model Building}.
+\newblock {\em Schmalenback Business Review}, 54:198--220, July 2002.
+
+\bibitem{lei2015two}
+C.~Lei, W.-H. Lin, and L.~Miao.
+\newblock A two-stage robust optimization approach for the mobile facility
+  fleet sizing and routing problem under uncertainty.
+\newblock {\em Computers \& Operations Research}, In press, 2015.
+
+\bibitem{leland}
+HE~Leland.
+\newblock Corporate debt value, bond covenants, and optimal capital structure.
+\newblock {\em Journal of Finance}, 49(4):1213--52, 1994.
+
+\bibitem{Pinedo_Leung_2010}
+Joseph Y.-T. Leung, Michael Pinedo, and Guohua Wan.
+\newblock Competitive two-agent scheduling and its applications.
+\newblock {\em Operations Research}, 58(2):458--469, 2010.
+
+\bibitem{levi2007provably}
+R.~Levi, {R. O.} Roundy, and {D. B.} Shmoys.
+\newblock Provably near-optimal sampling-based policies for stochastic
+  inventory control models.
+\newblock {\em Mathematics of Operations Research}, 32(4):821--839, 2007.
+
+\bibitem{sobel13}
+L~Li, M~Shubik, and MJ~Sobel.
+\newblock Control of dividends, capital subscriptions, and physical
+  inventories.
+\newblock {\em Management Science}, 59(5):1107--1124, 2013.
+
+\bibitem{AndrewE.B.Lim02012004}
+Andrew E.~B. Lim.
+\newblock Quadratic hedging and mean-variance portfolio selection with random
+  parameters in an incomplete market.
+\newblock {\em Mathematics of Operations Research}, 29(1):132--161, 2004.
+
+\bibitem{Andrew_Lim03012007}
+Andrew E.~B. Lim and J.~George Shanthikumar.
+\newblock Relative entropy, exponential utility, and robust dynamic pricing.
+\newblock {\em Operations Research}, 55(2):198--214, 2007.
+
+\bibitem{Lim_Wimonkittiwat_2011}
+Andrew E.~B. Lim and Poomyos Wimonkittiwat.
+\newblock Dynamic portfolio choice with market impact costs.
+\newblock In {\em Proceedings of the 50th {IEEE} {C}onference on {D}ecision and
+  {C}ontrol and {E}uropean {C}ontrol {C}onference}, 2011.
+
+\bibitem{Lin2011}
+J.~Lin and {T. S.} Ng.
+\newblock Robust multi-market newsvendor models with interval demand data.
+\newblock {\em European Journal of Operational Research}, 212(2):361--373,
+  2011.
+
+\bibitem{KyleLin05}
+Kyle~Y. Lin.
+\newblock Dynamic pricing with real-time demand learning.
+\newblock {\em European Journal of Operational Research}, 174(1):522--538,
+  2006.
+
+\bibitem{Lin_Pena_2012}
+Qihang Lin and Javier~F. Pena.
+\newblock Optimal trade execution with coherent dynamic risk measures.
+\newblock {W}orking paper, August 2012.
+
+\bibitem{Lin_Janak_Floudas_2004}
+Xiaoxia Lin, Stacy~L. Janak, and Christodoulos~A. Floudas.
+\newblock A new robust optimization approach for scheduling under uncertainty:
+  I. bounded uncertainty.
+\newblock {\em Computers and Chemical Engineering}, 28:1069--1085, 2004.
+
+\bibitem{Liu_Lu_set_packing_06}
+Yang Liu, Songjian Lu, Jianer Chen, and Sing-Hoi Sze.
+\newblock {Greedy Localization and Color-Coding: Improved Matching and Packing
+  Algorithms}.
+\newblock In Hans Bodlaender and Michael Langston, editors, {\em Parameterized
+  and Exact Computation}, volume 4169 of {\em Lecture Notes in Computer
+  Science}, pages 84--95. Springer Berlin / Heidelberg, 2006.
+
+\bibitem{Liyanage_Shantikumar_2005}
+Liwan~H. Liyanage and J.George Shanthikumar.
+\newblock A practical inventory control policy using operational statistics.
+\newblock {\em Operations Research Letters}, 33(4):341 -- 348, 2005.
+
+\bibitem{L96:game_theory}
+K.~C. Lo.
+\newblock Equilibrium in beliefs under uncertainty.
+\newblock {\em Journal of Economic Theory}, 71(2):443--484, 1996.
+
+\bibitem{Perakis_Lobel}
+Ruben Lobel and Georgia Perakis.
+\newblock Dynamic pricing through sampling based optimization.
+\newblock {W}orking paper, 2010.
+
+\bibitem{Lobo_Boyd_2003}
+M.~Lobo and Stephen Boyd.
+\newblock {Pricing and Learning with Uncertain Demand}.
+\newblock {W}orking Paper, 2003.
+
+\bibitem{Loef02}
+J.~L\"{o}fberg.
+\newblock Approximations of closed-loop minimax {MPC}.
+\newblock {\em Proceedings of the 42nd IEEE Conference on Decision and
+  Control}, 2:1438--1442, 2003.
+
+\bibitem{YALMIP}
+J.~L\"{o}fberg.
+\newblock {YALMIP : A Toolbox for Modeling and Optimization in MATLAB}.
+\newblock In {\em Proceedings of the CACSD Conference}, Taipei, Taiwan, 2004.
+
+\bibitem{Lorca2015:arodus}
+A.~Lorca and A.~Sun.
+\newblock Adaptive robust optimization with dynamic uncertainty sets for
+  multi-period economic dispatch under significant wind.
+\newblock {\em IEEE Transactions on Power Systems}, 30(4):1702--1713, 2015.
+
+\bibitem{Lovasz1991}
+L.~Lov{\'a}sz and A.~Schrijver.
+\newblock Cones of matrices and set-functions and 0-1 optimization.
+\newblock {\em SIAM Journal on Optimization}, 1(2):166--190, 1991.
+
+\bibitem{Lovasz_1982}
+L\'{a}zl\'{o} Lov\'{a}sz.
+\newblock Submodular functions and convexity.
+\newblock In {\em Mathematical Programming - The State of the Art}, pages
+  235--257. Springer, 1982.
+
+\bibitem{Lu_Song_2005}
+Yingdong Lu and Jing-Sheng Song.
+\newblock Order-based cost optimization in assemble-to-order systems.
+\newblock {\em Operations Research}, 53(1):151--169, January/February 2005.
+
+\bibitem{Luo_Zheng_2008}
+Biao Luo and Jinhua Zheng.
+\newblock A new methodology for searching robust pareto optimal solutions with
+  moeas.
+\newblock In {\em Proceedings of {IEEE} World Congress on Computational
+  Intelligence}, pages 580 --586, 2008.
+
+\bibitem{Lou_Pang_Ralph_MPEC_book_1996}
+Zhi-Quan Luo, Jong-Shi Pang, and Daniel Ralph.
+\newblock {\em Mathematical Programs with Equilibrium Constraints}.
+\newblock Cambridge University Press, 1996.
+
+\bibitem{Mache_Marin_Rustic_06}
+Fabio Maccheroni, Massimo Marinacci, and Aldo Rustichini.
+\newblock {Ambiguity Aversion, Robustness, and the Variational Representation
+  of Preferences}.
+\newblock {\em Econometrica}, 74(6):1447--1498, 2006.
+
+\bibitem{Machina_1982}
+Mark Machina.
+\newblock {"Expected Utility" Analysis Without the Independence Axiom}.
+\newblock {\em Econometrica}, 50(2):277--323, March 1982.
+
+\bibitem{Machina_Schmeidler_1992}
+Mark~J. Machina and David Schmeidler.
+\newblock A more robust definition of subjective probability.
+\newblock {\em Econometrica}, 60(4):pp. 745--780, 1992.
+
+\bibitem{Maglaras_Meissner_2006}
+Constantinos Maglaras and Joern Meissner.
+\newblock Dynamic pricing strategies for multiproduct revenue management
+  problems.
+\newblock {\em Manufacturing \& Service Operations Management}, 8(2):136--148,
+  2006.
+
+\bibitem{Magnanti_Stratila_2004}
+Thomas~L. Magnanti and Dan Str\u{a}til\u{a}.
+\newblock Separable concave optimization approximately equals piecewise linear
+  optimization.
+\newblock {\em Lecture Notes in Computer Science}, 3064:19--31, 2004.
+
+\bibitem{MakYing}
+H.~Y. Mak, Y.~Rong, and J.~Zhang.
+\newblock Appointment scheduling with limited distributional information.
+\newblock {\em Management Science}, 61(2):316--334, 2015.
+
+\bibitem{Mani_Sing_Orshanky_2006}
+Murari Mani, Ashish~K. Sing, and Michael Orshansky.
+\newblock {Joint Design-time and Post-silicon Minimization of Parametric Yield
+  Loss Using Adjustable Robust Optimization}.
+\newblock In {\em ICCAD '06: Proceedings of the 2006 IEEE/ACM international
+  conference on Computer-aided design}, pages 19--26, New York, NY, USA, 2006.
+  ACM.
+
+\bibitem{Manso:10}
+G~Manso, B~Strulovici, and A~Tchistyi.
+\newblock Performance-sensitive debt.
+\newblock {\em Review of Financial Studies}, 23(5):1819--1854, 2010.
+
+\bibitem{MM14:stochastic_choice}
+P.~Manzini and M.~Mariotti.
+\newblock Stochastic choice and consideration sets.
+\newblock {\em Econometrica}, 82(3):1153--1176, 2014.
+
+\bibitem{MarbachTsitsi01}
+Peter Marbach and John~N. Tsitsiklis.
+\newblock {Simulation-based optimization of Markov reward processes}.
+\newblock {\em {IEEE Transactions on Automatic Control}}, 46(2):191--209,
+  January 2001.
+
+\bibitem{Markowitz_1952}
+Harry Markowitz.
+\newblock Portfolio selection.
+\newblock {\em The Journal of Finance}, 7(1):77--91, March 1952.
+
+\bibitem{Marshall_Olkin_ineq}
+Albert~W. Marshall, Ingram Olkin, and Barry~C. Arnold.
+\newblock {\em {Inequalities: Theory of Majorization and Its Applications}}.
+\newblock Springer Series in Statistics. Springer, 2 edition, 2009.
+
+\bibitem{deAlbeniz_Simchi_Levi_2005}
+Victor Mart\'{i}nez-de Alb\'{e}niz and David Simchi-Levi.
+\newblock A portfolio approach to procurement contracts.
+\newblock {\em Production and Operations Management}, 14(1):90--114, March
+  2005.
+
+\bibitem{deAlbeniz_Simchi-Levi_2006}
+Victor Mart\'{i}nez-de Alb\'{e}niz and David Simchi-Levi.
+\newblock Mean-variance trade-offs in supply contracts.
+\newblock {\em Naval Research Logistics}, 53(7):603--616, July 2006.
+
+\bibitem{Mas_Collel_Micro_Econ}
+Andreu Mas-Colell, Michael~D. Whinston, and Jerry~R. Green.
+\newblock {\em {Microeconomic Theory}}.
+\newblock Oxford University Press, June 1995.
+
+\bibitem{MJC14:randomized_regret}
+A.~Mastin, P.~Jaillet, and S.~Chin.
+\newblock Randomized minmax regret for combinatorial optimization under
+  uncertainty.
+\newblock Available on ar{X}iv, 2014.
+
+\bibitem{Mendelson_Tunca_2007}
+Haim Mendelson and Tunay~I. Tunca.
+\newblock Strategic spot trading in supply chains.
+\newblock {\em Management Science}, 53(5):742--759, 2007.
+
+\bibitem{Meng2015:HospitalAdmission}
+F.~Meng, J.~Qi, M.~Zhang, J.~Ang, S.~Chu, and M.~Sim.
+\newblock A robust optimization model for managing elective admission in a
+  public hospital.
+\newblock {\em Operations Research}, 63(6):1452--1467, 2015.
+
+\bibitem{Meyer_Floudas_2005}
+Clifford~A. Meyer and Christodoulos~A. Floudas.
+\newblock Convex envelopes for edge-concave functions.
+\newblock {\em Mathematical Programming}, 103:207--224, 2005.
+
+\bibitem{miao2007:rloarma}
+W.~Miao, H.~Yin, D.~Du, and J.~Han.
+\newblock Robust optimization model for a class of uncertain linear programs.
+\newblock In Bo~Chen, Mike Paterson, and Guochuan Zhang, editors, {\em
+  Combinatorics, Algorithms, Probabilistic and Experimental Methodologies},
+  volume 4614 of {\em Lecture Notes in Computer Science}, pages 384--395.
+  Springer Berlin Heidelberg, 2007.
+
+\bibitem{Milgrom_Shannon_1994}
+Paul Milgrom and Chris Shannon.
+\newblock Monotone comparative statics.
+\newblock {\em Econometrica}, 62(1):pp. 157--180, 1994.
+
+\bibitem{Mittal_Schulz_Stiller}
+S.~Mittal, A.~Schulz, and S.~Stiller.
+\newblock Robust appointment scheduling.
+\newblock In {\em Proceedings of the 17th International Workshop on
+  Approximation and Randomized Algorithms}, pages 356--370, 2014.
+
+\bibitem{Mittal_Schulz_2011}
+Shashi Mittal and Andreas Schulz.
+\newblock An fptas for minimizing a class of low-rank functions over a
+  polytope.
+\newblock Submitted for publication, 2011.
+
+\bibitem{Moallemi_Park_vanRoy_2008}
+Ciamac Moallemi, Beomsoo Park, and Benjamin Van~Roy.
+\newblock Strategic execution in the presence of an uninformed arbitrageur.
+\newblock forthcoming in {Journal of Financial Markets}, 2008.
+
+\bibitem{Moallemi_Saglam_2012}
+Ciamac Moallemi and Mehmet Sa\u{g}lam.
+\newblock Dynamic portfolio choice with linear rebalancing rules.
+\newblock {W}orking paper., 2012.
+
+\bibitem{Moazeni_Coleman_Li_sensitivity_2010}
+S.~Moazeni, T.~Coleman, and Y.~Li.
+\newblock Optimal portfolio execution strategies and sensitivity to price
+  impact parameters.
+\newblock {\em SIAM Journal on Optimization}, 20(3):1620--1654, 2010.
+
+\bibitem{basics}
+R~A Modansky and J~P Massimino.
+\newblock Asset-based financing basics.
+\newblock {\em Journal of Accountancy}, 2011.
+
+\bibitem{mod}
+F~Modigliani and MH~Miller.
+\newblock The cost of capital, corporation finance, and the theory of
+  investment.
+\newblock {\em American Economic Review}, 48(3):261--97, 1958.
+
+\bibitem{moon1994distribution}
+I.~Moon and G.~Gallego.
+\newblock Distribution free procedures for some inventory models.
+\newblock {\em Journal of the Operational Research Society}, pages 651--658,
+  1994.
+
+\bibitem{Moon2000}
+I.~Moon and {E. A.} Silver.
+\newblock The multi-item newsvendor problem with a budget constraint and fixed
+  ordering costs.
+\newblock {\em Journal of the Operational Research Society}, 51:602--608, 2000.
+
+\bibitem{morellec}
+E~Morellec.
+\newblock Asset liquidity, capital structure, and secured debt.
+\newblock {\em Journal of Financial Economics}, 61:173--206, 2001.
+
+\bibitem{MR95:randomized_algorithms}
+R.~Motwani and P.~Raghavan.
+\newblock {\em Randomized Algorithms}.
+\newblock Cambridge University Press, 1995.
+
+\bibitem{TsiMuh03}
+Alp Muharremoglu and John~N. Tsitsiklis.
+\newblock {A Single-Unit Decomposition Approach to Multiechelon Inventory
+  Systems}.
+\newblock {\em Operations Research}, 56(5):1089--1103, 2008.
+
+\bibitem{Murota_book}
+Kazuo Murota.
+\newblock {\em Discrete Convex Analysis}.
+\newblock {SIAM} Monographs on Discrete Mathematics and Applications, 2003.
+
+\bibitem{sara_murray:2011}
+Sarah Murray.
+\newblock Food and oil drive up import prices.
+\newblock {\em The Wall Street Journal.}, 2011.
+
+\bibitem{myers}
+SC~Myers.
+\newblock Determinants of corporate borrowing.
+\newblock {\em Journal of Financial Economics}, 5:147--145, 1977.
+
+\bibitem{Nascimento_Powell_2008}
+Juliana~M. Nascimento and Warren Powell.
+\newblock An optimal solution to a general dynamic jet fuel hedging problem.
+\newblock {W}orking paper., 2008.
+
+\bibitem{N51:non_coop}
+J.~Nash.
+\newblock Non-cooperative games.
+\newblock {\em Annals of Mathematics}, 54(2):286--295, 1951.
+
+\bibitem{Nash_1950}
+John Nash.
+\newblock Equilibrium points in n-person games.
+\newblock {\em Proceedings of the National Academy of Sciences}, 36(1):48--49,
+  1950.
+
+\bibitem{Natarajan_Sim_Pacha_2008}
+Karthik Natarajan, Dessislava Pachamanova, and Melvyn Sim.
+\newblock Incorporating asymmetric distributional information in robust
+  value-at-risk optimization.
+\newblock {\em Management Science}, 54(3):573--585, 2008.
+
+\bibitem{Natarajan_Pachamanova_Sim_2009}
+Karthik Natarajan, Dessislava Pachamanova, and Melvyn Sim.
+\newblock Constructing risk measures from uncertainty sets.
+\newblock {\em Operations Research}, 2009.
+
+\bibitem{NatarajanSimUichanco2008}
+Karthik Natarajan, Melvyn Sim, and Joline Uichanco.
+\newblock Tractable robust expected utility and risk models for portfolio
+  optimization.
+\newblock {\em Mathematical Finance}, 20(4):695--731, 2010.
+
+\bibitem{ShapiroNemirovski06}
+Arkadi Nemirovski and Alexander Shapiro.
+\newblock {\em Continuous Optimization: Current Trends and Applications},
+  volume~99 of {\em Applied Optimization}, chapter On Complexity of Stochastic
+  Programming Problems, pages 111--146.
+\newblock Springer US, 2005.
+
+\bibitem{Nemirovski_Shapiro_convex_approx_chance}
+Arkadi Nemirovski and Alexander Shapiro.
+\newblock Convex approximations of chance constrained programs.
+\newblock {\em SIAM J. on Optimization}, 17(4):969--996, 2006.
+
+\bibitem{Nesterov_Nemirovski_book}
+Yurii Nesterov and Arkadi Nemirovski.
+\newblock {\em Interior-Point Polynomial Algorithms in Convex Programming}.
+\newblock Society for Industrial and Applied Mathematics, 1994.
+
+\bibitem{Netessine_2006}
+Serguei Netessine.
+\newblock {Dynamic Pricing of Inventory/Capacity with Infrequent Price
+  Changes}.
+\newblock {\em European Journal of Operational Research}, 174(1):553--580,
+  October 2006.
+
+\bibitem{Jiawang_Nie_2010}
+Jiawang Nie.
+\newblock {Regularization Methods for Sum of Squares Relaxations in Large Scale
+  Polynomial Optimization}.
+\newblock Working draft., September 2009.
+
+\bibitem{Jiawang_Nie_2009_bounds_SOS}
+Jiawang Nie.
+\newblock Sum of squares methods for minimizing polynomial forms over spheres
+  and hypersurfaces.
+\newblock unpublished., March 2009.
+
+\bibitem{Jiawang_Nie_2009}
+Jiawang Nie.
+\newblock Polynomial matrix inequality and semidefinite representation.
+\newblock {W}orking Paper., May 2010.
+
+\bibitem{Nilim_ElGhaoui_2005}
+Arnab Nilim and Laurent El~Ghaoui.
+\newblock Robust control of {M}arkov decision processes with uncertain
+  transition matrices.
+\newblock {\em {Operations Research}}, 53(5):780--798, 2005.
+
+\bibitem{nini}
+G~Nini, DC~Smith, and A~Sufi.
+\newblock Creditor control rights and firm investment policy.
+\newblock {\em Journal of Financial Economics}, 92:400--420, 2009.
+
+\bibitem{Obizhaeva_Wang_2005}
+Anna Obizhaeva and Jiang Wang.
+\newblock Optimal trading strategy with supply/demand dynamics.
+\newblock {W}orking paper, 2005.
+
+\bibitem{OCienneide_Sherer_Xu_2006}
+Colm O'Cinneide, Bernd Scherer, and Xiaodong Xu.
+\newblock Pooling trades in a quantitative investment process.
+\newblock {\em The Journal of Portfolio Management}, 32(4):33--43, 2006.
+
+\bibitem{Ogryczak_1997}
+Wlodzimierz Ogryczak.
+\newblock On the lexicographic minimax approach to location problems.
+\newblock {\em European Journal of Operational Research}, 100(3):566 -- 585,
+  1997.
+
+\bibitem{Oktal20131}
+H.~Oktal and A.~Ozger.
+\newblock Hub location in air cargo transportation: A case study.
+\newblock {\em Journal of Air Transport Management}, 27(1):1 -- 4, 2013.
+
+\bibitem{Ono_Nakayama_swarm_RO_2009}
+S.~Ono and S.~Nakayama.
+\newblock Multi-objective particle swarm optimization for robust optimization
+  and its hybridization with gradient search.
+\newblock In {\em {IEEE} Congress on Evolutionary Computation}, pages 1629
+  --1636, May 2009.
+
+\bibitem{sercanozbay2006solving}
+{N. S.} Ozbay.
+\newblock {\em Solving robust inventory problems}.
+\newblock PhD thesis, Columbia University, 2006.
+
+\bibitem{Paganini_1996}
+Fernando Paganini.
+\newblock A set-based approach for white noise modeling.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 41(10):1453--1465,
+  October 1996.
+
+\bibitem{Pardalos_Rosen_86}
+P.~M. Pardalos and J.~B. Rosen.
+\newblock Methods for global concave minimization: A bibliographic survey.
+\newblock {\em SIAM Review}, 28(3):pp. 367--379, 1986.
+
+\bibitem{ParriloThesis}
+{P. A.} Parrilo.
+\newblock {\em Structured Semidefinite Programs and Semialgebraic Geometry
+  Methods in Robustness and Optimization}.
+\newblock PhD thesis, California Institute of Technology, 2000.
+
+\bibitem{ParThesis}
+Pablo~A. Parrilo.
+\newblock {\em Structured Semidefinite Programs and Semialgebraic Geometry
+  Methods in Robustness and Optimization}.
+\newblock PhD thesis, California Institute of Technology, 2000.
+
+\bibitem{Parrilo03}
+Pablo~A. Parrilo.
+\newblock Semidefinite programming relaxations for semialgebraic problems.
+\newblock {\em Mathematical Programming Series B}, 96(2):293--320, May 2003.
+
+\bibitem{Penner_thesis}
+Irina Penner.
+\newblock {\em {Dynamic Convex Risk Measures: Time Consistency, Prudence and
+  Sustainability}}.
+\newblock PhD thesis, Humboldt-Universit\"{a}t zu Berlin, 2007.
+
+\bibitem{Perakis_Roels_08}
+Georgia Perakis and Guillaume Roels.
+\newblock Regret in the newsvendor model with partial information.
+\newblock {\em Operations Research}, 56(1):188--203, 2008.
+
+\bibitem{GeorgiaPerakis01012010}
+Georgia Perakis and Guillaume Roels.
+\newblock Robust controls for network revenue management.
+\newblock {\em Manufacturing \& Service Operations Management}, 12(1):56--76,
+  2010.
+
+\bibitem{Perold_1988}
+Andr\'{e}~F. Perold.
+\newblock The implementation shortfall: Paper versus reality.
+\newblock {\em The Journal of Portfolio Management}, 14(3):4--9, 1988.
+
+\bibitem{Petruzzi_Dada_99}
+Nicholas Petruzzi and Maqbool Dada.
+\newblock Pricing and the newsvendor problem: A review with extensions.
+\newblock {\em {Operations Research}}, 47:183--194, 1999.
+
+\bibitem{Pflug_Romisch_risk_book}
+Georg~Ch. Pflug and Werner R\"{o}misch.
+\newblock {\em {Modeling, Measuring and Managing Risk}}.
+\newblock World Scientific Publishing Co., 2007.
+
+\bibitem{bob}
+R~Phillips.
+\newblock {\em Pricing and revenue optimization}.
+\newblock Stanford Business Books, 2005.
+
+\bibitem{Phillips_Robert_Rev_Mang_book_2005}
+Robert Phillips.
+\newblock {\em {Pricing and Revenue Management}}.
+\newblock {Stanford Business Books}, 1 edition, August 2005.
+
+\bibitem{Philpott_Matos_Finardi_2013}
+Andy Philpott, Vitor de~Matos, and Erlon Finardi.
+\newblock On solving multistage stochastic programs with coherent risk
+  measures.
+\newblock {\em Operations Research}, 61(4):957--970, 2013.
+
+\bibitem{PInar2005331}
+Mustafa Pinar and Reha T\"{u}t\"{u}nc\"{u}.
+\newblock Robust profit opportunities in risky financial portfolios.
+\newblock {\em Operations Research Letters}, 33(4):331 -- 340, 2005.
+
+\bibitem{Pivato_2008}
+Marcus Pivato.
+\newblock Twofold optimality of the relative utilitarian bargaining solution.
+\newblock {\em Social Choice and Welfare}, 32(1):79--92, 2008.
+
+\bibitem{IoanaPopescu08012005}
+Ioana Popescu.
+\newblock {A Semidefinite Programming Approach to Optimal-Moment Bounds for
+  Convex Classes of Distributions}.
+\newblock {\em MATHEMATICS OF OPERATIONS RESEARCH}, 30(3):632--657, 2005.
+
+\bibitem{IoanaPopescu01012007}
+Ioana Popescu.
+\newblock {Robust Mean-Covariance Solutions for Stochastic Optimization}.
+\newblock {\em OPERATIONS RESEARCH}, 55(1):98--112, 2007.
+
+\bibitem{IoanaPopescu05012007}
+Ioana Popescu and Yaozhong Wu.
+\newblock {Dynamic Pricing Strategies with Reference Effects}.
+\newblock {\em OPERATIONS RESEARCH}, 55(3):413--429, 2007.
+
+\bibitem{porteus}
+EL~Porteus.
+\newblock Equivalent formulations of the stochastic cash balance problem.
+\newblock {\em Management Science}, 19(3):250--53, 1972.
+
+\bibitem{Porteus_2002}
+Evan~L. Porteus.
+\newblock {\em {Foundations of Stochastic Inventory Management}}.
+\newblock {Stanford Business Books}, 2002.
+
+\bibitem{Postek_2014}
+K.~Postek and Dick {den Hertog}.
+\newblock Multi-stage adjustable robust mixed-integer optimization via
+  iterative splitting of the uncertainty set.
+\newblock Submitted for publication, 2014.
+
+\bibitem{Postek:DRCRM2015}
+K.~S. Postek, D.~den Hertog, and B.~Melenberg.
+\newblock Computationally tractable counterparts of distributionally robust
+  constraints on risk measures.
+\newblock {\em SIAM Review}, 58(4):603--650, 2016.
+
+\bibitem{Powell_approx_DP_book}
+Warren Powell.
+\newblock {\em {Approximate Dynamic Programming: Solving the Curses of
+  Dimensionality}}.
+\newblock Wiley Series in Probability and Statistics. Wiley-Interscience, 2007.
+
+\bibitem{Prodhon20141}
+C.~Prodhon and C.~Prins.
+\newblock A survey of recent research on location-routing problems.
+\newblock {\em European Journal of Operational Research}, 238(1):1 -- 17, 2014.
+
+\bibitem{Putinar93}
+M.~Putinar.
+\newblock Positive polynomials on compact semi-algebraic sets.
+\newblock {\em Indiana University Mathematics Journal}, 42:969--984, 2003.
+
+\bibitem{quadrini}
+V~Quadrini.
+\newblock Investment and liquidation in renegotiation-proof contracts with
+  moral hazard.
+\newblock {\em Journal of Monetary Economics}, 51:713--51, 2004.
+
+\bibitem{Queyranne_survery}
+Maurice Queyranne.
+\newblock {An Introduction to Submodular Functions and Optimization}.
+\newblock IMA manuscript., November 2002.
+
+\bibitem{Quiggin_1982}
+John Quiggin.
+\newblock {A Theory of Anticipated Utility}.
+\newblock {\em Journal of Economic Behavior \& Organization}, 3(4):323 -- 343,
+  1982.
+
+\bibitem{Quist_deClerk_Roos_Terlaky_1998}
+A.J. Quist, E.~De~Clerk, C.~Roos, and T.~Terlaky.
+\newblock Copositive relaxation for general quadratic programming.
+\newblock {\em Optimization Methods and Software}, 9(1):185--208, 1998.
+
+\bibitem{Rajan_1992}
+Arvind~Rajan Rakesh and Richard Steinberg.
+\newblock {Dynamic Pricing and Ordering Decisions by a Monopolist}.
+\newblock {\em Management Science}, 38(2):240--262, 1992.
+
+\bibitem{Rama_R_writeup}
+Rama Ramakrishnan.
+\newblock {Markdown Management}.
+\newblock personal communication., 2009.
+
+\bibitem{Rama_personal_comm}
+Rama Ramakrishnan.
+\newblock Personal communication., 2009-2010.
+
+\bibitem{rampini}
+AA. Rampini and S~Viswanathan.
+\newblock Collateral and capital structure.
+\newblock {\em Journal of Financial Economics}, page Forthcoming, 2013.
+
+\bibitem{Raskh_Yaroslavts_2012}
+Sofya Raskhodnikova and Grigory Yaroslavtsev.
+\newblock Learning pseudo-boolean k-dnf and submodular functions.
+\newblock {W}orking paper, 2012.
+
+\bibitem{Rawls_1971}
+John Rawls.
+\newblock {\em A Theory of Justice}.
+\newblock Harvard University Press, 1971.
+
+\bibitem{IBM_Ray_Apte_McAuliffe_Cope_2008_risk}
+Bonnie Ray, Chid Apte, Kevin {McAuliffe}, Lea Deleris, and Eric Cope.
+\newblock Harnessing uncertainty: The future of risk analytics.
+\newblock IBM Research Report RC24534 (C0804-008), IBM Research, April 2008.
+
+\bibitem{Riedel2004185}
+Frank Riedel.
+\newblock Dynamic coherent risk measures.
+\newblock {\em Stochastic Processes and their Applications}, 112(2):185 -- 200,
+  2004.
+
+\bibitem{A_Rikun_1997_multilinear}
+Anatoliy~D. Rikun.
+\newblock A convex envelope formula for multilinear functions.
+\newblock {\em Journal of Global Optimization}, 10:425--437, June 1997.
+
+\bibitem{RobertsSufi2009a}
+Michael~R. Roberts and Amir Sufi.
+\newblock Control rights and capital structure: An empirical investigation.
+\newblock {\em The Journal of Finance}, 64(4):1657--1695, 2009.
+
+\bibitem{robsufi}
+MR~Roberts and A.~Sufi.
+\newblock Financial contracting: A survey of empirical research and future
+  directions.
+\newblock {\em Annu. Rev. Finance. Econ.}, 1:1--20, 2009.
+
+\bibitem{RockWets78}
+R.~T. Rockafellar and Roger J.-B. Wets.
+\newblock The optimal recourse problem in discrete time: L1-multipliers for
+  inequality constraints.
+\newblock {\em SIAM Journal of Control and Optimization}, 16:16--36, 1978.
+
+\bibitem{Rock_Uryas_2002}
+R.~Tyrrell Rockafellar and Stanislav Uryasev.
+\newblock Conditional value-at-risk for general loss distributions.
+\newblock {\em Journal of Banking \& Finance}, 26(7):1443 -- 1471, 2002.
+
+\bibitem{Rock70}
+T.~Rockafellar.
+\newblock {\em Convex Analysis}.
+\newblock Princeton University Press, 1970.
+
+\bibitem{Rock_Uryas_2000}
+Tyrrell~R. Rockafellar and Stanislav Uryasev.
+\newblock {Optimization of Conditional Value-at-Risk}.
+\newblock {\em Journal of Risk}, 2(3):21--41, 2000.
+
+\bibitem{Rosu_2009}
+Ioanid Ro\c{s}u.
+\newblock A dynamic model of the limit order book.
+\newblock {\em Review of Financial Studies}, 22(11):4601--4641, 2009.
+
+\bibitem{Roorda_Schumacher_2008}
+Berend Roorda and J.~M. Schumacher.
+\newblock How to apply tail value at risk over multiple time steps avoiding
+  accumulation of conservatism and extra parameters.
+\newblock Extended abstract for the Bachelier Finance Society World Congress.,
+  July 2008.
+
+\bibitem{Roorda_Schum_Engw_2005_coherent}
+Berend Roorda, J.~M. Schumacher, and Jacob Engwerda.
+\newblock Coherent acceptability measures in multiperiod models.
+\newblock {\em Mathematical Finance}, 15(4):589--612, 2005.
+
+\bibitem{Roorda_Schumach_2007_tail_var}
+Berend Roorda and J.M. Schumacher.
+\newblock Time consistency conditions for acceptability measures, with an
+  application to tail value at risk.
+\newblock {\em Insurance: Mathematics and Economics}, 40(2):209 -- 230, 2007.
+
+\bibitem{rosenblatt1952}
+M.~Rosenblatt.
+\newblock Remarks on a multivariate transformation.
+\newblock {\em The Annals of Mathematical Statistics}, 23(3):470--472, 1952.
+
+\bibitem{Roes89}
+K.~Rosling.
+\newblock Optimal inventory policies for assembly systems under random demands.
+\newblock {\em Operations Research}, 37(4):565--579, July-August 1989.
+
+\bibitem{Roy_2010}
+Bernard Roy.
+\newblock Robustness in operational research and decision aiding: A
+  multi-faceted issue.
+\newblock {\em European Journal of Operational Research}, 200(3):629 -- 638,
+  2010.
+
+\bibitem{R02:irrational}
+A.~Rubinstein.
+\newblock Irrational diversification in multiple decision problems.
+\newblock {\em European Economic Review}, 46(8):1369--1378, 2002.
+
+\bibitem{Rudin76}
+Walter Rudin.
+\newblock {\em {Principles of Mathematical Analysis}}.
+\newblock Mc-Graw Hill Science/Engineering/Math, 1976.
+
+\bibitem{Rudloff_Street_Valladao_2012}
+Birgit Rudloff, Alexandre Street, and Davi~M. Vallad\~{a}o.
+\newblock Time consistency and risk averse dynamic decision models: Definition,
+  interpretation and practical consequences.
+\newblock {W}orking paper, May 2012.
+
+\bibitem{Rusmevichientong_Topaloglu_2011}
+Paat Rusmevichientong and Huseyin Topaloglu.
+\newblock Robust assortment optimization in revenue management under the
+  multinomial logit choice model.
+\newblock {W}orking paper, May 2011.
+
+\bibitem{Rusmevichientong_vanRoy_Glynn_2006}
+Paat Rusmevichientong, Benjamin Van~Roy, and Peter~W. Glynn.
+\newblock {A Nonparametric Approach to Multiproduct Pricing}.
+\newblock {\em OPERATIONS RESEARCH}, 54(1):82--98, 2006.
+
+\bibitem{Rusz_2010_risk_averse_DP}
+Andrzej Ruszczy\'{n}ski.
+\newblock Risk-averse dynamic programming for {M}arkov decision processes.
+\newblock {\em Mathematical Programming}, 125:235--261, 2010.
+
+\bibitem{Ruszczynski_Shapiro_06}
+Andrzej Ruszczynski and Alexander Shapiro.
+\newblock Conditional risk mappings.
+\newblock {\em Mathematics of Operations Research}, 31(3):544--561, 2006.
+
+\bibitem{Ruszczynski_shapiro_opt_cvx_06}
+Andrzej Ruszczynski and Alexander Shapiro.
+\newblock Optimization of convex risk functions.
+\newblock {\em Mathematics of Operations Research}, 31(3):433--452, 2006.
+
+\bibitem{S12:timing}
+K.~Saito.
+\newblock Subjective timing of randomization and ambiguity.
+\newblock {W}orking Paper, California Institute of Technology, 2012.
+
+\bibitem{S13:socials_prefs}
+K.~Saito.
+\newblock Social preferences under risk: Equality of opportunity versus
+  equality of outcome.
+\newblock {\em American Economic Review}, 103(7):3084--3101, 2013.
+
+\bibitem{S15:flex}
+K.~Saito.
+\newblock Preferences for flexibility and randomization under uncertainty.
+\newblock {\em American Economic Review}, 105(3):1246--1271, 2015.
+
+\bibitem{samuelson52}
+{P.~A.} Samuelson.
+\newblock Probability, utility, and the independence axiom.
+\newblock {\em Econometrica}, 20(4):1670--678, 1952.
+
+\bibitem{Samuelson_1947}
+Paul~A. Samuelson.
+\newblock {\em Foundations of Economic Analysis}.
+\newblock Harvard University Press, 1947.
+
+\bibitem{Savage_1972}
+Leonard~J. Savage.
+\newblock {\em {The Foundations of Statistics}}.
+\newblock Dover Publications, Inc., second edition, 1972.
+
+\bibitem{Savels_Stubbs_Vandenbusshe_2010}
+Martin W.~P. Savelsbergh, Robert~A. Stubbs, and Dieter Vandenbussche.
+\newblock Multiportfolio optimization: A natural next step.
+\newblock In John~B. Guerard, editor, {\em Handbook of Portfolio Construction},
+  pages 565--581. Springer US, 2010.
+
+\bibitem{Scarf58}
+H.~Scarf.
+\newblock {\em {A Min-Max Solution to an Inventory Problem}}, chapter~2, pages
+  201--209.
+\newblock Studies in the Mathematical Theory of Inventory and Production.
+  Stanford University Press, Stanford, CA, USA, 1958.
+
+\bibitem{Scarf60}
+Herbert Scarf.
+\newblock {\em The Optimality of $(s,S)$ Policies in the Dynamic Inventory
+  Problem}, pages 196--202.
+\newblock Mathematical Methods in the Social Sciences. Stanford University
+  Press, 1959.
+
+\bibitem{Scherer_2007}
+Bernd Scherer.
+\newblock Can robust portfolio optimisation help to build better portfolios?
+\newblock {\em Journal of Asset Management}, 7:374--387, 2007.
+
+\bibitem{Schied_Follmer_Weber_bookchap_09}
+Alexander Schied, Hans F\"{o}llmer, and Stefan Weber.
+\newblock Robust preferences and robust portfolio choice.
+\newblock In {\em Mathematical Modeling and Numerical Methods in Finance},
+  volume~XV of {\em Handbook of Numerical Analysis}, chapter~1, pages 29--88.
+  North-Holland, 2009.
+
+\bibitem{schmeidler86:intRepWithoutAdd}
+D.~Schmeidler.
+\newblock Integral representation without additivity.
+\newblock {\em Proceedings of the American Mathematical Society},
+  97(2):255--261, 1986.
+
+\bibitem{Schmeidler_1989}
+D.~Schmeidler.
+\newblock Subjective probability and expected utility without additivity.
+\newblock {\em Econometrica}, 57(3):571--587, 1989.
+
+\bibitem{Schmeidler_1969_nucleolous}
+David Schmeidler.
+\newblock The nucleolus of a characteristic function game.
+\newblock {\em {SIAM} Journal on Applied Mathematics}, 17(6):1163--1170, 1969.
+
+\bibitem{Schmeidler_1986_choquet}
+David Schmeidler.
+\newblock Integral representation without additivity.
+\newblock {\em Proceedings of the Americal Mathematical Society}, 97:255--261,
+  1986.
+
+\bibitem{schmidt}
+W~Schmidt, V~Gaur, R~Lai, and A~Raman.
+\newblock Signaling to partially informed investors in the newsvendor model.
+\newblock {W}orking Paper, 2012.
+
+\bibitem{Schriver_book_LP_IP}
+Alexander Schrijver.
+\newblock {\em Theory of Linear and Integer Programming}.
+\newblock John Wiley \& Sons, second edition, 2000.
+
+\bibitem{Schrijver_Alex_book_2003}
+Alexander Schrijver.
+\newblock {\em {Combinatorial Optimization: Polyhedra and Efficiency}}.
+\newblock Springer, 1 edition, 2003.
+
+\bibitem{cnn}
+R~Schwimmer.
+\newblock The rebirth of asset-based lending.
+\newblock {\em CNN Money}, 2011.
+
+\bibitem{see2010robust}
+C.T. See and M.~Sim.
+\newblock Robust approximation to multiperiod inventory management.
+\newblock {\em Operations Research}, 58(3):583--594, 2010.
+
+\bibitem{spbook}
+A.~Shapiro, D.~Dentcheva, and A.~Ruszczynski.
+\newblock {\em Lectures on Stochastic Programming: Modeling and Theory}.
+\newblock {SIAM, Philadelphia}, 2009.
+
+\bibitem{Shapiro_article_06}
+Alexander Shapiro.
+\newblock On complexity of multistage stochastic programs.
+\newblock {\em Operations Research Letters}, 34(1):1 -- 8, 2006.
+
+\bibitem{Shapiro_2011}
+Alexander Shapiro.
+\newblock Minimax and risk averse multistage stochastic programming.
+\newblock {\em European Journal of Operational Research}, 219(3):719 -- 726,
+  2012.
+
+\bibitem{Shapiro_2012}
+Alexander Shapiro.
+\newblock Time consistency of dynamic risk measures time consistency of dynamic
+  risk measures time consistency of dynamic risk measures time consistency of
+  dynamic risk measures.
+\newblock {\em Operations Research Letters}, 40:436--439, 2012.
+
+\bibitem{Shapley_1953}
+Lloyd.~S. Shapley.
+\newblock {The Value of an {N}-Person Game}.
+\newblock In H.~W. Kuhn and A.~W. Tucker, editors, {\em Contributions to the
+  Theory of Games II}, pages 307--317. Princeton University Press, 1953.
+
+\bibitem{Simchi_Levi_Bramel_Chen_book}
+David Simchi-Levi, Xin Chen, and Julien Bramel.
+\newblock {\em {The Logic of Logistics: Theory, Algorithms, and Applications
+  for Logistics and Supply Chain Management}}.
+\newblock Springer, 2 edition, 2004.
+
+\bibitem{Simon_1955}
+Herbert~A. Simon.
+\newblock {A Behavioral Model of Rational Choice}.
+\newblock {\em The Quarterly Journal of Economics}, 69(1):99--118, 1955.
+
+\bibitem{Skaf_Boyd_nonlinear_08}
+J.~Skaf and S.~Boyd.
+\newblock {Nonlinear Q-Design for Convex Stochastic Control}.
+\newblock {\em {IEEE Transactions on Automatic Control}}, 54(10):2426--2430,
+  October 2009.
+
+\bibitem{SkafBoyd_affine_08}
+J.~Skaf and S.~Boyd.
+\newblock Design of affine controllers via convex optimization.
+\newblock {\em {IEEE} Transactions on Automatic Control}, 55(11):2476--2487,
+  October 2010.
+
+\bibitem{smith}
+CW~Smith and JB~Warner.
+\newblock On financial contracting: An analysis of bond covenants.
+\newblock {\em Journal of Financial Economics}, 3:33--45, 1979.
+
+\bibitem{James_Smith_1998}
+James~E. Smith.
+\newblock {Evaluating Income Streams: A Decision Analysis Approach}.
+\newblock {\em Management Science}, 44(12-Part-1):1690--1708, 1998.
+
+\bibitem{Smith_2009_pricing}
+Stephen~A. Smith.
+\newblock {Clearance Pricing in Retail Chains}.
+\newblock {\em International Series in Operations Research \& Management
+  Science}, 122:1--21, 2009.
+
+\bibitem{Smith_Achabal_1998}
+Stephen~A. Smith and Dale~D. Achabal.
+\newblock Clearance pricing and inventory policies for retail chains.
+\newblock {\em Management Science}, 44(3):285--300, 1998.
+
+\bibitem{Solyali}
+O.~Solyali, {J.-F.} Cordeau, and G.~Laporte.
+\newblock Robust inventory routing under demand uncertainty.
+\newblock {\em Transportation Science}, 46(3):327--340, 2012.
+
+\bibitem{SN00:stochastic_choice}
+B.~Sopher and J.~M. Narramore.
+\newblock Stochastic choice and consistency in decision making under risk: An
+  experimental study.
+\newblock {\em Theory and Decision}, 48(4):323--349, 2000.
+
+\bibitem{Soyster73}
+A.~L. Soyster.
+\newblock {Technical Note--Convex Programming with Set-Inclusive Constraints
+  and Applications to Inexact Linear Programming}.
+\newblock {\em Operations Research}, 21(5):1154--1157, 1973.
+
+\bibitem{stig81}
+J.~Stiglitz and A.~Weiss.
+\newblock Credit rationing in markets with imperfect information.
+\newblock {\em American Economic Review}, 71(3):393--410, 1981.
+
+\bibitem{stobbe_krause_2010}
+Peter Stobbe and Andreas Krause.
+\newblock Efficient minimization of decomposable submodular functions.
+\newblock In {\em Proceedings of Neural Information Processing Systems},
+  October 2010.
+
+\bibitem{wsj}
+K~Stock.
+\newblock Asset-based lending grows in popularity.
+\newblock {\em The Wall Street Journal}, 2010.
+
+\bibitem{S11:luck_of_draw}
+P.~Stone.
+\newblock {\em The luck of draw}.
+\newblock Oxford University Press, 2011.
+
+\bibitem{strebulaev}
+I.~A. Strebulaev, H.~Zhu, and P.~Zryumov.
+\newblock Dynamic information asymmetry, financing, and investment decisions.
+\newblock {W}orking Paper, 2013.
+
+\bibitem{Myopia_and_Inconsistency}
+R.~H. Strotz.
+\newblock Myopia and inconsistency in dynamic utility maximization.
+\newblock {\em The Review of Economic Studies}, 23(3):165--180, 1955--56.
+
+\bibitem{Stubbs_Vandenbusshe_2009}
+Robert~A. Stubbs and Dieter Vandenbussche.
+\newblock Multi-portfolio optimization and fairness in allocation of trades.
+\newblock White paper., January 2009.
+
+\bibitem{SeDuMi}
+J.~Sturm, P.~Imre, and T.~Terlaky.
+\newblock Sedumi 1.3, 2006.
+
+\bibitem{Suh_Lee_2001}
+Min-ho Suh and Tai-yong Lee.
+\newblock Robust optimization method for the economic term in chemical process
+  design and planning.
+\newblock {\em Industrial \& Engineering Chemistry Research},
+  40(25):5950--5959, 2001.
+
+\bibitem{swinney09}
+R~Swinney and S~Netessine.
+\newblock Long-term contracts under the threat of supplier default.
+\newblock {\em Manufacturing \& Service Operations Management}, 11(1):109--127,
+  2009.
+
+\bibitem{Sznaier_Tierno_1998}
+M.~Sznaier and J.~Tierno.
+\newblock Is set modeling of white noise a good tool for robust {H2} analysis?
+\newblock {\em Proceedings of the 37th {IEEE} Conference on Decision and
+  Control}, 1:1183--1188, December 1998.
+
+\bibitem{LT07:Thesis}
+Y.~Le Tallec.
+\newblock {\em Robust, Risk-Sensitive, and Data-Driven Control of {M}arkov
+  Decision Processes}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2007.
+
+\bibitem{Talluri_vanRyzin_Rev_Manag_book}
+Kalyan~T. Talluri and Garrett~J. van Ryzin.
+\newblock {\em {The Theory and Practice of Revenue Management}}.
+\newblock Springer Science and Business Media, Inc., New York, NY 10013, 2005.
+
+\bibitem{Tardella_2008_sum_decomposab}
+Fabio Tardella.
+\newblock Existence and sum decomposition of vertex polyhedral convex
+  envelopes.
+\newblock {\em Optimization Letters}, 2:363--375, 2008.
+
+\bibitem{Tawarmalani_Richard_Xiong_2010}
+Mohit Tawarmalani, Jean-Philippe~P. Richard, and Cuanhui Xiong.
+\newblock Explicit convex and concave envelopes through polyhedral
+  subdivisions.
+\newblock Submitted for publication, June 2010.
+
+\bibitem{ThenieVial08}
+Julien Th\'{e}ni\'{e} and Jean-Phillipe Vial.
+\newblock Step decision rules for multistage stochastic programming: A
+  heuristic approach.
+\newblock {\em Automatica}, 44(6):1569--1584, 2008.
+
+\bibitem{thiele2010:rlowr}
+A.~Thiele, T.~Terry, and M.~Epelman.
+\newblock Robust linear optimization with recourse.
+\newblock Technical report, Working draft, 2010.
+
+\bibitem{Thiele_2006_single_product}
+Aur{\'e}lie Thiele.
+\newblock {Single-product Pricing via Robust Optimization}.
+\newblock Working draft, January 2006.
+
+\bibitem{Thiele_2009_multiproduct}
+Aur{\'e}lie Thiele.
+\newblock Multi-product pricing via robust optimisation.
+\newblock {\em Journal of Revenue \& Pricing Management}, 8(1):67 -- 80, 2009.
+
+\bibitem{Tind_1974}
+J{\o}rgen Tind.
+\newblock Blocking and antiblocking sets.
+\newblock {\em Mathematical Programming}, 6:157--166, 1974.
+
+\bibitem{tirole}
+J~Tirole.
+\newblock {\em The Theory of Corporate Finance}.
+\newblock Princeton University Press, 2006.
+
+\bibitem{titman}
+S~Titman.
+\newblock The effect of capital structure on a firm's liquidation decision.
+\newblock {\em Journal of Financial Economics}, 13:137--151, 1984.
+
+\bibitem{SDPT3}
+K.C. Toh, M.J. Todd, and R.~T\"{u}t\"{u}nc\"{u}.
+\newblock {SDPT3 a MATLAB Software Package for Semidefinite Programming}, 1999.
+
+\bibitem{Toktay_Wein_2001}
+L.~Beril Toktay and Lawrence~M. Wein.
+\newblock Analysis of a forecasting-production-inventory system with stationary
+  demand.
+\newblock {\em Management Science}, 47(9):1268--1281, 2001.
+
+\bibitem{BrianTomlin05012006}
+Brian Tomlin.
+\newblock {On the Value of Mitigation and Contingency Strategies for Managing
+  Supply Chain Disruption Risks}.
+\newblock {\em Management Science}, 52(5):639--657, 2006.
+
+\bibitem{Topkis_1978_submod_func}
+Donald~M. Topkis.
+\newblock {Minimizing a Submodular Function on a Lattice}.
+\newblock {\em OPERATIONS RESEARCH}, 26(2):305--321, 1978.
+
+\bibitem{Topkis_supermod_book}
+Donald~M. Topkis.
+\newblock {\em Supermodularity and Complementarity}.
+\newblock Princeton University Press, 1998.
+
+\bibitem{Truemper}
+K.~Truemper.
+\newblock Algebraic characterizations of unimodular matrices.
+\newblock {\em SIAM Journal on Applied Mathematics}, 35(2):328--332, 1978.
+
+\bibitem{Tsanakas2004223}
+Andreas Tsanakas.
+\newblock Dynamic capital allocation with distortion risk measures.
+\newblock {\em Insurance: Mathematics and Economics}, 35(2):223 -- 243, 2004.
+
+\bibitem{Tsiakis}
+P.~Tsiakis, N.~Shah, and {C. C.} Pantelides.
+\newblock Design of multi-echelon supply chain networks under demand
+  uncertainty.
+\newblock {\em Industrial \&\; Engineering Chemistry Research},
+  40(16):3585--3604, 2001.
+
+\bibitem{Tsoukalas_Wang_Giesecke_2012}
+Gerry Tsoukalas, Jiang Wang, and Kay Giesecke.
+\newblock Dynamic portfolio execution with correlated supply/demand curves.
+\newblock {W}orking paper., 2012.
+
+\bibitem{Tutuncu_Koenig_2004}
+Reha T\"{u}t\"{u}nc\"{u} and M.~Koenig.
+\newblock Robust asset allocation.
+\newblock {\em Annals of Operations Research}, 132(1-4):157--187, November
+  2004.
+
+\bibitem{CananUlu05012009}
+Canan Ulu and James~E. Smith.
+\newblock {Uncertainty, Information Acquisition, and Technology Adoption}.
+\newblock {\em Operations Research}, 57(3):740--752, 2009.
+
+\bibitem{DOL_ERISA_rule}
+{U.S. Department of Labor}.
+\newblock {ERISA Regulation, Document No. E8-23434}.
+\newblock {\em Federal Register}, October 2008.
+
+\bibitem{vairaktarakis2000robust}
+G.L. Vairaktarakis.
+\newblock Robust multi-item newsboy models with a budget constraint.
+\newblock {\em International Journal of Production Economics}, 66(3):213--226,
+  2000.
+
+\bibitem{Vlerk}
+M.~H. van~der Vlerk.
+\newblock Convex approximations for complete integer recourse models.
+\newblock {\em Mathematical Programming}, 99(2):297--310, 2004.
+
+\bibitem{VandBoyd96}
+Lieven Vandenberghe and Stephen Boyd.
+\newblock Semidefinite programming.
+\newblock {\em SIAM Review}, 38(1):49--95, 1996.
+
+\bibitem{Vavasis_quad_prog_92}
+Stephen~A. Vavasis.
+\newblock Approximation algorithms for indefinite quadratic programming.
+\newblock {\em Mathematical Programming}, 57(1-3):279--311, 1992.
+
+\bibitem{Vein66}
+Jr. Veinott, Arthur~F.
+\newblock The status of mathematical inventory theory.
+\newblock {\em Management Science}, 12(11):745--777, 1966.
+
+\bibitem{Veinott_89}
+Jr. Veinott, Arthur~F.
+\newblock Lattice programming.
+\newblock Unpublished notes from lectures delivered at Johns Hopkins
+  University, 1989.
+
+\bibitem{vonneum_morgenst_68}
+John von Neumann and Oskar Morgenstern.
+\newblock {\em {Theory of Games and Economic Behavior}}.
+\newblock Princeton University Press, 1944.
+
+\bibitem{Zackova_66}
+J.~\v{Z}\'{a}\v{c}ov\'{a}.
+\newblock {On Minimax Solution of Stochastic Linear Programming Problems}.
+\newblock {\em \v{C}asopis pro P\v{e}stov\'{a}n\'{i} Matematiky},
+  91(4):423--430, 1966.
+
+\bibitem{Wagner_Whitin_1958}
+Harvey~M. Wagner and Thomson~M. Whitin.
+\newblock Dynamic version of the economic lot size model.
+\newblock {\em {Management Science}}, 5(1):89--96, 1958.
+
+\bibitem{Wagner2010}
+{M. R.} Wagner.
+\newblock Fully distribution-free profit maximization: The inventory management
+  case.
+\newblock {\em Mathematics of Operations Research}, 35(4):728--741, 2010.
+
+\bibitem{Waki_Kim_Kojima_Muramatsu_2006}
+Hayato Waki, Sunyoung Kim, Masakazu Kojima, and Masakazu Muramatsu.
+\newblock Sums of squares and semidefinite program relaxations for polynomial
+  optimization problems with structured sparsity.
+\newblock {\em SIAM J. on Optimization}, 17(1):218--242, 2006.
+
+\bibitem{Waki_Kim_Kojima_Muramatsu_2008}
+Hayato Waki, Sunyoung Kim, Masakazu Kojima, Masakazu Muramatsu, and Hiroshi
+  Sugimoto.
+\newblock Algorithm 883: Sparsepop---a sparse semidefinite programming
+  relaxation of polynomial optimization problems.
+\newblock {\em ACM Trans. Math. Softw.}, 35(2):1--13, 2008.
+
+\bibitem{Wakker_2010}
+Peter~P. Wakker.
+\newblock {\em {Prospect Theory: For Risk and Ambiguity}}.
+\newblock Cambridge University Press, August 2010.
+
+\bibitem{walukiewicz1991integer}
+S.~Walukiewicz.
+\newblock {\em Integer programming}.
+\newblock Kluwer Academic Publishers, 1991.
+
+\bibitem{Wang_2000}
+Shaun~S. Wang.
+\newblock {A Class of Distortion Operators for Pricing Financial and Insurance
+  Risks}.
+\newblock {\em The Journal of Risk and Insurance}, 67(1):pp. 15--36, 2000.
+
+\bibitem{BoydWang2009}
+Yang Wang and Stephen Boyd.
+\newblock {Performance Bounds for Linear Stochastic Control}.
+\newblock {\em Systems \& Control Letters}, 58(3):178 -- 182, 2009.
+
+\bibitem{Wang2009}
+Z.~Wang, {P. W} Glynn, and Y.~Ye.
+\newblock Likelihood robust optimization for data-driven newsvendor problems.
+\newblock Technical report, Working paper, 2009.
+
+\bibitem{weber06:distInvrm}
+S.~Weber.
+\newblock Distribution-invariant risk measures, information, and dynamic
+  consistency.
+\newblock {\em Mathematical finance}, 16(2):419--442, 2006.
+
+\bibitem{wedelin_1995}
+Dag Wedelin.
+\newblock {An Algorithm for Large Scale 0--1 Integer Programming with
+  Application to Airline Crew Scheduling}.
+\newblock {\em Annals of Operations Research}, 57:283--301, 1995.
+
+\bibitem{Wei2011}
+C.~Wei, Y.~Li, and X.~Cai.
+\newblock Robust optimal policies of production and inventory with uncertain
+  returns and demand.
+\newblock {\em International Journal of Production Economics}, 134(2):357--367,
+  2011.
+
+\bibitem{WKR13:robust_mdps}
+W.~Wiesemann, D.~Kuhn, and B.~Rustem.
+\newblock Robust {M}arkov decision processes.
+\newblock {\em Mathematics of Operations Research}, 38(1):153--183, 2014.
+
+\bibitem{WKS14:DRCO}
+W.~Wiesemann, D.~Kuhn, and M.~Sim.
+\newblock Distributionally robust convex optimization.
+\newblock {\em Operations Research}, 62(6):1358--1376, 2014.
+
+\bibitem{Wiesemann_Kuhn_Rusten}
+Wolfram Wiesemann, Daniel Kuhn, and Berc Rustem.
+\newblock Robust resource allocations in temporal networks.
+\newblock {\em Mathematical Programming}, 135:437--471, 2012.
+
+\bibitem{LynnWirch1999337}
+Julia~Lynn Wirch and Mary~R. Hardy.
+\newblock A synthesis of risk measures for capital adequacy.
+\newblock {\em Insurance: Mathematics and Economics}, 25(3):337 -- 347, 1999.
+
+\bibitem{Witsenhausen_1966_thesis}
+Hans~S. Witsenhausen.
+\newblock {\em Minimax Control of Uncertain Systems}.
+\newblock PhD thesis, Massachusetts Institute of Technology, Cambridge MA, USA,
+  1966.
+
+\bibitem{Witsenhaus_paper_1968}
+Hans~S. Witsenhausen.
+\newblock Sets of possible states of linear systems given perturbed
+  observations.
+\newblock {\em {IEEE Transactions on Automatic Control}}, AC(13), 1968.
+
+\bibitem{Xin2013}
+L.~Xin, {D. A.} Goldberg, and A.~Shapiro.
+\newblock Distributionally robust multistage inventory models with moment
+  constraints.
+\newblock {\em Working paper}, 2013.
+
+\bibitem{XuTSROCopos}
+G.~Xu and S.~Burer.
+\newblock A copositive approach for two-stage adjustable robust optimization
+  with uncertain right-hand sides.
+\newblock {\em working paper}, 2016.
+
+\bibitem{Xuetal:rrsvm}
+H.~Xu, C.~Caramanis, and S.~Mannor.
+\newblock Robustness and regularization of support vector machines.
+\newblock {\em Journal of Machine Learning Research}, 10:1485--1510, 2009.
+
+\bibitem{birge4}
+X~Xu and JR~Birge.
+\newblock Joint production and financing decisions: Modeling and analysis.
+\newblock {W}orking Paper, 2004.
+
+\bibitem{Yaari_1987}
+Menahem~E. Yaari.
+\newblock The dual theory of choice under risk.
+\newblock {\em Econometrica}, 55(1):95--115, January 1987.
+
+\bibitem{Yamashita_2007}
+Denise~Sato Yamashita, Vin\'{\i}cius~Amaral Armentano, and Manuel Laguna.
+\newblock Robust optimization models for project scheduling with resource
+  availability cost.
+\newblock {\em Journal of Scheduling}, 10(1):67--76, 2007.
+
+\bibitem{Ye_1992}
+Yinyu Ye.
+\newblock On the finite convergence of interior-point algorithms for linear
+  programming.
+\newblock {\em Mathematical Programming}, 57:325--335, 1992.
+
+\bibitem{Yinyu_Ye_99}
+Yinyu Ye.
+\newblock Approximating global quadratic optimization with convex quadratic
+  constraints.
+\newblock {\em Journal of Global Optimization}, 15:1--17, 1999.
+
+\bibitem{Young_1995}
+H.~Peyton Young.
+\newblock {\em Equity: In Theory and Practice}.
+\newblock Princeton University Press, 1995.
+
+\bibitem{Y07:spatial}
+Z.~Yu.
+\newblock Spatial energy market risk analysis using the semivariance risk
+  measure.
+\newblock {\em Energy Systems}, 29(8):600--608, 2007.
+
+\bibitem{Zaslavski_Cambini_Schaible_05}
+Alexander Zaslavski, Alberto Cambini, Laura Martein, and Siegfried Schaible.
+\newblock {On the Pseudoconvexity of the Sum of Two Linear Fractional
+  Functions}.
+\newblock In {\em Generalized Convexity, Generalized Monotonicity and
+  Applications}, volume~77 of {\em Nonconvex Optimization and Its
+  Applications}, pages 161--172. Springer US, 2005.
+
+\bibitem{zeng2013solving}
+B.~Zeng and L.~Zhao.
+\newblock Solving two-stage robust optimization problems using a
+  column-and-constraint generation method.
+\newblock {\em Operations Research Letters}, 41(5):457 -- 461, 2013.
+
+\bibitem{Zhang_Mersereau_2009}
+Dan Zhang and Adam Mersereau.
+\newblock Estimation, pricing and strategic customer behavior.
+\newblock {W}orking Paper, November 2009.
+
+\bibitem{JunZhang10012005}
+Jun Zhang.
+\newblock {Transshipment and Its Impact on Supply Chain Members' Performance}.
+\newblock {\em Management Science}, 51(10):1534--1539, 2005.
+
+\bibitem{zhao2013:msrouc}
+C.~Zhao, J.Wang, {J.P.} Watson, and Y.Guan.
+\newblock Multi-stage robust unit commitment considering wind and demand
+  response uncertainties.
+\newblock {\em IEEE Transactions on Power Systems}, 28(3):2708--2717, 2013.
+
+\bibitem{Wen_Zhao_2000}
+Wen Zhao and Yu-Sheng Zheng.
+\newblock {Optimal Dynamic Pricing for Perishable Assets with Nonhomogeneous
+  Demand}.
+\newblock {\em Management Science}, 46(3):375--388, 2000.
+
+\bibitem{Zhou98}
+K.~Zhou and J.~C. Doyle.
+\newblock {\em {Essentials of Robust Control}}.
+\newblock Prentice Hall, 1998.
+
+\bibitem{Zhu_Fukushima_2009}
+S.~Zhu and M.~Fukushima.
+\newblock Worst-case conditional value-at-risk with application to robust
+  portfolio management.
+\newblock {\em Operations Research}, 57(5):1155--1168, 2009.
+
+\bibitem{Ziegl03}
+G.~Ziegler.
+\newblock {\em {Lectures on Polytopes}}.
+\newblock Springer, 2nd edition, 2003.
+
+\bibitem{ZipkBook}
+P.~Zipkin.
+\newblock {\em {Foundations of Inventory Management}}.
+\newblock McGraw Hill, 2000.
+
+\bibitem{Zipkin_2008_old_new_ls}
+Paul Zipkin.
+\newblock Old and new methods for lost-sales inventory systems.
+\newblock {\em {Operations Research}}, 56(5):1256--1263, September/October
+  2008.
+
+\bibitem{Zipkin_lost_Sales_struct_2008}
+Paul Zipkin.
+\newblock On the structure of lost-sales inventory models.
+\newblock {\em Operations Research}, 56(4):937--944, July/August 2008.
+
+\bibitem{Pena_Zuluaga_conic}
+Luis~F. Zuluaga and Javier~F. Pena.
+\newblock {A Conic Programming Approach to Generalized Tchebycheff
+  Inequalities}.
+\newblock {\em MATHEMATICS OF OPERATIONS RESEARCH}, 30(2):369--388, 2005.
+
+\bibitem{Zymler_and_coworkers:portfolios}
+S.~Zymler, D.~Kuhn, and B.~Rustem.
+\newblock Worst-case value at risk of nonlinear portfolios.
+\newblock {\em Management Science}, 59(1):172--188, 2013.
+
+\bibitem{Zymler2013}
+Steve Zymler, Daniel Kuhn, and Ber{\c{c}} Rustem.
+\newblock Distributionally robust joint chance constraints with second-order
+  moment information.
+\newblock {\em Mathematical Programming}, 137(1):167--198, 2013.
+
+\bibitem{Wiggins:2008}
+J.~˜Wiggins.
+\newblock {Hedging is Second Nature for Food Groups}.
+\newblock {\em The Financial Times.}, 2008.
+
+\bibitem{WigginsBlas:2008}
+J.~˜Wiggins and J.~˜Blas.
+\newblock {Hedging Becomes Food and Drink to the Makers of Consumer Goods}.
+\newblock {\em The Financial Times.}, 2008.
+
+\end{thebibliography}

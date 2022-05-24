@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Paper_GERAD_template.aux
+The style file: plain.bst
+Database file #1: biblio.bib
+Reallocated field_info (elt_size=4) to 10014 items from 5000.
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Reallocated field_info (elt_size=4) to 15028 items from 10014.
+Reallocated field_info (elt_size=4) to 20042 items from 15028.
+You've used 736 entries,
+            2118 wiz_defined-function locations,
+            4377 strings with 111887 characters,
+and the built_in function-call counts, 230003 in all, are:
+= -- 22911
+> -- 10025
+< -- 68
++ -- 4000
+- -- 3183
+* -- 16615
+:= -- 39061
+add.period$ -- 2236
+call.type$ -- 736
+change.case$ -- 3723
+chr.to.int$ -- 0
+cite$ -- 736
+duplicate$ -- 8242
+empty$ -- 18341
+format.name$ -- 3183
+if$ -- 47654
+int.to.chr$ -- 0
+int.to.str$ -- 736
+missing$ -- 727
+newline$ -- 3682
+num.names$ -- 1502
+pop$ -- 3018
+preamble$ -- 1
+purify$ -- 3047
+quote$ -- 0
+skip$ -- 5656
+stack$ -- 0
+substring$ -- 16026
+swap$ -- 1037
+text.length$ -- 68
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 2778
+warning$ -- 0
+while$ -- 2270
+width$ -- 739
+write$ -- 8002

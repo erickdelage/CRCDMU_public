@@ -1,0 +1,163 @@
+%\documentclass[gdplain]{geradwp}
+\documentclass[gdplain]{geradwp}
+
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{algorithm2e}
+\usepackage{hyperref}
+\graphicspath{{Figures/}} % graphicx pkg setup
+\hypersetup{colorlinks,%
+citecolor={blue}, % Change for "black" with natbib
+urlcolor={blue},
+linkcolor={blue},
+breaklinks={true}
+}
+
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%% Commands Erick created to help %%%%%%%%%%%%
+%% %%%%%%%% English authors and easire conversion %%%%%%%%%%%%%%%
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand{\title}[1]{\GDtitre{#1}}
+\renewcommand{\date}[1]{\GDannee{#1}}
+
+
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%% Début - commandes de l'auteur %%%%%%%%%%%%
+%% %%%%%%%% Start of author commands %%%%%%%%%%%%%%%
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{amsmath, amsfonts, amsthm, amssymb}
+\usepackage{authblk, color, bm, graphicx}
+%usepackage[margin = 1.5cm, font = small, labelfont = bf, labelsep = period]{caption}
+\usepackage{xspace}
+%\usepackage{setspace}
+%\singlespacing
+
+\newtheorem{definition}{Definition}[]
+\newtheorem{ex}{Example}[]
+\newtheorem{theorem}{Theorem}[]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{assumption}{Assumption}[]
+\newtheorem{remark}{Remark}[]
+
+
+\def\Expect{{\mathbb E}}
+\def\Prob{{\mathbb P}}
+\def\minimize{\mathop{\rm minimize}}
+\def\maximize{\mathop{\rm maximize}}
+\def\subto{{\rm subject \mbox{   }\rm to}}
+\def\min{\mathop{\rm min}}
+\def\max{\mathop{\rm max}}
+\def\argmax{\mathop{\rm argmax}}
+\def\argmin{\mathop{\rm argmin}}
+\def\sup{\mathop{\rm sup}}
+\def\inf{\mathop{\rm inf}}
+\newcommand{\ie}{{\it i.e., }}
+\newcommand{\eg}{\textit{e.g.}}
+\newcommand{\V}[1]{{{\boldsymbol #1}}}
+\newcommand{\x}{\V{x}}
+\newcommand{\X}{\mathcal{X}}
+\newcommand{\e}{\V{e}}
+\newcommand{\0}{\V{0}}
+\newcommand{\1}{\V{1}}
+\newcommand{\Dist}{\mathcal{D}}
+\newcommand{\mymbox}[1]{\mbox{\scriptsize #1}}
+\renewcommand{\Re}{\mathbb{R}}
+\newcommand{\quoteIt}[1]{``#1''}
+\newcommand{\support}[1]{\1_{[#1]}}
+\newcommand{\Halmos}{{\qed}}
+\newcommand{\eye}{{I}} %I matrix
+
+\newcommand{\EDmodified}[1]{{\color{red} #1}}
+\newcommand{\EDcomments}[1]{{\EDmodified{Erick commented: #1}}}
+%\newcommand{\EDcomments}[1]{{}}
+\newcommand{\modified}[1]{{\color{blue} #1}}
+\newcommand{\removed}[1]{{}}
+
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%%% Fin - commandes de l'auteur %%%%%%%%%%%%%
+%% %%%%%%%%% End of author commands %%%%%%%%%%%%%%%%
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%%%%%% Métadonnées du cahier  %%%%%%%%%%%%%%%
+%% %%%%%%%%%% Working paper metadata %%%%%%%%%%%%%%%
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\GDtitre{This is the title}
+%\GDmois{Mai}{May}
+%\GDannee{2021}
+%\GDnumero{XX}
+%\GDauteursCourts{E. Delage, J. Doe}
+%\GDauteursCopyright{}
+%\GDpostpubcitation{Hamel, Benoit, Karine H\'ebert (2021). \og Un exemple de citation \fg, \emph{Journal of Journals}, vol. X issue Y, p. n-m}{https://www.gerad.ca/fr}
+%\GDrevised{Mai 2021}
+
+\title{This is the title}
+\date{\today}
+
+\begin{document} 
+
+\GDpageCouverture
+
+\begin{GDpagetitre}
+
+\begin{GDauthlist}
+\GDauthitem{Erick Delage \ref{affil:geradHEC}}
+\GDauthitem{John Doe \ref{affil:other}}%\GDrefsep\ref{affil:geradHEC}}
+\end{GDauthlist}
+
+\begin{GDaffillist}
+\GDaffilitem{affil:geradHEC}{GERAD \& HEC Montr\'eal, Montr\'eal (Qc), Canada, H3T 2A7}
+\GDaffilitem{affil:other}{The other university, XXX, XX, USA}
+\end{GDaffillist}
+
+\begin{GDemaillist}
+\GDemailitem{erick.delage@hec.ca}
+\GDemailitem{john.doe@xxx.com}
+\end{GDemaillist}
+
+\end{GDpagetitre}
+
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%%%%% Résumés, mots-clés, remerciements %%%%%%%%%%%
+%% %%%%%%% Abstract, keywords, acknowledgements %%%%%%%%%%
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\GDabstracts
+
+\begin{GDabstract}{Abstract}
+Write your abstract here...
+
+\paragraph{Keywords: }
+Here
+\end{GDabstract}
+
+%\begin{GDabstract}{R\'esum\'e}
+%R\'edigez votre r\'esum\'e ici...
+
+%\paragraph{Mots cl\'es\,: }
+%Here
+
+%\end{GDabstract} 
+
+\begin{GDacknowledgements}
+The first author was supported by the Canadian Natural Sciences and Engineering Research Council [Grant RGPIN-2016-05208 and 492997-2016]
+\end{GDacknowledgements}
+
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%%%%%%%%%%%% Article %%%%%%%%%%%%%%%%%%%%%%%%
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\GDarticlestart
+Write your article article.
+
+\section{XXX}
+
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{biblio}
+
+\end{document}
+\endinput
