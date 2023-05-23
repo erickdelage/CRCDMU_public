@@ -62,12 +62,12 @@ also the possibility to install commercial software such as MATLAB, all you need
     
 - A good practice is to have your working files in the $SCRATCH directory. Submitting jobs from directories residing in /home is not permitted. Transfer your files to a directory in /scratch or /project and submit jobs from there.
     
-- Example of creating a script launch_script.sh and running a python file through it using **sbatch**. This script is set up to run on Beluga.
+- Example of creating a script launch_script.sh and running a python file through it using **sbatch**. This script is set up to run on Niagara but we encourage you to be using Beluga with the account rrg-adulyasa.
 
         #!/bin/bash
         #SBATCH --job-name=RLTest
         #SBATCH --mail-user=your_email
-        #SBATCH --account=rrg-adulyasa #use either rrg-adulyasa (Beluga), rrg-edelage (Cedar), or def-edelage (others)
+        #SBATCH --account=def-edelage #use either rrg-adulyasa (Beluga), rrg-edelage (Cedar), or def-edelage (others)
         #SBATCH --ntasks=1
         #SBATCH --mem-per-cpu=2G
         #SBATCH --cpus-per-task=1
