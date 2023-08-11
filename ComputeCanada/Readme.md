@@ -62,11 +62,12 @@ also the possibility to install commercial software such as MATLAB, all you need
     
 - A good practice is to have your working files in the $SCRATCH directory. Submitting jobs from directories residing in /home is not permitted. Transfer your files to a directory in /scratch or /project and submit jobs from there.
     
-- Example of creating a script launch_script.sh and running a python file through it using **sbatch**.
+- Example of creating a script launch_script.sh and running a python file through it using **sbatch**. This script is set up to run on Niagara but we encourage you to be using Beluga with the account rrg-adulyasa.
 
         #!/bin/bash
         #SBATCH --job-name=RLTest
         #SBATCH --mail-user=your_email
+        #SBATCH --account=def-edelage #use either rrg-adulyasa (Beluga), rrg-edelage (Cedar), or def-edelage (others)
         #SBATCH --ntasks=1
         #SBATCH --mem-per-cpu=2G
         #SBATCH --cpus-per-task=1
@@ -145,7 +146,7 @@ You could also check the intermediate results and output of your commands logged
         #SBATCH --gres=gpu:v100l:1        # request GPU, here V100
         #SBATCH --cpus-per-task=8   # maximum CPU cores per GPU request: 6 on Cedar, 16 on Graham.
         #SBATCH --mem=0               # Request the full memory of the node
-        #SBATCH --account=def-edelage
+        #SBATCH --account=rrg-edelage
         #SBATCH --job-name=Name_of_your_task
         #SBATCH --mail-user=Your_email
         #SBATCH --mail-type=ALL
